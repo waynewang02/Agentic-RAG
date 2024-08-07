@@ -8,7 +8,7 @@ from langchain_community.llms.ollama import Ollama
 
 
 class RAGSystem:
-    def __init__(self, data_dir_path = "data", db_path = "chroma") -> None:
+    def __init__(self, data_dir_path = "pdf", db_path = "chroma") -> None:
         print("inside rag system")
         self.data_directory = data_dir_path
         self.db_path = db_path
@@ -93,12 +93,14 @@ class RAGSystem:
         loader = PyPDFDirectoryLoader(self.data_directory)
         pages = loader.load()
         return pages
-    
+        
     def _document_splitter(self, documents):
+        def word_count(documents):
+            return len(documents.split())
         splitter = RecursiveCharacterTextSplitter(
                 chunk_size=400,
                 chunk_overlap=100,
-                length_function=len,
+                length_function=word_count,
                 is_separator_regex=False,
         )
         return splitter.split_documents(documents)
