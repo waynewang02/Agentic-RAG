@@ -1,4 +1,12 @@
-The project pulled from https://github.com/deekshakoul/RAG-with-Langchain-Ollama-for-pdfs and modified by Alan.
+The project pulled from [this project](https://github.com/deekshakoul/RAG-with-Langchain-Ollama-for-pdfs) and modified by Alan.
+Modified splitter function: `rag_system.py`
+
+    splitter = RecursiveCharacterTextSplitter(
+            chunk_size=400,
+            chunk_overlap=100,
+            length_function=word_count, # from len to word_count
+            is_separator_regex=False,
+    )
 
 # Objective
 
