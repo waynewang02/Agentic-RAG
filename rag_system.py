@@ -16,16 +16,29 @@ class RAGSystem:
         self.llm_model = "llama3"
         self._setup_collection() 
         self.model = Ollama(model=self.llm_model)
+        # self.prompt_template = """
+        #                         Use the following pieces of context to answer the question at the end. 
+        #                         If you don't know the answer, just say that you are unsure.
+        #                         Don't try to make up an answer.
+
+        #                         {context}
+
+        #                         Question: {question}
+        #                         Answer:
+        #                         """
         self.prompt_template = """
-                                Use the following pieces of context to answer the question at the end. 
-                                If you don't know the answer, just say that you are unsure.
-                                Don't try to make up an answer.
-
-                                {context}
-
-                                Question: {question}
-                                Answer:
-                                """
+            Answer the question: {context}. 
+            ---
+            Answer the question based on the above context: {question}. Search the context title first.
+            Do not make up answers or use outside information.
+            Reply with section titles that are relevant to the answers.
+            Reply in the format: {{"answer": "your_answer_here", "source": "your_section_title_here"}} 
+            and if the answer contain multiple answers, then combine to one single answer
+            and reply in the format:
+            {{"answer": "answer1, answer2, answer3, etc", "source": "source1, source2, source3, etc"}}
+            and if you dont know the answer then reply
+            {{"answer": "I dont know", "source": "N/A"}}
+        """
 
     def _setup_collection(self):
         pages = self._load_documents()
