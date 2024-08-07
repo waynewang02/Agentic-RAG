@@ -1,3 +1,5 @@
+The project pulled from https://github.com/deekshakoul/RAG-with-Langchain-Ollama-for-pdfs and modified by Alan.
+
 # Objective
 
 Develop a Retrieval-Augmented Generation (RAG) based AI system capable of answering questions about yourself.
