@@ -16,16 +16,17 @@ class RAGSystem:
         self.llm_model = "llama3"
         self._setup_collection() 
         self.model = Ollama(model=self.llm_model)
+        # Default prompt
         # self.prompt_template = """
-        #                         Use the following pieces of context to answer the question at the end. 
-        #                         If you don't know the answer, just say that you are unsure.
-        #                         Don't try to make up an answer.
+            # Use the following pieces of context to answer the question at the end. 
+            # If you don't know the answer, just say that you are unsure.
+            # Don't try to make up an answer.
 
-        #                         {context}
+            # {context}
 
-        #                         Question: {question}
-        #                         Answer:
-        #                         """
+            # Question: {question}
+            # Answer:
+        #"""
         self.prompt_template = """
             Answer the question: {context}. 
             ---
@@ -43,7 +44,7 @@ class RAGSystem:
     def _setup_collection(self):
         pages = self._load_documents()
         chunks = self._document_splitter(pages)
-        chunks = self._get_chunk_ids(chunks)  
+        chunks = self._get_chunk_ids(chunks)
         vectordb = self._initialize_vectorDB()
         present_in_db = vectordb.get()
         ids_in_db = present_in_db["ids"]
@@ -127,4 +128,8 @@ class RAGSystem:
             persist_directory = self.db_path,
             embedding_function = self._get_embedding_func(),
         )
+    # prompt = "What is the signal word?"
+    # prompt = "What is the first aid measures of inhalation?"
+    # prompt = "What is the first aid measures of swallowing?"
+
 
