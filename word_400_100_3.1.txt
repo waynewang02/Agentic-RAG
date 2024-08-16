@@ -1,0 +1,65 @@
+What is the product identifier?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "Answer the question: 3M™ Hi-Strength  Spray Adhesive 90      01/05/17"}
+
+
+When was the Safety Data Sheet issued?
+{"answer": "01/05/17", "source": "SECTION 4: Page of Carbon monoxide During Combustion"}
+
+
+What is the product description?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "Page 1 of 12 Symbols"}
+
+
+Who is the manufacturer of the product?
+{"answer": "3M", "source": "Title"}
+
+
+What is the emergency telephone number for the product?
+{"answer": "Call a POISON CENTER or doctor/physician.", "source": "Response"}
+
+
+What are the hazard classifications associated with the product?
+Based on the provided context:
+
+{"answer": "Fire Hazard, Pressure Hazard, Immediate Hazard", "source": "311/312 Hazard Categories:"}
+
+
+What is the signal word used for the product?
+{"answer": "Flame, Gas cylinder, Exclamation mark, Health Hazard", "source": "Pictograms"}
+
+
+What are the hazard statements related to the product?
+{"answer": "Extremely flammable aerosol.  Contains gas under pressure; may explode if heated. Causes eye irritation.  May cause  respiratory irritation. May cause  drowsiness  or dizziness. May displace oxygen and cause rapid suffocation. Causes damage to organs: cardiovascular system", "source": "Hazard Statements"}
+
+
+What precautions should be taken while handling the product?
+{"answer": "Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not spray on an open flame or other ignition source. Pressurized container: Do not pierce or burn, even after use. Do not breathe dust/fume/gas/mist/vapors/spray. Use only outdoors or in a well-ventilated area. Do not eat, drink or smoke when using this product. Wash thoroughly after handling.", "source": "Prevention"}
+
+
+What are the first aid measures in case of inhalation?
+Based on the context provided:
+
+{"answer": "Remove person to fresh air and keep comfortable for breathing", "source": "Response"}
+
+
+What are the first aid measures in case of skin contact?
+{"answer": "I dont know", "source": "N/A"} 
+
+Note: The provided context does not specify first aid measures in case of skin contact. However, it provides general precautionary statements and specific treatment for inhalation and eye irritation.
+
+
+What are the first aid measures in case of eye contact?
+{"answer": "Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention.", "source": "Response"}
+
+
+What are the first aid measures in case of ingestion?
+Based on the provided context, the relevant section is:
+
+**Response:**
+
+The first aid measures in case of ingestion are not explicitly stated in this section. However, there is a statement that suggests general advice and caution, but no specific guidance for ingestion.
+
+Therefore, the answer is:
+{"answer": "I dont know", "source": "Response:"}
+
+

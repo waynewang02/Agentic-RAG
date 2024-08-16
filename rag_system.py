@@ -9,11 +9,11 @@ from langchain_community.llms.ollama import Ollama
 
 class RAGSystem:
     def __init__(self, data_dir_path = "pdf", db_path = "chroma") -> None:
-        print("inside rag system")
+        # print("inside rag system")
         self.data_directory = data_dir_path
         self.db_path = db_path
-        self.model_name = "llama3"
-        self.llm_model = "llama3"
+        self.model_name = "llama3.1"
+        self.llm_model = "llama3.1"
         self._setup_collection() 
         self.model = Ollama(model=self.llm_model)
         # Default prompt
@@ -86,12 +86,12 @@ class RAGSystem:
     
     def _retrieve_context_from_query(self, query_text):
         vectordb = self._initialize_vectorDB()
-        context = vectordb.similarity_search_with_score(query_text, k=1)
+        context = vectordb.similarity_search_with_score(query_text, k=4)
         return context
     
     def _get_prompt(self, query_text):
         context = self._retrieve_context_from_query(query_text)
-        print(f" ***** CONTEXT ******{context} \n")
+        # print(f" ***** CONTEXT ******{context} \n")
         context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in context])
         prompt_template = ChatPromptTemplate.from_template(self.prompt_template)
         prompt = prompt_template.format(context=context_text, question=query_text)
@@ -100,7 +100,7 @@ class RAGSystem:
     def answer_query(self, query_text):
         prompt = self._get_prompt(query_text)
         response_text = self.model.invoke(prompt)
-        formatted_response = f"Response: {response_text}\n"
+        formatted_response = f"{response_text}\n"
         return formatted_response
 
     def _load_documents(self):
@@ -112,6 +112,8 @@ class RAGSystem:
         def word_count(documents):
             return len(documents.split())
         splitter = RecursiveCharacterTextSplitter(
+                # chunk_size=400,
+                # chunk_overlap=100,
                 chunk_size=400,
                 chunk_overlap=100,
                 length_function=word_count,

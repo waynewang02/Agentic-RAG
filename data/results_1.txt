@@ -1,0 +1,10 @@
+What is the product identifier?
+Based on the provided context, I found the product identifier in the title of the document.
+
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "Title"}
+
+
+When was the Safety Data Sheet issued?
+{"answer": "01/05/17", "source": "Reproductive Toxicity"}
+
+

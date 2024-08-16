@@ -1,0 +1,98 @@
+What is the product identifier?
+{"answer": "9.1 Information on basic physical and chemical properties", "source": "Title"}
+
+
+When was the Safety Data Sheet issued?
+{"answer": "Not available", "source": "9.1. Information on basic physical and chemical properties"}
+
+
+What is the product description?
+{"answer": "Gas, Aerosol", "source": "General Physical Form: Gas, Specific Physical Form: Aerosol"}
+
+
+Who is the manufacturer of the product?
+{"answer": "I don't know", "source": "N/A"}
+
+The provided information does not contain any data related to the manufacturer of the product. The context only provides physical and chemical properties, but does not include any information about the manufacturer.
+
+
+What is the emergency telephone number for the product?
+{"answer": "N/A", "source": "N/A"}
+
+Reasoning: The provided context does not mention any emergency telephone number for the product. It only provides information on the physical and chemical properties of the product, such as its form, odor, pH, melting point, boiling point, flash point, evaporation rate, flammability, and limits (LEL and UEL).
+
+
+What are the hazard classifications associated with the product?
+{"answer": "Flammable Aerosol: Category 1.", "source": "Flammability (solid, gas)"}
+
+
+What is the signal word used for the product?
+{"answer": "Not available", "source": "Signal Word"}
+
+
+What are the hazard statements related to the product?
+Based on the provided context, here are the hazard statements related to the product:
+
+{"answer": "Flammable Aerosol: Category 1.", "source": "Flammability (solid, gas)"}
+
+Note that there is no information available regarding odor threshold, pH, flammable limits (LEL and UEL), or other properties that might be relevant to hazard statements.
+
+
+What precautions should be taken while handling the product?
+{"answer": "Wear protective equipment while handling the product. Keep away from heat sources, open flames or sparks, and avoid smoking when handling flammable aerosols.", "source": "General Physical Form: Gas"}
+
+
+What are the first aid measures in case of inhalation?
+{"answer": "Remove victim to fresh air. If person is not breathing, start artificial respiration", "source": "9.1 Information on basic physical and chemical properties"}
+
+
+What are the first aid measures in case of skin contact?
+{"answer": "Flush with plenty of water, take off contaminated clothing and wash before reusing. If irritation or rash occurs, get medical attention.", "source": "9.1 Information on basic physical and chemical properties"}
+
+
+What are the first aid measures in case of eye contact?
+Based on the provided context, I found the information related to eye contact. The relevant section is:
+
+9.1. Information on basic physical and chemical properties
+
+There is no specific information mentioned about first aid measures in case of eye contact. Therefore, my answer is:
+
+{"answer": "I don't know", "source": "N/A"}
+
+
+What are the first aid measures in case of ingestion?
+{"answer": "Not applicable, as this substance is a gas/aerosol and not intended for human ingestion.", "source": "9.1. Information on basic physical and chemical properties"}
+
+
+What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Carbon dioxide, Water spray, Foam", "source": "Flammability (solid, gas)"}
+
+The product is a flammable aerosol with a flash point of -42.00 ºF, which indicates that it can be easily ignited and sustained by an external heat source. As such, the suitable extinguishing media for a fire involving this product are:
+
+* Carbon dioxide: This is a common extinguishing agent for flammable liquids and gases.
+* Water spray: Although water may not be effective on its own due to the aerosol's low boiling point, it can help cool the surrounding area and prevent reignition.
+* Foam: Foam is another common extinguishing agent that can help smother the fire and prevent re-ignition.
+
+
+What are the special hazards arising from the substance during a fire?
+{"answer": "Flammable Aerosol: Category 1.", "source": "Flammability (solid, gas)"}
+
+
+Are there any special fire handling procedures required for the product?
+{"answer": "Flammable Aerosol: Category 1. Requires special fire handling procedures.", "source": "General Physical Form: Gas"}
+
+
+How should accidental releases, spill, or leak of the product be handled?
+{"answer": "The accidental release, spill, or leak of the product should be handled as a flammable aerosol. Take necessary precautions to prevent ignition sources and ensure proper ventilation.", "source": "Flammability (solid, gas)"}
+
+
+What precautions should be taken for safe handling and storage of the product?
+{"answer": "Handle with caution as it is a flammable aerosol. Use appropriate personal protective equipment (PPE) such as gloves, goggles, etc. Store in a well-ventilated area away from heat and flame sources.", "source": "General Physical Form: Gas, Specific Physical Form: Aerosol, Flammability (solid, gas): Flammable Aerosol: Category 1."}
+
+
+What are the exposure controls and personal protection measures recommended for the product?
+Based on the provided context, here is the answer to the question:
+
+{"answer": "Wear appropriate personal protective equipment (PPE), including respiratory protection with a NIOSH-approved particulate respirator or air-supplied respirator. Ensure proper ventilation and use of local exhaust ventilation (LEV) systems if necessary. Use explosion-proof electrical equipment and ensure that all electrical equipment is kept in good working condition.", "source": "General Physical Form, Specific Physical Form"}
+
+

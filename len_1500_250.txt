@@ -1,0 +1,56 @@
+What is the product identifier?
+{"answer": "9.1.", "source": "Context Title"}
+
+
+When was the Safety Data Sheet issued?
+{"answer": "Not available", "source": "9. Information on basic physical and chemical properties"}
+
+
+What is the product description?
+{"answer": "Gas, Aerosol", "source": "General Physical Form: Gas, Specific Physical Form:  Aerosol"}
+
+
+Who is the manufacturer of the product?
+{"answer": "I don't know", "source": "General Information"}
+
+
+What is the emergency telephone number for the product?
+{"answer": "I don't know", "source": "Information on basic physical and chemical properties"}
+
+
+What are the hazard classifications associated with the product?
+{"answer": "Flammable Aerosol: Category 1.", "source": "Flammability (solid, gas)"}
+
+Note: The only hazard classification mentioned in the context is the flammable aerosol category.
+
+
+What is the signal word used for the product?
+{"answer": "None", "source": "Specific Target Organ Toxicity"}
+
+
+What are the hazard statements related to the product?
+{"answer": "Flammable Aerosol: Category 1.", "source": "9.1. Information on basic physical and chemical properties"}
+
+
+What precautions should be taken while handling the product?
+{"answer": "Flammable Aerosol: Category 1. Wear protective clothing and gear to prevent ignition sources.", "source": "General Physical Form, Specific Physical Form, Flammability (solid, gas)"}
+
+Note: The product is a flammable aerosol, so precautions should be taken to prevent ignition sources, such as wearing protective clothing and gear.
+
+
+What are the first aid measures in case of inhalation?
+{"answer": "Fresh air. If symptoms persist or worsen, seek medical attention.", "source": "9.1."}
+
+
+What are the first aid measures in case of skin contact?
+{"answer": "Flush with water", "source": "9.1. Information on basic physical and chemical properties"}
+
+
+What are the first aid measures in case of eye contact?
+{"answer": "Flush eyes with plenty of water, then bathe the person as soon as possible. Remove contact lenses, if present, before flushing.", "source": "9.1. Information on basic  physical and chemical  properties"}
+
+
+What are the first aid measures in case of ingestion?
+{"answer": "If accidentally ingested, seek medical attention immediately.", "source": "Information on basic  physical and chemical  properties"}
+
+

@@ -1,0 +1,58 @@
+What is the product identifier?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "Context title"}
+
+
+When was the Safety Data Sheet issued?
+{"answer": "01/05/17", "source": "Hazard Statements"}
+
+
+What is the product description?
+Based on the context title: **3M™ Hi-Strength Spray Adhesive 90**, there is no explicit product description in the provided text. However, we can infer that it's a type of adhesive based on the name.
+
+Since the answer is not explicitly stated and I'm unable to make an assumption beyond the information provided, my best response would be:
+
+{"answer": "3M Hi-Strength Spray Adhesive", "source": "Title"}
+
+
+Who is the manufacturer of the product?
+{"answer": "3M", "source": "Symbols"}
+
+
+What is the emergency telephone number for the product?
+Since there is no emergency telephone number mentioned in the provided context, the answer would be:
+
+{"answer": "I dont know", "source": "N/A"}
+
+
+What are the hazard classifications associated with the product?
+{"answer": "Health: 2 Flammability: 4 Instability: 0 Special Hazards: None", "source": "SECTION 16: Other information, NFPA Hazard Classification"}
+
+
+What is the signal word used for the product?
+{"answer": "Health Hazard | Flame", "source": "Symbols"}
+
+
+What are the hazard statements related to the product?
+{"answer": "Respiratory Sensitization; Germ Cell Mutagenicity; Carcinogenicity", "source": "Human: Respiratory Sensitization, Ger m Cell Mutagenicity, Carcinogenicity"}
+
+
+What precautions should be taken while handling the product?
+{"answer": "Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not spray on an open flame or other ignition source. Pressurized container: Do not pierce or burn, even after use. Do not breathe dust/fume/gas/mist/vapors/spray. Use only outdoors or in a well-ventilated area. Do not eat, drink or smoke when using this product. Wash thoroughly after handling.", "source": "Prevention:"}
+
+
+What are the first aid measures in case of inhalation?
+{"answer": "I don't have that information in this context", "source": "IF IN EYES: IF exposed: Notes to Physician:"}
+
+
+What are the first aid measures in case of skin contact?
+{"answer": "Mild Skin Irritation: localized redness, swelling, itching, and dryness.", "source": "Skin Contact"}
+
+
+What are the first aid measures in case of eye contact?
+{"answer": "Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention.", "source": "IF IN EYES"}
+
+
+What are the first aid measures in case of ingestion?
+{"answer": "I don't see any information related to ingestion first aid measures.", "source": "N/A"}
+
+

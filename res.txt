@@ -1,0 +1,52 @@
+What is the product identifier?
+{"answer": "KLEIBERIT 826.0", "source": "Trade name / Article No"}
+
+
+When was the Safety Data Sheet issued?
+{"answer": "08/15/2016 Reviewed on 06/17/2016 Version-No. 9", "source": "Printing date"}
+
+
+What is the product description?
+{"answer": "KLEIBERIT 826.0 polyethylene glycol", "source": "Trade name / Article No: KLEIBERIT 826.0"}
+
+
+Who is the manufacturer of the product?
+{"answer": "KLEIBERIT 826.0", "source": "Trade name / Article No"}
+
+
+What is the emergency telephone number for the product?
+{"answer": "Not available", "source": "Information for emergency responders"}
+
+
+What are the hazard classifications associated with the product?
+{"answer": "Hazardous Materials (Void), Not classified according to CLP regulation, No carcinogenicity or reproductive toxicity", "source": "2.1 Classification of the substance or mixture, 15.1 Safety, health and environmental regulations/ legislation specific for the substance or mixture"}
+
+
+What is the signal word used for the product?
+{"answer": "Void", "source": "2.2. Label elements"}
+
+
+What are the hazard statements related to the product?
+{"answer": "Void", "source": "2.2. Label elements"}
+
+
+What precautions should be taken while handling the product?
+{"answer": "No special measures required.", "source": "7.1. Precautions for safe handling"}
+
+
+What are the first aid measures in case of inhalation?
+{"answer": "I dont know", "source": "First Aid Measures, N/A"}
+
+
+What are the first aid measures in case of skin contact?
+{"answer": "Washing with soap and plenty of water.", "source": "11"}
+
+
+What are the first aid measures in case of eye contact?
+{"answer": "Flush with large amounts of water", "source": "8.7.1."}
+
+
+What are the first aid measures in case of ingestion?
+{"answer": "N/A", "source": "N/A"}
+
+
