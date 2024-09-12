@@ -2,11 +2,13 @@ from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 from langchain_community.embeddings import OllamaEmbeddings
-from langchain.vectorstores.chroma import Chroma
+# from langchain.vectorstores.chroma import Chroma
 from langchain.prompts import ChatPromptTemplate
 from langchain_community.llms.ollama import Ollama
+from langchain_chroma import Chroma
+import re
 
-
+# pip install -U langchain-chroma
 class RAGSystem:
     def __init__(self, data_dir_path = "pdf", db_path = "chroma") -> None:
         # print("inside rag system")
@@ -16,30 +18,35 @@ class RAGSystem:
         self.llm_model = "llama3.1"
         self._setup_collection() 
         self.model = Ollama(model=self.llm_model)
-        # Default prompt
-        # self.prompt_template = """
-            # Use the following pieces of context to answer the question at the end. 
-            # If you don't know the answer, just say that you are unsure.
-            # Don't try to make up an answer.
-
-            # {context}
-
-            # Question: {question}
-            # Answer:
-        #"""
         self.prompt_template = """
-            Answer the question: {context}. 
+            Answer the question based on the following context: {context}.
+
             ---
-            Answer the question based on the above context: {question}. Search the context title first.
-            Do not make up answers or use outside information.
-            Reply with section titles that are relevant to the answers.
-            Reply in the format: {{"answer": "your_answer_here", "source": "your_section_title_here"}} 
-            and if the answer contain multiple answers, then combine to one single answer
-            and reply in the format:
-            {{"answer": "answer1, answer2, answer3, etc", "source": "source1, source2, source3, etc"}}
-            and if you dont know the answer then reply
-            {{"answer": "I dont know", "source": "N/A"}}
-        """
+            Answer the question: {question}. First, search for the context title.
+
+            Reply in the format: 
+            {{"answer": "your_answer_here", "source": "your_section_title_here"}}
+
+            If the answer contains multiple parts, combine them into a single answer and reply in the format:
+            {{"answer": "answer1, answer2, answer3, etc.", "source": "source1, source2, source3, etc."}}
+
+            If you do not know the answer, reply:
+            {{"answer": "I don't know", "source": "N/A"}}
+
+            Do not provide any additional notes or suggestions.
+        """        
+        # print(self.prompt_template)
+
+    def _clean_text(self, text):
+        """ Clean the document text by removing unnecessary headers, footers, and formatting characters. """
+        # Remove headers and footers using regex
+        text = re.sub(r'Page\s+\d+\s+of\s+\d+', '', text)  # Remove "Page X of Y"
+        text = re.sub(r'_{10,}', '', text)  # Remove long sequences of underscores (formatting characters)
+        
+        # Remove multiple spaces, tabs, and newline characters
+        text = re.sub(r'\s+', ' ', text).strip()  # Normalize white spaces
+
+        return text
 
     def _setup_collection(self):
         pages = self._load_documents()
@@ -54,7 +61,7 @@ class RAGSystem:
         if len(chunks_to_add) > 0:
             vectordb.add_documents(chunks_to_add, ids = [i.metadata["chunk_id"] for i in chunks_to_add])
             print(f"added to db: {len(chunks_to_add)} records")
-            vectordb.persist()
+            # vectordb.persist()
         else:
             print("No records to add")
 
@@ -106,6 +113,10 @@ class RAGSystem:
     def _load_documents(self):
         loader = PyPDFDirectoryLoader(self.data_directory)
         pages = loader.load()
+        # Clean the content of each page
+        for page in pages:
+            page.page_content = self._clean_text(page.page_content)
+        
         return pages
         
     def _document_splitter(self, documents):
@@ -114,12 +125,46 @@ class RAGSystem:
         splitter = RecursiveCharacterTextSplitter(
                 # chunk_size=400,
                 # chunk_overlap=100,
-                chunk_size=400,
-                chunk_overlap=100,
-                length_function=word_count,
+                # length_function=len,
+                chunk_size=2000,
+                chunk_overlap=500,
+                length_function=len,
                 is_separator_regex=False,
         )
-        return splitter.split_documents(documents)
+
+        # Split the documents into chunks
+        chunks = splitter.split_documents(documents)
+        from datetime import datetime
+        current_time = datetime.now().strftime('%m%d %I%M%p').lower()
+        filename = f'{current_time}_chunks.txt'
+            
+        # Print each chunk with its metadata
+        # for idx, chunk in enumerate(chunks):
+        #     print(f"Chunk {idx + 1}:")
+        #     print(f"Content: {chunk.page_content}")
+        #     print(f"Metadata: {chunk.metadata}")
+        #     print("\n" + "-"*80 + "\n")  # Separator for readability
+        #     with open(filename, 'w') as file:
+        #         file.write(f"Chunk {idx + 1}:\n")
+        #         file.write(f"Content: {chunk.page_content}\n")
+        #         file.write(f"Metadata: {chunk.metadata}")
+        #         file.write("\n" + "-"*80 + "\n")
+
+        with open(filename, 'a') as file:
+            # Print each chunk with its metadata
+            for idx, chunk in enumerate(chunks):
+                print(f"Chunk {idx + 1}:")
+                print(f"Content: {chunk.page_content}")
+                print(f"Metadata: {chunk.metadata}")
+                print("\n" + "-" * 80 + "\n")  # Separator for readability
+
+                # Write chunk information to the file in append mode
+                file.write(f"Chunk {idx + 1}:\n")
+                file.write(f"Content: {chunk.page_content}\n")
+                file.write(f"Metadata: {chunk.metadata}\n")
+                file.write("\n" + "-" * 80 + "\n")
+        
+        return chunks
     
     def _get_embedding_func(self):
         embeddings = OllamaEmbeddings(model=self.model_name)
@@ -130,8 +175,3 @@ class RAGSystem:
             persist_directory = self.db_path,
             embedding_function = self._get_embedding_func(),
         )
-    # prompt = "What is the signal word?"
-    # prompt = "What is the first aid measures of inhalation?"
-    # prompt = "What is the first aid measures of swallowing?"
-
-

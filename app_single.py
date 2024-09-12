@@ -6,6 +6,11 @@ rag_system = RAGSystem()
 def main():
     start_time = time.time()
     question = "What is the signal word used for the product?"    
+    question = "What are the first aid measures in case of swallowed?"
+    question = "What is the signal word used for the product?"
+    question = "What is the emergency telephone number for the product?"
+    question = "What is the signal words?"
+    
     # response = rag_system.answer_query(question)
     response = rag_system.answer_query(question)
     print(question)  # Convert cnt to string
