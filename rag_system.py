@@ -29,6 +29,7 @@ class RAGSystem:
             Answer the question based on the above context: {question}. 
             Reply with section title that are relevant to the answer.
             Reply in the format: {{"answer": "answer", "source": "section title"}} 
+            and do not reply other text
             and if the answer contain multiple answers, then combine to one single answer
             and reply in the format:
             {{"answer": "answer 1, answer 2, answer 3, etc", "source": "section title 1, section title 2, section title 3, etc"}}.
@@ -142,9 +143,8 @@ class RAGSystem:
         if self.method == 0:
             splitter = RecursiveCharacterTextSplitter(
                 chunk_size=1500,
-                chunk_overlap=600,
-                length_function=len,
-                separators=[]
+                chunk_overlap=250,
+                length_function=len
             )
         elif self.method == 1:
             splitter = RecursiveCharacterTextSplitter(

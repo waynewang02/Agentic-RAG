@@ -1,0 +1,97 @@
+1: What is the product identifier?
+{"answer": "MARKS -A-LOT PERMANENT MARKERS, CARTER’S PERMANENT MARKER, MARKS -A-LOT COMFORT GRIP PERMANENT MARKER, MARKS -A-LOT JUMBO PERMANENT MARKER", "source": "Section 16: Other Information"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "05/15/2015", "source": "Section 16: Other Information / LAST REVISION DATE:"}
+
+3: What is the product description?
+{"answer": "MARKS-A-LOT PERMANENT MARKERS, CARTER'S PERMANENT MARKER, MARKS-A-LOT COMFORT GRIP PERMANENT MARKER, MARKS-A-LOT JUMBO PERMANENT MARKER", "source": "BRAND NAMES"}
+
+4: Who is the manufacturer of the product?
+{"answer": "Marks-A-Lot Permanent Markers, Carter’s Permanent Marker, Marks-A-Lot Comfort Grip Permanent Marker, Marks-A-Lot Jumbo Permanent Marker", "source": "BRAND NAMES"}
+
+5: What is the emergency telephone number for the product?
+{"answer": "N/A", "source": "N/A"}
+
+6: What are the hazard classifications associated with the product?
+{"answer": "None, N-Propenol", "source": "Section 3: Composition/Information on Ingredients, Section 13: Disposal Considerations, Section 5: Fire -Fighting Measures, Section 7: Handling and Storage, Section 8: Exposure Controls/Personal Protection, Section 15: Regulatory Information"}
+
+7: What is the signal word used for the product?
+{"answer": "None Required", "source": "Section 4: First Aid Measures , Section 6: Accidental Release Measures, Section 7: Handling and Storage , Section 8: Exposure Controls/Personal Protection"}
+
+8: What are the hazard statements related to the product?
+{"answer": "NONE", "source": "Section 4: First Aid Measures, Section 5: Fire -Fighting Measures, Section 6: Accidental Release Measures, Section 7: Handling and Storage"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. Keep container tightly closed. Keep cool. Ground and bond container and receiving equipment. Use non-sparking tools. Take action to prevent static discharges. Wear protective glove/protective clothing/eye protection /face protection. Store in well-ventilated place.", "source": "Section 2: Hazard(s) Identification"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "NONE REQUIRED. NO ACUTE HEALTH EFFECTS EXPECTED ", "source": "Section 4: First Aid Measures "}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Rinse skin with water [or shower]. Take off immediately all contaminated clothing.", "source": "Section 4: First Aid Measures "}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "IF IN EYES. Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing", "source": "Section 2: Hazard(s) Identification"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "NONE REQUIRED. NO ACUTE HEALTH EFFECTS EXPECTED", "source": "Section 4: First Aid Measures "}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{"answer": "No special media required", "source": "Section 5: Fire -Fighting Measures"}
+
+15: What are the special hazards arising from the substance during a fire?
+{"answer": "Highly flammable liquid vapor", "source": "Section 2: Hazard(s) Identification"}
+
+16: Are there any special fire handling procedures required for the product?
+{"answer": "No special fire fighting procedures required", "source": "Section 5: Fire -Fighting Measures"}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Clean up in accordance with all applicable regulations. Absorb spillage with non-combustible, absorbent material. For waste disposal, see Section 13.", "source": "Section 6: Accidental Release Measures"}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{"answer": "Good industrial hygiene practices requires that exposure be maintained below the TLV. This is preferably achieved through the provision of adequate ventilation. When exposure cannot be adequately controlled in this way, personal respiratory protection should be employed.", "source": "Section 7: Handling and Storage"}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "Good industrial hygiene practices, personal respiratory protection, non-combustible absorbent material for waste disposal", "source": "Section 7: Handling and Storage, Section 8: Exposure Controls/Personal Protection, Section 6: Accidental Release Measures"}
+
+20: What are the physical and chemical properties of the product?
+{"answer": "BOILING POINT: N/A, MELTING POINT: N/A, VAPOR PRESSURE: N/A, SPECIFIC VAPOR DENSITY (AIR = 1): N/A, SPECIFIC GRAVITY: N/A, SOLUBILITY IN WATER: N/A", "source": "Section 9: Physical and Chemical Properties"}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "stable, no hazardous reactions", "source": "Section 10: Stability and Reactivity, Section 13: Disposal Considerations"}
+
+22: What are the possible hazardous decomposition products of the product?
+{"answer": "NONE", "source": "Section 10: Stability and Reactivity, Section 10: Stability and Reactivity, Section 10: Stability and Reactivity"}
+
+23: What is the toxicological information available for the product?
+{"answer": "ACUTE EFFECTS ASSOCIATED WITH THE USE OF THIS MATERIAL: NONE EXPECTED, The summated LD50 is >50000 mg/kg", "source": "Section 11: Toxicological Information, Section 11: Toxicological Information"}
+
+24: What are the safety precautions and handling instructions for using the product?
+{"answer": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. Keep container tightly closed. Keep cool. Ground and bond container and receiving equipment. Use explosion-proof equipment. Wear protective glove/protective clothing/eye protection /face protection. Store in well-ventilated place.", "source": "Section 2: Hazard(s) Identification"}
+
+25: What are the potential hazards associated with the product?
+{"answer": "NO HARMFUL EFFECTS KNOWN OTHER THAN THOSE ASSOCIATED WITH THE SUSPENDED INERT SOLIDS IN WATER, NONE EXPECTED", "source": "Section 12: Ecological Information, Section 11: Toxicological Information"}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Serious Eye Damage, Acute Health Effects associated with the Use of this Material: None Expected", "source": "Section 2: Hazard(s) Identification, Section 11: Toxicological Information"}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{"answer": "Take off immediately all contaminated clothing. IF INHALATION IS Suspected. Remove person to fresh air and rest.", "source": "Section 2: Hazard(s) Identification, Section 6: Accidental Release Measures"}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{"answer": "Rinse skin with water [or shower]. Take off immediately all contaminated clothing.", "source": "Section 4: First Aid Measures, Response"}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{"answer": "Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing", "source": "Section 2: Hazard(s) Identification"}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{"answer": "Rinse skin with water [or shower]. Take off immediately all contaminated clothing. IF IN EYES. Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.", "source": "Section 2: Hazard(s) Identification"}
+
+31: What is the waste disposal method for the product?
+{"answer": "Dispose of in accordance with Federal, State and Local regulations", "source": "Section 13: Disposal Considerations"}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. Keep container tightly closed. Keep cool. Ground and bond container and receiving equipment. Use explosion-proof equipment.", "source": "Section 2: Hazard(s) Identification"} 
+{"answer": "Use non-sparking tools. Take action to prevent static discharges. Wear protective glove/protective clothing/eye protection /face protection. Store in well-ventilated place.", "source": "Section 2: Hazard(s) Identification"}
+
