@@ -1,0 +1,48 @@
+
+Here are the incorrect answers along with their respective answer correct rate and source correct rate:
+
+Incorrect Answers:
+Question 2:
+
+Provided Answer: 7/3/2001
+Correct Answer: 7/3/2001 (Prepared by Product Safety - TAR on 7/3/2001)
+Incorrect Source: The source should be Section XVI (Other Information), not Section VIII.VIII.
+Question 6:
+
+Provided Answer: Fire Hazard, ReactivityHealth Hazard, Toxicological Information
+Correct Answer: Fire Hazard, Health Hazard, Reactivity
+Incorrect Source: Should only refer to Section III and Section XI, not Section I and Section IIII.
+Question 7:
+
+Provided Answer: Not evaluated.
+Correct Answer: "Not evaluated" is indeed correct, but the source should be Section XV (Regulatory Information), not ADR (Europe).
+Question 13:
+
+Provided Answer: DO NOT induce vomiting because of danger of aspirating liquid into lungs. Seek medical attention.
+Correct Answer: DO NOT induce vomiting because of danger of aspirating liquid into lungs. Seek medical attention.
+Incorrect Source: The correct source is Section IV, not Section III.III.
+Question 14:
+
+Provided Answer: water spray, fog or foam. DRY chemicals, CO2, water spray or foam.
+Correct Answer: SMALL FIRE: DRY chemicals, CO2, water spray or foam. LARGE FIRE: water spray, fog or foam.
+Incorrect Source: The correct source is Section V, not Section IV.
+Question 16:
+
+Provided Answer: Use DRY chemicals, CO2, water spray or foam for SMALL FIRE and water spray, fog or foam for LARGE FIRE; DO NOT use water jet.
+Correct Answer: Use DRY chemicals, CO2, water spray or foam for SMALL FIRE and water spray, fog or foam for LARGE FIRE; DO NOT use water jet.
+Incorrect Source: The correct source is Section V, not Section IV.
+Question 19:
+
+Provided Answer: Wear appropriate chemically protective gloves, long sleeves, etc.
+Incorrect Source: The correct source is Section VIII, not Section VIII.VIII.
+Question 25:
+
+Provided Answer: Slight irritation of skin, eyes, etc.
+Incorrect Source: Correct source should be Section III and Section XI, not Section III.III.
+Question 29:
+
+Provided Answer: IMMEDIATELY flush eyes with running water for at least 15 minutes, keeping eyelids open. Seek medical attention.
+Incorrect Source: The correct source is Section IV, not Section III.III.
+Correct Rates:
+Answer Correct Rate: 34/43
+Source Correct Rate: 34/43

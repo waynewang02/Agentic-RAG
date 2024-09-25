@@ -1,0 +1,141 @@
+1: What is the product identifier?
+{"answer": "NAPA DOT 3 BRAKE FLUID", "source": "SECTION 1: PRODUCT A ND COMPANY IDENTIFICATION"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "March 5, 2014", "source": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION"}
+
+3: What is the product description?
+{"answer": "SDS – NAPA DOT 3 Brake Fluid", "source": "SECTION 1: PRODUCT A ND COMPANY IDENTIFICATION"}
+
+4: Who is the manufacturer of the product?
+{"answer": "Warren Unilube, Inc.", "source": "SECTION 1: PRODUCT A ND COMPANY IDENTIFICATION"}
+
+5: What is the emergency telephone number for the product?
+{"answer": "800-424-9300", "source": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION"}
+
+6: What are the hazard classifications associated with the product?
+{
+  "answer": "Acute toxicity, dermal (Category 5), Acute toxicity, oral (Category 4), Skin Irritation (Category 3), Serious eye damage (Category 1), Reproductive toxicity (Category 2)", 
+  "source": "GHS Classification, SDS – NAPA DOT 3 Brake Fluid"
+}
+
+7: What is the signal word used for the product?
+{"answer": "WARNING", "source": "GHS Classification:"}
+
+8: What are the hazard statements related to the product?
+{"answer": "H302, H313, H316, H318, H361", "source": "Hazard Statements"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "Wear protective eyeglasses or chemical safety goggles, wear chemically protective gloves, boots, aprons and gauntlets to prevent prolonged or repeated skin contact, never eat, drink or smoke in work areas, practice good personal hygiene after using this material, separate contaminate work clothes from street clothes, make emergency eyewash stations, safety/quick drench showers and washing facilities available in work areas, increase PPE level as deemed appropriate in any given situation, use non-sparking tools and equipment.", "source": "EYE PROTECTION, SKIN PROTECTION, WORK HYGIENIC PRACTICES, OTHER PROTECTIVE CLOTHING OR EQUIPMENT, PROTECTIVE CLOTHING, EMERGENCY PROCEDURES"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "Remove victim to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Consult a physician.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION"}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Wash with plenty of soap and water. If skin irritation occurs, get medical advice/attention.", "source": "SKIN"}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "May cause slight eye irritation. May cause slight corneal injury. Rinse mouth with water.", "source": "SECTION 11: TOXICOLOGICAL INFORMATION"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "Toxic or fatal if ingested. For diethylen e glycol, a component of this mixture, a lethal dose can be as little as two ounces. Symptoms include severe abdominal cramping, diarrhea, vomiting, sweating, confusion, cardiac abnormalities, neurological abnormalities, infrequent urination, intoxication or CNS depression. If left untreated, product will metabolize to cause metabolic acidosis, renal failure, hyperkalemia, hyponatremia, paralysis, cardiac failure or death.", "source": "SDS – NAPA DOT 3 Brake Fluid SECTION 11: TOXICOLOGICAL INFORMATION"}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Dry chemical, foam or carbon dioxide", "source": "SECTION 5: FIRE-FIGHTING MEASURES"}
+
+15: What are the special hazards arising from the substance during a fire?
+{"answer": "Carbon monoxide, carbon dioxide, and unidentified organic compounds.", "source": "SECTION 5: FIRE-FIGHTING MEASURES"}
+
+16: Are there any special fire handling procedures required for the product?
+{"answer": "Do not use direct water stream to extinguish fires. Do not release runoff from fire control methods to sewers or waterways.", "source": "SECTION 5: FIRE-FIGHTING MEASURES"}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Containment: Shut off source of leak if safe to do so. Dike far ahead of liquid spill for later disposal. Do not allow material to enter sewers or waterways. Contain and recover liquid when possible. Collect liquid in appropriate container. Absorb residue with an inert material (such as vermiculite or dry sand) and place in chemical waste container. Do not use combustible materials such as sawdust for the cleanup.", "source": "EMERGENCY PROCEDURES, SECTION 7: HANDLING AND STORAGE"}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{"answer": "Store in a cool dry, ventilated area. Controls should be such that adequate ventilation is provided. Provide general or local exhaust ventilation systems to maintain airborne concentrations below OSHA PELs.", "source": "HANDLING PRECAUTIONS, ENGINEERING CONTROLS"}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{
+  "answer": "ENGINEERING CONTROLS: Controls should be such that adequate ventilation is provided. VENTILATION: Provide general or local exhaust ventilation systems to maintain airborne concentrations below OSHA PELs. Local exhaust ventilation is preferred because it prevents contaminant dispersion into the work place by controlling it at its source. RESPIRATORY PROTECTION: Seek professional advice prior to respirator selection and use. Follow OSHA respirator regulations (29 CFR 1910.134) and, if necessary, wear a MSHA / NIOSH approved respirator.",
+  "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION"
+}
+
+20: What are the physical and chemical properties of the product?
+{"answer": "Liquid, Yellow to amber, >275°F (>135°C), 8.33 – 9.02 lb/gal", "source": "SECTION 9: PHYSICAL A ND CHEMICAL PROPERTIES"}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "stable at room temperature in closed containers under normal storage and handling conditions. Thermal oxidative decomposition can produce carbon monoxide, carbon dioxide and unknown organic compounds.", "source": "SECTION 10: STABILITY AND REACTIVITY"}
+
+22: What are the possible hazardous decomposition products of the product?
+{
+  "answer": "carbon monoxide, carbon dioxide and unknown organic compounds",
+  "source": "SECTION 10: STABILITY AND REACTIVITY"
+}
+
+23: What is the toxicological information available for the product?
+{"answer": "The product is toxic to kidneys, liver, central nervous system and heart. Metabolic products of diethylene glycol produce acidosis and organ toxicity effects. The symptoms of poisoning include severe abdominal cramping, diarrhea, vomiting, sweating, confusion, cardiac abnormalities, neurological abnormalities, infrequent urination, intoxication or CNS depression. 20-80% of the mixture consists of ingredients of unknown acute toxicity.", "source": "SDS – NAPA DOT 3 Brake Fluid"}
+
+24: What are the safety precautions and handling instructions for using the product?
+{"answer": "Wear protective eyeglasses or chemical safety goggles, chemically protective gloves, boots, aprons and gauntlets to prevent prolonged or repeated skin contact. Use non-sparking tools and equipment. Wear full protective clothing and NIOSH-approved self-contained breathing apparatus with full face piece operated in the pressure demand or other positive breathing mode for emergency procedures, including fire-fighting. Standard work uniform, impervious gloves, safety glasses, adequate ventilation, and removal of all sources of ignition are required.", "source": "OSHA eye-and face-protection regulations (29 CFR 1910.133), SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION, SECTION 6: ACCIDENTAL RELEASE MEASURES"}
+
+25: What are the potential hazards associated with the product?
+{
+  "answer": "Harmful if swallowed, May be harmful in contact with skin, Causes mild skin irritation, Causes serious eye damage, Suspected of damaging fertility or the unborn child, Toxic or fatal if ingested", 
+  "source": "Hazard Statements, SECTION 11: TOXICOLOGICAL INFORMATION"
+}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Toxic to kidneys, liver, central nervous system and heart. Metabolic products of diethylene glycol produce acidosis and organ toxicity effects.", "source": "SECTION 11: TOXICOLOGICAL INFORMATION"}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{"answer": "Remove victim to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Consult a physician.", "source": "SECTION 6: ACCIDENTAL RELEASE MEASURES"}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{"answer": "Wash with plenty of soap and water. If skin irritation occurs, get medical advice/attention.", "source": "SKIN PROTECTION: "}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{"answer": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses if present and easy to do. Continue rinsing.", "source": "SDS – NAPA DOT 3 Brake Fluid GHS Classification"}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{"answer": "Never give anything by mouth to an unconscious person. Rinse mouth with water. Consult a physician.", "source": "SKIN: Wash with plenty of soap and water. If skin irritation occurs, get medical advice / attention. INGESTION: Never give anything by mouth to an unconscious person. Rinse mouth with water. Consult a physician. INHALATION:", "SDS – NAPA DOT 3 Brake Fluid"}
+
+31: What is the waste disposal method for the product?
+{"answer": "Whatever cannot be saved for recovery or recycling should be disposed of in an approved waste facility in accordance with Federal, State/Provincial and Local requirements.", "source": "RECOMMENDED DISPOSAL METHODS"}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Store in a cool dry, ventilated area.", "source": "SECTION 7: HANDLING AND STORAGE"}
+
+33: What is the shelf life of the product?
+{"answer": "I don't know", "source": "N/A"}
+
+34: What are the composition and ingredients of the product?
+{"answer": "Triethylene Glycol Monomethyl Ether (5-50%), Triethylene Glycol Monoethyl Ether (5-50%), Triethylene Glycol Monobutyl Ether (5-50%), Tetrathylene Glycol Monobutyl Ether (5-20%), Polyethylene Glycol (5-20%), Diethylene Glycol Monobutyl Ether (5-20%), Diethylene Glycol (5-15), Diethylene Glycol Monoethyl Ether (<5), Diethylene Glycol Monomethyl Ether (<5), Polyalkylene Glycol Monobutyl Ether (5-20%), Polyalkylene Glycols (5-20%), Trade Secret Inhibitor Package (3% of the composition)", "source": "SECTION 3: COMPOSITION / INFORMATION ON INGREDIENTS"}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "Thermal oxidative decomposition can produce carbon monoxide, carbon dioxide and unknown organic compounds. May cause slight eye irritation. May cause slight corneal injury.", "source": "SECTION 10: STABILITY AND REACTIVITY, ACUTE EFFECTS"}
+
+36: What is the odor of the product?
+{"answer": "Mild", "source": "SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+37: What is the boiling point of the product?
+{"answer": "480°F (248.9°C)", "source": "SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+38: Is the product flammable?
+{"answer": "No", "source": "SECTION 5: FIRE-FIGHTING MEASURES"}
+
+39: What is the solubility of the product?
+{"answer": "soluble", "source": "SECTION 9: PHYSICAL A ND CHEMICAL PROPERTIES"}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "The product is stable at room temperature in closed containers under normal storage and handling conditions. Thermal oxidative decomposition can produce carbon monoxide, carbon dioxide and unknown organic compounds.", "source": "SECTION 10: STABILITY AND REACTIVITY"}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "Provide general or local exhaust ventilation systems to maintain airborne concentrations below OSHA PELs, wear a MSHA/NIOSH approved respirator based on its suitability for given working conditions and level of airborne contamination.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION"}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Whatever cannot be saved for recovery or recycling should be disposed of in an approved waste facility in accordance with Federal, State/Provincial and Local requirements.", "source": "RECOMMENDED DISPOSAL METHODS"}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "No", "source": "SECTION 16: REGULATORY INFORMATION"}
+

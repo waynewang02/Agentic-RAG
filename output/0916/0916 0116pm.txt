@@ -1,0 +1,39 @@
+1: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "Not applicable", "source": "4. First Aid Measures"}
+
+2: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "KLEIBERIT 826.0", "source": "Trade name / Article No: KLEIBERIT 826.0"}
+
+3: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "08/15/2016 / 8", "source": "Date of preparation / last revision"}
+
+4: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "KLEIBERIT 826.0", "source": "Trade name / Article No: KLEIBERIT 826.0"}
+
+5: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "Dr. Wolfgang Stüber", "source": "Section 14: Other information"}
+
+6: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "1-800-424-9300 (CHEMTREC) email: hse@kleiberit.com 1-800-451-1403 (SARA-HOTLINE)", "source": "1.4. Emergency telephone number"}
+
+7: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "NO Hazcom Label is REQUIRED, but further information about hazard classifications is not provided in this Safety Data Sheet.", "source": "Page 5, Section 16 - Relevant labels and warnings HAZCOM LABEL: NOT REQUIRED"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "Void", "source": "Section 2.2. Label elements"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Particular danger of slipping on leaked/spilled product. Absorb with liquid-binding material (sand, diatomite, acid binders, universal binders, sawdust).", "source": "6.3. Methods and material for containment and clean up, 7.1. Precautions for safe handling"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "Not available in the provided text.", "source": "9. Physical and chemical properties/ 16. Refractive index Not determined."}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Flush with plenty of water. If skin irritation persists, get medical attention.", "source": "8.2. Information on personal protection equipment"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Flush with plenty of water and consult a doctor.", "source": "8.1. Information concerning appropriate precautions for safe handling and use"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "Not applicable. If this material accidentally enters your body during normal use (e.g., from skin contact), wash with soap and plenty of water.", "source": "8.1. Information on personal protection equipment"}
+

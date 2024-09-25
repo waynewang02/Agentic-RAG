@@ -10,42 +10,55 @@ import re
 
 # pip install -U langchain-chroma
 class RAGSystem:
-    def __init__(self, data_dir_path = "pdf", db_path = "chroma") -> None:
+    def __init__(self, data_dir_path = "pdf", db_path = "chroma", method=0, filename = 'test') -> None:
         # print("inside rag system")
         self.data_directory = data_dir_path
         self.db_path = db_path
-        self.model_name = "llama3.1"
+        self.model_name = "nomic-embed-text"
         self.llm_model = "llama3.1"
+
+        self.method = method
+        self.filename = filename
+
         self._setup_collection() 
         self.model = Ollama(model=self.llm_model)
         self.prompt_template = """
-            Answer the question based on the following context: {context}.
-
+            Answer the question based on the following context: {context}. 
             ---
-            Answer the question: {question}. First, search for the context title.
+            Answer the question based on the above context: {question}. 
+            Reply with section title that are relevant to the answer.
+            Reply in the format: {{"answer": "answer", "source": "section title"}} 
+            and if the answer contain multiple answers, then combine to one single answer
+            and reply in the format:
+            {{"answer": "answer 1, answer 2, answer 3, etc", "source": "section title 1, section title 2, section title 3, etc"}}.
+            Do not make up answers or use outside information, and if you dont know the answer then reply
+            {{"answer": "I dont know", "source": "N/A"}}.
+        """
 
-            Reply in the format: 
-            {{"answer": "your_answer_here", "source": "your_section_title_here"}}
+        # self.prompt_template = """
+        #     Based on the following context: {context} and answer the question: {question}
 
-            If the answer contains multiple parts, combine them into a single answer and reply in the format:
-            {{"answer": "answer1, answer2, answer3, etc.", "source": "source1, source2, source3, etc."}}
+        #     Reply in the format: 
+        #     {{"answer": "your_answer_here", "source": "your_section_title_here"}}
 
-            If you do not know the answer, reply:
-            {{"answer": "I don't know", "source": "N/A"}}
+        #     If the answer contains multiple parts, combine them into a single answer and reply in the format:
+        #     {{"answer": "answer1, answer2, answer3, etc.", "source": "source1, source2, source3, etc."}}
 
-            Do not provide any additional notes or suggestions.
-        """        
-        # print(self.prompt_template)
+        #     If you cannot find the answer, reply:
+        #     {{"answer": "The document doesnt have anything about it", "source": "N/A"}}
+
+        #     Moreover, do not provide any additional notes or suggestions.
+        # """
 
     def _clean_text(self, text):
         """ Clean the document text by removing unnecessary headers, footers, and formatting characters. """
         # Remove headers and footers using regex
         text = re.sub(r'Page\s+\d+\s+of\s+\d+', '', text)  # Remove "Page X of Y"
-        text = re.sub(r'_{10,}', '', text)  # Remove long sequences of underscores (formatting characters)
+        # text = re.sub(r'_{10,}', '', text)  # Remove long sequences of underscores (formatting characters)
         
         # Remove multiple spaces, tabs, and newline characters
-        text = re.sub(r'\s+', ' ', text).strip()  # Normalize white spaces
-
+        # text = re.sub(r'\s+', ' ', text).strip()  # Normalize white spaces
+        text = re.sub(r' +', ' ', text).strip()
         return text
 
     def _setup_collection(self):
@@ -118,53 +131,39 @@ class RAGSystem:
             page.page_content = self._clean_text(page.page_content)
         
         return pages
-        
+
     def _document_splitter(self, documents):
-        def word_count(documents):
-            return len(documents.split())
-        splitter = RecursiveCharacterTextSplitter(
-                # chunk_size=400,
-                # chunk_overlap=100,
-                # length_function=len,
-                chunk_size=2000,
-                chunk_overlap=500,
+        if self.method == 0:
+            splitter = RecursiveCharacterTextSplitter(
+                chunk_size=1500,
+                chunk_overlap=250,
                 length_function=len,
-                is_separator_regex=False,
-        )
+            )
+        elif self.method == 1:
+            splitter = RecursiveCharacterTextSplitter(
+                chunk_size=1500,
+                chunk_overlap=250,
+                length_function=len,
+                is_separator_regex=True,
+                separators=[r'[sS][eE][cC][tT][iI][oO][nN]\s([1-9IVX]+)(\.|\:|\ -)'],  # Case-insensitive regex pattern
+            )
 
         # Split the documents into chunks
         chunks = splitter.split_documents(documents)
-        from datetime import datetime
-        current_time = datetime.now().strftime('%m%d %I%M%p').lower()
-        filename = f'{current_time}_chunks.txt'
-            
-        # Print each chunk with its metadata
-        # for idx, chunk in enumerate(chunks):
-        #     print(f"Chunk {idx + 1}:")
-        #     print(f"Content: {chunk.page_content}")
-        #     print(f"Metadata: {chunk.metadata}")
-        #     print("\n" + "-"*80 + "\n")  # Separator for readability
-        #     with open(filename, 'w') as file:
-        #         file.write(f"Chunk {idx + 1}:\n")
-        #         file.write(f"Content: {chunk.page_content}\n")
-        #         file.write(f"Metadata: {chunk.metadata}")
-        #         file.write("\n" + "-"*80 + "\n")
 
-        with open(filename, 'a') as file:
-            # Print each chunk with its metadata
+        #from datetime import datetime
+        #current_time = datetime.now().strftime('%m%d %I%M%p').lower()
+        # filename = f'{current_time}_chunks.txt'
+
+        with open(self.filename + "_chunks.txt", 'a', encoding="utf-8") as file:
             for idx, chunk in enumerate(chunks):
-                print(f"Chunk {idx + 1}:")
-                print(f"Content: {chunk.page_content}")
-                print(f"Metadata: {chunk.metadata}")
-                print("\n" + "-" * 80 + "\n")  # Separator for readability
-
-                # Write chunk information to the file in append mode
                 file.write(f"Chunk {idx + 1}:\n")
                 file.write(f"Content: {chunk.page_content}\n")
                 file.write(f"Metadata: {chunk.metadata}\n")
                 file.write("\n" + "-" * 80 + "\n")
         
         return chunks
+
     
     def _get_embedding_func(self):
         embeddings = OllamaEmbeddings(model=self.model_name)

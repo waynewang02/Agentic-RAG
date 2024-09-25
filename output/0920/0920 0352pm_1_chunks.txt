@@ -1,0 +1,580 @@
+Chunk 1:
+Content: MATERIAL SAFETY DATA SHEET 
+ UNLEADED GASOLINE ALL GRADES 
+ 
+Date of Last Revision: 1/3/2012 Prepared according to U.S. OSHA, CMA, ANSI, Canadian WHMIS, Australian WorkSafe, Japanese Industrial Standard JIS Z 7250:2000, and European Unio n REACH regulations 
+SECTION 1 -1 - PRODUCT AND COMPANY IDENTIFICATION 
+PRODUCT NAME: 
+CHEMICAL FAMILY NAME: 
+U.N. NUMBER: 
+U.N. DANGEROUS GOODS CLASS: 
+SUPPLIER/MANUFACTURE R'S NAME: 
+ADDRESS: UNLEADED GASOLINE ALL GRADES 
+Petroleum Hydrocarbon 
+UN 12 03 
+Gasoline, Flammable class 3, PGII 
+NGL Crude Logistics, LLC. 
+2900 North Loop West Suite 1250, Houston, TX 77092 USA 
+EMERGENCY PHONE: TOLL-FREE in USA/Canada 800-424-9300 Chemtrec 
+BUSINESS PHONE: 
+WEB SITE: 
+DATE OF PREPARATION: 
+DATE OF LAST REVISION: 713-730-7320 (Product Information) 
+www.nglep .com 
+January 3, 2012 
+New 
+SECTION 2 -2
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 0}
+
+--------------------------------------------------------------------------------
+Chunk 2:
+Content:  - HAZARD S IDENTIFI CATION 
+EMERGENCY OVERVIEW: 
+Product Description: This product is a compressed, liquefied gas with no color or odor. 
+Health Hazards: Fumes may cause eye and respiratory irritation. May be harmful or fatal if swallowed. May cause lung 
+damage. Overexposur e may cause CNS depression. Breathing high concentrations can cause irregular heartbeats which 
+may be fatal. 
+Flammability Hazards: Extremely Flammable Liquid and Vapors 
+Reactivity Hazards: This product is not reactive. 
+Environmental Hazards: Release of the product is expected to cause adverse effects to the aquatic environment. 
+Emergency Recommendations: Emergency responders must have personal protective equipment and fire protection 
+appropriate for the situation to which they are responding. 
+US DOT SYMBOLS CANADA (WHMIS) SYMBOLS EUROPEAN and (GHS) Hazard Symbols 
+Signal Word: Danger ! 
+EU LABELING AND CLASSIFICATION: 
+Classification of the substance or mixture according to Regulation (EC) No1272/2008 Annex 1 
+EC# 289 -220-8 Index# 649 -378-00-4 
+GHS Hazard Classification(s): 
+Carcinogen Category 1 B 
+Aspiration Toxicity Category 1 
+Flammable Liquid Category 3 
+Hazard Statement(s): Precautionary Statement(s): 
+H226 : Flammable liquid and vapor 
+H304 : May be fatal if swallowed and enters airwa ys 
+H350 : May cause cancer P202: Do not use until all safety precautions are read and 
+understood. 
+P210 : Keep away from heat/sparks/open flame/hot 
+surfaces. – No Smoking 
+P281: use personal protective equipment as required. 
+P331: Do not induce vomiting 
+EU HAZARD CLASSIFICATION PER DIRECTIVE 1999/45/EC : 
+[F] Flammable , [Xn] Harmful
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 0}
+
+--------------------------------------------------------------------------------
+Chunk 3:
+Content: MATERIAL SAFETY DATA SHEET 
+ PREMIUM UNLEADED GASOLINE 
+Date of Last Revision: 1/3/2012 
+ 
+ Risk Phrases : 
+R12: Extremely flammable 
+R45: May cause cancer 
+R46: May cause heritable genetic damage 
+R65: harmful: may cause lung damage if swallowed 
+ Safety Phrases: 
+S9: Keep conta iner in a well ventilated place 
+S16: Keep away from sources of ignition - No Smoking 
+S45: In case of accident or if you feel unwell, seek medical 
+advice immediately 
+S53:Avoid exposure 
+ 
+HEALTH HAZARDS OR RI SKS FROM EXPOSURE : 
+ACUTE : 
+INHALATION: Breathing high concentrations may be harmful. 
+May cause central nervous system depression or effects. Symptoms may include headache, excitation, euphoria, 
+dizziness, incoordination, drowsiness, light -headedness, blurred vision, fatigue, tremors, convulsions, loss of 
+consciousness, coma, respiratory arrest and death, depending on the concentration and duration of exposure. 
+Breathing high concentrations of this material, for example, in a confined space or by intentional abuse, can cause 
+irregular heartbeats whi ch can cause death. 
+EYE CONTACT: Contact may cause pain and severe reddening and inflammation of the conjunctiva. 
+Effects may become more serious with repeated or prolonged contact. 
+SKIN CONTACT: Contact may cause reddening, itching and inflammation. 
+Skin contact may cause harmful effects in other parts of the body. 
+INGESTION: Swallowing this material may be harmful. 
+May cause irritation of the mouth, throat and gastrointestinal tract. 
+May cause central nervous system depression or effects. Symptoms may include salivation, pain, nausea, vomiting 
+and diarrhea. Exposure may also cause central nervous system symptoms similar to those listed under "Inhalation". 
+CHRONIC : The International Agency for Research on Cancer (IARC) has determined that there 
+is inade quate evidence for the carcinogenicity of gasoline in humans. IARC 
+determined that limited evidence of carcinogenicity in animals exists. IARC`s overall 
+evaluation of gasoline, in spite of limited carcinogenicity evidence, has resulted in the 
+IARC designat ion of gasoline as possibly carcinogenic to humans (Group 2B) 
+because gasoline contains benzene. 
+TARGET ORGANS: ACUTE: Eye, Skin , Respiratory System CHRONIC: Central nervous system 
+
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 4:
+Content: SECTION 3 -3 - COMPOSITION AND INFORMATION ON INGREDIENTS 
+ 
+ 
+HAZARDOUS I NGREDIENTS: CAS # EINECS # ICSC # WT % HAZARD CLASSIFICATIO N; 
+RISK PHRASES 
+Premium Unleaded Gasoline 86290 -81-5 289-220-8 1400 100% HAZARD CLASSIFICATIO N: [F] Flammable , Carc 
+Cat 2, Muta Cat. 2, [Xn] Harmful 
+RISK PHRASES: R12, R45, R46, R65 
+ 
+COMPONEN T INFORMATION 
+Saturated Hydrocarbons Mixture Not Listed Not Listed 55 - 85% HAZARD CLASSIFICATIO N: None 
+RISK PHRASES: None 
+Aromatic Hydrocarbons Mixture Not Listed Not Listed 10 – 40% HAZARD CLASSIFICATIO N: None 
+RISK PHRASES: None 
+Unsaturated Hydro carbons Mixture Not Listed Not Listed 1 – 15% HAZARD CLASSIFICATIO N: None 
+RISK PHRASES: None 
+Toluene 108-88-3 203-625-9 0078 1 – 15% HAZARD CLASSIFICATIO N: [F] Flammable , Repr 
+Cat3, [Xn] Harmful, [Xi] Irritant 
+RISK PHRASES: R11, R63, R48/20, R65, R38, R6 7 
+Xylene 1330 -20-7 215-535-7 Not Listed 2 – 10% HAZARD CLASSIFICATIO N: [F] Flammable , [Xn] 
+Harmful, [Xi] Irritant 
+RISK PHRASES: R10, R20/21, R38
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 5:
+Content: MATERIAL SAFETY DATA SHEET 
+ PREMIUM UNLEADED GASOLINE 
+Date of Last Revision: 1/3/2012 
+ 
+ 1,2,4 -Trimethylbenzene 95-63-6 202-436-9 1433 1 – 5% HAZARD CLASSIFICATIO N: [F] Flammable , [Xn] 
+Harmful, [Xi] Irritant, [N] Dangerous to the 
+Environment 
+RISK PHRASES: R10, R20, R36/37/38, R 51/53 
+Benzene 71-43-2 200-753-7 0015 0.5 – 3.5% HAZARD CLASSIFICATIO N: [F] Flammable , carc. 
+Cat 1, Muta Cat 2, [T] Toxic, [Xn] Harmful, [Xi] 
+Irritant 
+RISK PHRASES: R11, R45, R46, R48/23/24/25, 
+R65, R36/38 
+Hexane 110-54-3 203-777-6 0279 0 – 3% HAZARD CLASSIFICATIO N: [F] Flammable , Repr 
+Cat 3, [Xn] Harmful, [Xi] Irritant, [N] Dangerous to 
+the Environment 
+RISK PHRASES: R11, R62, R65, R48/20, R38, 
+R67, R51/53 
+Ethyl Benzene 100-41-4 202-849-4 0268 0.5 – 2.0% HAZARD CLASSIFICATIO N: [F] Flammable , [Xn] 
+Harmful 
+RISK PHRASES: R11, R20 
+Naphthalene 91-20-3 202-049-5 0667 0.1 – 0.5% HAZARD CLASSIFICATIO N: Carc Cat 3, [Xn] 
+Harmful, [N] Dangerous to the Environment 
+RISK PHRASES: R40, R22 , R50/53 
+Balance of other ingredients are non -hazardous or less than 1% in concentration (or 0.1% for 
+carcinogens, reproductive toxins, or respiratory sensitizers). 
+NOTE: 
+ ALL WHMIS required information is included in appropriate sections based on the A NSI Z400.1 -2004 format. This product has been classified 
+in accordance wi th the hazard criteria of the 29 CF R 1200 and the MSDS contains all the information required by the 29 CF R 1200 , EU 
+Directives and the Japanese Industrial Standard JIS Z 7250: 2000 . 
+
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 6:
+Content: SECTION 4 -4 - FIRST -AID MEASURES 
+EYE CONTACT: If product enters the eyes, hold eyes open while under gentle running water for at least 15 minutes. Seek 
+medical attention if irritation persists. 
+SKIN CONTACT: Wash skin thoroughly after handlin g product . Seek medical attention if irritation develops and persists. 
+Remove contaminated clothing. Launder clothing before re -use. 
+INHALATION: If breathing becomes difficult, remove victim to fresh air. If necessary, use artificial respir ation to support 
+vital functions. Seek medical attention if breathing dif ficulty continues. 
+INGESTION: If product is swallowed, call physician or poison control center for most current response information. If 
+professional advice is not ava ilable, do not induce vomiting. Never induce vomiting or give diluents (milk or water) to 
+someone who is unconscious, having convulsions, or who cann ot swallow. Take a copy of the label and/or MSDS with the 
+victim to the health professional. 
+MEDICAL COND ITIONS AGGRAVATED BY EXPOSURE: Pre-existing respiratory system or eye problems may be 
+aggravated by prolonged contact. 
+RECOMMENDATIONS TO PHYSICIANS: Treat symptoms and eliminate over exposure. 
+SECTION 5 -5
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 7:
+Content: SECTION 5 -5 - FIRE -FIGHTING MEASURES 
+FLASH POI NT: -50°F (-45.5°C) (Estimated ) 
+AUTOIGNITION TEMPERATURE : 495°F (237 °C) 
+FLAMMABLE LIMITS (in air by volume, %) : Lower (LEL) : 1.4% Upper (UEL) : 7.6% 
+FIRE EXTINGUISHING MATERIALS : Extinguish with foam, carbon dioxide, dry powder or water fog. 
+UNUSUAL FI RE AND EXPLOSION HAZARDS : Flammable liquid and vapor - may cause flash fire. 
+SPECIAL FIRE -FIGHTING PROCEDURES : Incipient fire responders should wear eye protection. Str uctural 
+firefighters must wear self -contained breathing a pparatus and full 
+protective equipment. Isolate materials not yet involved in the fire and 
+protect personnel. Move containers from fire area if this can be done 
+without risk; otherwise, cool with carefully applied water spray. If 
+possible, prevent runoff water from entering storm dra ins, bodies of 
+water, or other environmentally sensitive areas.
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 8:
+Content: MATERIAL SAFETY DATA SHEET 
+ PREMIUM UNLEADED GASOLINE 
+Date of Last Revision: 1/3/2012 
+ 
+ NFPA RATING SYSTEM HMIS RATING SYSTEM 
+ HAZARDOUS MATERIAL I DENTIFICATION SYSTEM 
+Flammability HEALTH HAZARD (BLUE) 1 
+ 
+ 
+ 
+ FLAMMABILITY HAZARD (RED) 3 
+ 
+Health Reactivity 
+ PHYSICAL HAZARD (YE LLOW) 0 
+ 
+ 
+ PROTECTIVE EQUIPMENT 
+ EYES RESPIRATORY HANDS BODY 
+Other 
+ See Sect 8 
+ See 
+Sect 8 
+ 
+ 
+ For Routine Industrial Use and Handling Applications 
+Hazard Scale: 0 = Minimal 1 = Slight 2 = Moderate 3 = Serious 4 = Severe * = Chronic hazard 
+SECTION 6 -6 - ACCIDENTAL RELEASE MEASURES 
+SPILL AND LEAK RESPONSE: Personnel should be trained for spill response operations. 
+SPILLS: Contain spill if safe to do so. Small Liquid Spills: Absorb with sand or other non -combustible absorbent 
+material. Use non -sparking tools. Large Spillages: Use water spray to disperse vapors and dilute spill to a nonflammable 
+mixture. Prevent runoff from entering drains, sewers, or streams. Dike for later disposal. Dispose of in accordance with 
+applicable federal, s tate, and local procedures (see Section 13, Disposal Considerations). 
+SECTION 7 -7
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 3}
+
+--------------------------------------------------------------------------------
+Chunk 9:
+Content: SECTION 7 -7 - HANDLING AND STORAGE 
+WORK PRACTICES : As with all chemicals, avoid getting this prod uct ON YOU or IN YOU. Wash thoroughly after handling 
+this product. Do not eat, drink, smoke, or apply cosmetics while handling this product. Avoid breathing vapors/mists 
+generated by this product. Use in a well -ventilated location. Remove contaminated clothing immediately. 
+STORAGE AND HANDLING PRACTICES: Comply with all applicable EPA, OSHA, NFPA and consistent state and local 
+requirements. Use appropriate grounding and bonding practices. Store in properly closed containers that are appropriately 
+labeled and in a cool well -ventilated area. Do not expose to heat, open flames, strong oxidizers or other sources of 
+ignition. Do not cut, drill, grind or weld on empty containers since they may contain explosive residues. Avoid skin contact. 
+Exercise good per sonal hygiene including removal of soiled clothing and prompt washing with soap and water. 
+SECTION 8 -8
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 3}
+
+--------------------------------------------------------------------------------
+Chunk 10:
+Content: SECTION 8 -8 - EXPOSURE CONTROLS - PERSONAL PROTECTION 
+EXPOSURE LIMITS/GUIDELINES: 
+ 
+CHEMICAL NAME CAS# ACGIH T LV OSHA TWA 
+Premium Unleaded Gasoline 86290 -81-5 300 ppm Not Listed 
+ 
+Currently , international exposure limits are established for the components of this product. Please check with competent authority in 
+each country for the most recent limits . 
+VENTILATION AND ENGINEERING CONTROLS: Use with adequate ventil ation to ensure exposure levels are 
+maintained below the exposure limits provided above . Use local exhaust ventilation to control airborne vapor . Ensure 
+eyewash/safety shower stations are available near areas where this product is used. 
+The following in formation on appropriate Personal Protective Equipment is provided to assist employers in complying with OSHA 
+regulations found in 29 CFR Subpart I (beginning at 1910.132) or equivalent standard of Canada, or standards of EU member 
+states (including EN 14 9 for respiratory PPE, and EN 166 for face/eye protection), and those of Japan. Please reference applicable 
+regulations and standards for relevant details. 
+RESPIRATORY PROTECTION: Maintain airborne contaminant concentrations below exposure limit guideli nes listed 
+above. If necessary, use only respiratory protection authorized in the U.S. Federal OSHA Respiratory Protection Standard 
+(29 CFR 1910.134), equivalent U.S. State standards, Canadian CSA Standard Z94.4 -93, the European Standard EN149, 
+or by EU me mber states . 
+0 
+- 
+3 
+ 
+1
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 3}
+
+--------------------------------------------------------------------------------
+Chunk 11:
+Content: MATERIAL SAFETY DATA SHEET 
+ PREMIUM UNLEADED GASOLINE 
+Date of Last Revision: 1/3/2012 
+ 
+ EYE PROTECTION: Use s afety glasses or chemical goggles as appropriate to prevent eye contact . If necessary, refer 
+to U.S. OSHA 29 CFR 1910.133 or appropriate Canadian Standards. 
+HAND PROTECTION: Use chemical resistant gloves to prevent sk in contact. If necessary, refer to U.S. OSHA 29 CFR 
+1910.138 or appropriate Standards of Canada. 
+BODY PROTECTION: Use body protection appropriate to prevent contact (e.g. lab coat, overalls). If necessary, r efer to 
+appropriate Standards of Canada, or a ppropriate Standards of the EU, Australian Standards, or relevant Japanese 
+Standards. 
+SECTION 9 -9 - PHYSICAL AND CHEMICAL PROPERTIES 
+PHYSICAL STATE: Liquid 
+APPEARANCE & ODOR: Clear with hydrocarbon odor 
+ODOR THRESHOLD (PPM): Mild 
+VAPOR PRESSURE (mmH g): Not Available 
+VAPOR DENSITY (AIR=1): 3 - 4 
+EVAPORATION RATE (nBuAc = 1): Not Available 
+BOILING POINT (C °): Not Available 
+FREEZING POINT (C °): Not Available 
+pH: Not Available 
+SPECIFIC GRAVITY 20 °C: (WATER =1) 0.70 – 0.77 
+PARTITION CO EFFICIENT (n -OCTANOL/WATER) 2.13 – 4.5 
+VOC %: 100% 
+ 
+SECTION 10 – STABILITY AND REACTIVITY 
+STABILITY : Product is stable 
+DECOMPOSITION PRODUCTS : None known 
+MATERIALS WITH WHICH SUBSTANCE IS INCOMPATIBLE : Strong oxidizers such as nitrates, chlorates, 
+peroxides. 
+HAZARDOUS POLYMERIZATION : Will not occur 
+CONDITIONS TO AVOID : Contact with incompatible materials , heat, sparks and flames.
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 4}
+
+--------------------------------------------------------------------------------
+Chunk 12:
+Content: SECTION 11 -11
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 4}
+
+--------------------------------------------------------------------------------
+Chunk 13:
+Content:  - TOXICOLOGICAL INFORMATION 
+TOXICITY DATA : The following t oxicity data is available for this product : 
+CAS # 86290 -81-5 LC50 Oral >14 ml/kg Rat 
+SUSPECTED CANCER AGENT : The following i ngredients of this product are found on the following lists: FEDERAL 
+OSHA Z LIST, NTP, CAL /OSHA, IARC and therefore considered to be, or suspected to be cancer -causing agent s by 
+these agencies. 
+Gasoline CAS# 86290 -81-5 
+A2-Possible Human Carcinogen 
+A3 - Confirmed Animal Carcinogen with Unknown Relevance to Humans 
+Component Information: 
+Toluene CAS# 108 -88-3 male rat -no evidence; female rat -no evidence; male mice -no evidence; femal e mice -no 
+evidence A4 - Not Classifiable as a Human Carcinogen 
+Xylene CAS# 1330 -20-7 male rat -no evidence; female rat -no evidence; male mice -no evidence; female mice -no 
+evidence A4 - Not Classifiable as a Human Carcinogen 
+Benzene CAS# 71 -43-2 Supplement 7 [1987], Monograph 29 [1982] Known Human Carcinogen male rat -clear 
+evidence; female rat -clear evidence; male mice -clear evidence; female mice -clear evidence A1 - Confirmed Human 
+Carcinogen Present 
+Ethyl Benzene CAS#100 -41-4 Monograph 77 [2000] male rat -clear evidence; female rat -some evidence; male mice -
+some evidence; female mice -some evidence 
+A3 - Confirmed Animal Carcinogen with Unknown Relevance to Humans Present 
+Naphthalene CAS# 91 -20-3 Monograph 82 [2002] Reasonably Anticipated To Be A Human Carcinogen male rat -clear 
+evidence; female rat -clear evidence; male mice -no evidence; female mice -some evidence
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 4}
+
+--------------------------------------------------------------------------------
+Chunk 14:
+Content: MATERIAL SAFETY DATA SHEET 
+ PREMIUM UNLEADED GASOLINE 
+Date of Last Revision: 1/3/2012 
+ 
+ A4 - Not Classifiable as a Human Carcinogen Present 
+IRRITANT INFORMATION : Cont act with this product can be irritating to exposed skin, and eyes. 
+SENSITIZ ER INFORMATION : This product is not considered a sensitizer. 
+REPRODUCTIVE TOXICITY INFORMATION : This product is not reported to cause reproductive effects. 
+OTHER INFORMATION ON COMPONENTS : 
+BENZENE: Studies of Workers Overexposed to Benzene: Studies of wor kers exposed to benzene show clear evidence 
+that overexposure can cause cancer andother diseases of the blood forming organs including Acute Myelogenous 
+Leukemia (AML), and Aplastic Anemia (AA), an often fatal disease. Some studies suggest overexposure to benzene 
+may also be associated with Myelodysplastic Syndrome (MDS). Findings from a Case -Control study of workers exposed 
+to benzene was reported during the 2009 Benzene Symposium in Munich included an increase in Acute Myeloid 
+Leukemias and Non -Hodgkins L ymphoid Neoplasms (NHLN) of the subtype follicular lymphoma (FL) in some 
+occupational categories. Some studies of workers exposed to benzene have shown an association with increased rates 
+of chromosome aberrations in circulating lymphocytes. One study of w omen workers exposed to benzene suggested a 
+weak association with irregular menstruation. However, other studies of workers exposed to benzene have not 
+demonstrated clearevidence of an effect on fertility or reproductive outcome in humans. Benzene can cros s the placenta 
+and affect the developing fetus. Cases of AA have been reported in the offspring of persons severely overexposed to 
+benzene. Studies in laboratory animals indicate that prolonged, repeated exposure to high levels of benzene vapor can 
+cause b one marrow suppression and cancer in multiple organ systems. Studies in laboratory animals show evidence of 
+adverse effects on male reproductive organs following high levels of exposure but no significant effects on reproduction 
+have been observed. Embryot oxicity has been reported in studies of laboratory animals but effects were limited to 
+reduced fetal weight and minor skeletal variations. Benzene has been classified as a proven human carcinogen by 
+OSHA and a Group 1 (Carcinogenic to Humans) material by I ARC. The current proposed IARC classification for 
+benzene is summarized as follows: Sufficient evidence for Acute Myeloid Leukemia; limited evidence for Acute 
+Lymphatic Leukemia, Chronic Lymphatic Leukemia, Non -Hodgkin Lymphoma, and Multiple Myeloma. 
+NAPHT HAS: In a large epidemiological study on over 15,000 employees at several petroleum refineries and amongst 
+residents located near these refineries, no increased risk of kidney cancer was observed in association with gasoline 
+exposures (a similar material). In a similar study, no increased risk of kidney cancer was observed among petroleum 
+refinery workers, but there was a slight trend in the incidence of kidney cancers among service station employees, 
+especially after a 30 - year latency period. 
+ISOPARAFFINS : Studies in laboratory animals have shown that long -term exposure to similar materials (isoparaffins) 
+can cause kidney damage and kidney cancer in male laboratory rats. However, in -depth research indicates that these 
+findings are unique to the male rat, a nd that these effects are not relevant to humans. 
+TOLUENE: Case studies of persons abusing toluene suggest isolated incidences of adverse effects on the fetus 
+including birth defects. Abuse of toluene at high concentrations (e.g., glue sniffing and solvent abuse) has been 
+associated with adverse effects on the liver, kidney and nervous system, and can cause CNS depression, cardiac 
+arrhythmias, and death. Studies of workers indicate longterm exposure may be related to impaired color vision and 
+hearing. Some studies of workers suggest longterm exposure may be related to neurobehavioral and cognitive 
+changes. Some of these effects have been observed in laboratory animals following repeated exposure to high levels of 
+toluene. Several studies of workers suggest l ongterm exposure may be related to small increases in spontaneous 
+abortions and changes in some gonadotropic hormones. However, the weight of evidence does not indicate toluene is a 
+reproductive hazard to humans. Studies in laboratory animals indicate some changes in reproductive organs following 
+high levels of exposure, but no significant effects on mating performance or reproduction were observed. Case studies 
+of persons abusing toluene suggest isolated incidences of adverse effects on the fetus including birth defects. Findings 
+in laboratory animals have been largely negative. Positive findings include small increases in minor skeletal and visceral 
+malformations and developmental delays following very high levels of maternal exposure. Studies of workers i ndicate 
+long-term exposure may be related to effects on the liver, kidney and blood, but these appear to be limited to changes in 
+serum enzymes and decreased leukocyte counts. Adverse effects on the liver, kidney, thymus and nervous system were 
+observed in animal studies following very high levels of exposure. The relevance of these findings to humans is not clear 
+at this time. 
+ETHYLBENZENE: Findings from a 2 -year inhalation study in rodents conducted by NTP were as follows: Effects were 
+observed only at th e highest exposure level (750 ppm). At this level the incidence of renal tumors was elevated in male 
+rats (tubular carcinomas) and female rats (tubular adenomas). The incidence of tumors was also elevated in male mice 
+(alveolar and bronchiolar carcinomas) and female mice (hepatocellular carcinomas). IARC has classified ethyl benzene 
+as "possibly carcinogenic to humans" (Group 2B). Studies in laboratory animals indicate some evidence of post 
+implantation deaths following high levels of maternal exposure. The relevance of these findings to humans is not clear at 
+this time. Studies in laboratory animals indicate limited evidence of renal malformations, resorptions, and developmental 
+delays following high levels of maternal exposure. The relevance of these findi ngs to humans is not clear at this time. 
+Studies in laboratory animals have demonstrated evidence of ototoxicity (hearing loss) following exposure levels as low
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 5}
+
+--------------------------------------------------------------------------------
+Chunk 15:
+Content: MATERIAL SAFETY DATA SHEET 
+ PREMIUM UNLEADED GASOLINE 
+Date of Last Revision: 1/3/2012 
+ 
+ as 300 ppm for 5 days. Studies in laboratory animals indicate some evidence of adverse effects on the liver, kidney, 
+thyroid, and pituitary gland. 
+XYLENES, ALL ISOMERS: Overexposure to xylene may cause upper respiratory tract irritation, headache, cyanosis, 
+blood serum changes, CNS damage and narcosis. Effects may be increased by the use of alcoholi c beverages. 
+Evidence of liver and kidney impairment were reported in workers recovering from a gross overexposure. Effects from 
+Prolonged or Repeated Exposure: Impaired neurological function was reported in workers exposed to solvents including 
+xylene. St udies in laboratory animals have shown evidence of impaired hearing following high levels of exposure. 
+Studies in laboratory animals suggest some changes in reproductive organs following high levels of exposure but no 
+significant effects on reproduction we re observed. Studies in laboratory animals indicate skeletal and visceral 
+malformations, developmental delays, and increased fetal resorptions following extremely high levels of maternal 
+exposure. The relevance of these observations to humans is not clear at this time. Adverse effects on the liver, kidney, 
+bone marrow (changes in blood cell parameters) were observed in laboratory animals following high levels of exposure. 
+The relevance of these observations to humans is not clear at this time. 
+C9 AROMATIC H YDROCARBONS: A developmental inhalation study was conducted in laboratory mice. Increased 
+implantation losses, reduced fetal weights, delayed ossification and an increased incidence of cleft palate were 
+observed at the highest exposure level (1,500 ppm). T his exposure level was extremely toxic to pregnant female mice 
+(44% mortality). Reduced fetal body weights were also observed at 500 ppm. A multi -generation reproduction inhalation 
+study was conducted in laboratory rats. Reductions in pup weights, pup weig ht gain, litter size, and pup survival were 
+observed at 1,500 ppm, an exposure level at which significant maternal toxicity was observed. Reduced pup weight gain 
+was also observed at 500 ppm. 
+NAPHTHALENE: Severe jaundice, neurotoxicity (kernicterus) and fa talities have been reported in young children and 
+infants as a result of hemolytic anemia from overexposure to naphthalene. Persons with Glucose 6 -phosphate 
+dehydrogenase (G6PD) deficiency are more prone to the hemolytic effects of naphthalene. Adverse eff ects on the 
+kidney have been reported in persons overexposed to naphthalene but these effects are believed to be a consequence 
+of hemolytic anemia, and not a direct effect. Hemolytic anemia has been observed in laboratory animals exposed to 
+studies) develo ped non -neoplastic and neoplastic tumors and inflammatory lesions of the nasal and respiratory tract. 
+Cataracts and other adverse effects on the eye have been observed in laboratory animals exposed to high levels of 
+naphthalene. Findings from a large numbe r of bacterial and mammalian cell mutation assays have been negative. A few 
+studies have shown chromosomal effects (elevated levels of Sister Chromatid Exchange or chromosomal aberrations) 
+in vitro. Naphthalene has been classified as Possibly Carcinogenic to Humans (2B) by IARC, based on findings from 
+studies in laboratory animals. 
+N-HEXANE: Long -term or repeated exposure to n -hexane can cause peripheral nerve damage. Initial symptoms are 
+numbness of the fingers and toes. Also, motor weakness can occur in t he digits, but may also involve muscles of the 
+arms, thighs and forearms. The onset of these symptoms may be delayed for several months to a year after the 
+beginning of exposure. Testicular atrophy and partial to full loss of the germ cell line were observ ed in sub -chronic high -
+dose inhalation studies of laboratory rodents. These effects appeared irreversible. Rodent reproduction studies have 
+shown evidence of reduced fetal weight but no frank malformations. 
+PENTANES: Studies of pentane isomers in laborator y animals indicate exposure to extremely high levels (roughly 10 
+vol.%) may induce cardiac arrhythmias (irregular heartbeats) which may be serious or fatal. 
+ 
+
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 6}
+
+--------------------------------------------------------------------------------
+Chunk 16:
+Content: SECTION 12 -12 - ECOLOGICAL INFORMATION 
+ENVIRONMENTAL STABILITY : Readily biodegradable in the enviro nment. 
+EFFECT OF MATERIAL ON PLANTS or ANIMALS : Not relevant, due to the form of the product. 
+EFFECT OF CHEMICAL ON AQUATIC LIFE : Toxic to aquatic organisms. 
+SECTION 13 -13 - DISPOSAL CONSIDERATIONS 
+WASTE DISPOSAL: Waste disposal must be in accordance wit h appropriate Federal, State, and local regulations, 
+those of Canada, Australia, EU Member States and Japan. This product as produced is not specifically listed as an EPA 
+RCRA hazardous waste according to federal regulations (40 CFR 261). However, when dis carded or disposed of, it may 
+meet the criteria of an "characteristic" hazardous waste. This product could also contain benzene at >0.5 ppm and could 
+exhibit the characteristics of "toxicity" as determined by the toxicity characteristic leaching procedure (TCLP). This 
+material could become a hazardous waste if mixed or contaminated with a hazardous waste or other substance(s). 
+It is the responsibility of the user to determine if disposal material is hazardous according to federal, state and local 
+regulation s.
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 6}
+
+--------------------------------------------------------------------------------
+Chunk 17:
+Content: MATERIAL SAFETY DATA SHEET 
+ PREMIUM UNLEADED GASOLINE 
+Date of Last Revision: 1/3/2012 
+ 
+ SECTION 14 -14 - TRANSPORTATION INFORMATION 
+THIS PRODUCT IS HAZARDOUS AS DEFINED BY 49 CFR 172.101 BY THE U.S. DEPARTMENT OF 
+TRANSPORTATION. 
+PROPER SHIPPING NAME: Gasoline 
+HAZARD CLASS NUMBER and DESCRIPTION: Class 3 Flammable Liquid 
+UN IDENTIFICATI ON NUMBER: UN1203 
+PACKING GROUP: PGII 
+DOT LABEL(S) REQUIRED: Flammable Liquid Class 3 
+NORTH AMERICAN EMERGENCY RESPONSE GUIDEBOOK NUMBER (2004 ): 128 
+MARINE POLLUTANT: Product or ingredients are not classified by the DOT as a Marine Pollutant (as defin ed by 49 
+CFR 172.101, Appendix B) 
+U.S. DEPARTMENT OF TRANSPORTATION (DOT) SHIPPING REGULATIONS: 
+This product is classified as dangerous goods, per U.S. DOT regulations, under 49 CFR 172.101. 
+TRANSPORT CANADA, TRANSPORTATION OF DANGEROUS GOODS REGULATION S: 
+This product is classified as Dangerous Goods, per regulations of Transport Canada. 
+INTERNATIONAL AIR TRANSPORT ASSOCIATION (IATA): 
+This product is classified as Da ngerous Goods, by rules of IATA 
+INTERNATIONAL MARITIME ORGANIZATION (IMO) DESIGNA TION: 
+This product is classified as Dangerous Goods by the International Maritime Organization. 
+EmS No.: F-D, S-U 
+EUROPEAN AGREEMENT CONCERNING THE INTERNATIONAL CARRIAGE OF DANGEROUS GOODS BY ROAD 
+(ADR): 
+This product is classified by the United Nat ions Economic Commission for Europe to be dangerous goods. 
+SECTION 15 -15
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 7}
+
+--------------------------------------------------------------------------------
+Chunk 18:
+Content:  - REGULATORY INFORMATION 
+UNITED STATES REGULATIONS : 
+SARA REPORTING REQUI REMENTS: This product is subject to the reporting requirements of Sections 302, 304 and 
+313 of Title III of the Superfund Ame ndments and Reauthorization Act (SARA) as follows: None 
+ 
+TSCA: All components in this product are listed on the US Toxic Substances Control Act (TSCA) inventory of 
+chemicals. 
+SARA 311/312: 
+Acute Health: Yes Chronic Health: Yes Fire: Yes Reactivity: No 
+U.S. CERCLA REPORTABLE QUANTITY (RQ): Toluene CAS# 108 -88-3 1,000 Lbs., Xylene CAS# 1330 -20-7 100 Lbs., 
+Benzene CAS# 71 -43-2 10 Lbs., Hexane CAS# 110 -54-3 5,000 Lbs., Ethyl Benzene CAS# 100 -41-4 1,000 Lbs. , 
+Naphthalene CAS# 91 -20-3 100 Lbs. 
+CLEAN AIR ACT (CAA) SECTION 112(r) ACCIDENTAL RELEASE P REVENTION (40 CFR 68.130): Gasoline 
+CALIF ORNIA SAFE DRINKING WATER AND TOXIC ENFORCEMENT ACT (PROPOSITION 65): This product does 
+contain ingredient (s) are on the California Proposition 65 lists. 
+WARNING! This product contains ingredients that are known to the State of California to cause cancer or reproductive 
+harm. 
+CANADIAN REGULATIONS: 
+CANADIAN DSL/NDSL INVENTORY STATUS: All of the components of this product are on the DSL Inventory 
+CANADIAN ENVIRONMENTAL PROTECTION ACT (CEPA) PRIORITIES SUBSTANCES LISTS: No component of this 
+product is on the CEPA First Priori ties Substance l ists. 
+CANADIAN WHMIS CLASSIFICATION and SYMBOLS: This product is categor ized as Cl ass B2, and D2A as per the 
+Controlled Product r egulations 
+EUROPEAN ECONOMIC COMMUNITY INFORMATION: 
+EU LABELING AND CLASSIFICATION: 
+Classification of the mixture according to Regulation (EC) No1272/2008. See section 2 for details. 
+AUSTRALIAN INFORMATION FOR PRODUCT: 
+AUSTRALIAN INVENTORY OF CHEMICAL SUBSTANCES (AICS) STATUS: All components of this product are listed 
+on the AICS.
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 7}
+
+--------------------------------------------------------------------------------
+Chunk 19:
+Content: MATERIAL SAFETY DATA SHEET 
+PREMIUM UNLEADED GASOLINE 
+Date of Last Revision: 1/3/2012 STANDARD FOR THE UNIFORM SCHEDULING OF DRUGS AND POISONS: Not applicable. 
+JAPANESE INFORMATION FOR PRODUCT: 
+JAPANESE MINISTER O F INTERNATIONAL TRADE AND INDUSTRY (MITI) STATUS: The components of this 
+product are not listed as Class I Specified Chemical Substances, Class II Specified Chemical Substances, or Designated 
+Chemical Substances by the Japanese MITI. 
+INTERNATIONAL CHEMI CAL INVENTORIES: 
+Listing of the components on individual country Chemical Inventories is as follows: 
+Asia-Pac: Listed 
+Australian Inventory of Chemical Substances (AICS): Listed 
+Korean Existing Chemicals List (ECL): Listed 
+Japanese Existing National I nventory of Chemical Substances (ENCS): Listed 
+Philippines Inventory if Chemicals and Chemical Substances (PICCS): Listed 
+Swiss Giftliste List of Toxic Substances: Listed 
+U.S. TSCA: Listed 
+SECTION 16 -16
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 8}
+
+--------------------------------------------------------------------------------
+Chunk 20:
+Content: SECTION 16 -16 - OTHER INFORMATION 
+PREPARED BY: Paul Eigbret t MSDS Authoring PLUS 
+Disclaimer: To the best of NGL Crude Logistics LLC’s knowledge, the information contained herein is reliable and 
+accurate as of this date; however, NGL Crude Logistics , LLC assumes no liability for the reliability or accuracy of the 
+information contained herein and no warranties of any type either express or implied are provided. Final determination 
+of suitability of any material is the sole responsibility of the user. The information contained herein relates only to this 
+specific product.
+Metadata: {'source': 'pdf\\FUEL GASOLINE ALL GRADES SDS.pdf', 'page': 8}
+
+--------------------------------------------------------------------------------

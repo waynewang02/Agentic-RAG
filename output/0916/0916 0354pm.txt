@@ -1,0 +1,39 @@
+1: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "Warning, Caution", "source": "Section 1: Identification, Hazard identification"}
+
+2: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "SECTION 1: Identification"}
+
+3: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "01/05/17", "source": "SECTION 1: Identification"}
+
+4: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "SECTION 1: Identification"}
+
+5: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "3M Company.", "source": "SECTION 1: Identification"}
+
+6: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "1-800-364-3577 or (651) 737-6501 (24 hours)", "source": "SECTION 2: Hazard identification"}
+
+7: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "Fire Hazard, Pressure Hazard, Immediate Hazard", "source": "311/312 Hazard Categories"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "Highly flammable; May cause drowsiness or dizziness.", "source": "Section 3: Composition/information on ingredients"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Avoid heat and incompatible materials such as strong oxidizing agents, strong acids.", "source": "SECTION 10: Stability and reactivity, SECTION 10.4: Conditions to avoid, SECTION 10.5: Incompatible materials"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "May be harmful if inhaled. Intentional concentration and inhalation may be harmful or fatal. Simple Asphyxiation: Signs/symptoms may include increased heart rate, rapid respirations, drowsiness, headache, incoordination, altered judgement, nausea, vomiting, lethargy, seizures, coma, and may be fatal.", "source": "SECTION 11: Toxicological information"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Mild Skin Irritation: Signs/symptoms may include localized redness, swelling, itching, and dryness. Ingestion, etc.", "source": "SECTION 11: Toxicological information"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Flush with plenty of water. If irritation persists, get medical attention.", "source": "SECTION 11: Toxicological information"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "Gastrointestinal Irritation: Signs/symptoms may include abdominal pain, stomach upset, nausea, vomiting and diarrhea. May cause additional health effects (see below).; Ingestion: Gastrointestinal Irritation: Signs/symptoms may include abdominal pain, stomach upset, nausea, vomiting and diarrhea.", "source": "SECTION 11: Toxicological information"}
+

@@ -1,0 +1,140 @@
+1: What is the product identifier?
+{"answer": "GOJO ® Antibacterial Plum Foam Handwash", "source": "SECTION 1. PRODUCT AND COMPANY IDENTIFICATION"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "11/24/2014", "source": "Date of first issue : 11/24/2014"}
+
+3: What is the product description?
+{"answer": "GOJO Antibacterial Plum Foam Handwash", "source": "SECTION 1. IDENTIFICATION"}
+
+4: Who is the manufacturer of the product?
+{"answer": "GOJO Industries, Inc.", "source": "SECTION 1. IDENTIFICATION"}
+
+5: What is the emergency telephone number for the product?
+{"answer": "1-800-424-9300 CHEMTREC", "source": "SECTION 1. IDENTIFICATION"}
+
+6: What are the hazard classifications associated with the product?
+{"answer": "Flammable liquids Category 3, Serious eye damage Category 1", "source": "SECTION 2. HAZARDS IDENTIFICATION"}
+
+7: What is the signal word used for the product?
+{"answer": "Danger", "source": "SECTION 2. HAZARDS IDENTIFICATION"}
+
+8: What are the hazard statements related to the product?
+{"answer": "H226 Flammable liquid and vapor., H318 Causes serious eye damage.", "source": "SECTION 2. HAZARDS IDENTIFICATION"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "Avoid inhalation of vapor or mist. Do not swallow. Do not get in eyes. Avoid prolonged or repeated contact with skin. Handle in accordance with good industrial hygiene and safety practice. Non-sparking tools should be used. Keep container tightly closed. Keep away from heat and sources of ignition. Take precautionary measures against static discharges. Take care to prevent spills, waste and minimize release to the environment.", "source": "SECTION 7. HANDLING AND STORAGE"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "If inhaled, remove to fresh air. Get medical attention if symptoms occur.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Wash with water and soap as a precaution. Get medical attention if symptoms occur.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+12: What are the first aid measures in case of eye contact?
+{
+  "answer": "In case of contact, immediately flush eyes with plenty of water for at least 15 minutes. If easy to do, remove contact lens, if worn. Get medical attention immediately.", 
+  "source": "SECTION 3 / 21"
+}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "DO NOT induce vomiting. Get medical attention if symptoms occur. Rinse mouth thoroughly with water.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Water spray, Alcohol-resistent foam, Carbon dioxide (CO2), Dry chemical", "source": "SECTION 5. FIRE-FIGHTING MEASURES"}
+
+15: What are the special hazards arising from the substance during a fire?
+{"answer": "Vapors may form explosive mixtures with air. Exposure to combustion products may be a hazard to health. Carbon oxides, Nitrogen oxides (NOx), Metal oxides", "source": "SECTION 5. FIRE -FIGHTING MEASURES"}
+
+16: Are there any special fire handling procedures required for the product?
+{"answer": "Use water spray to cool unopened containers. Remove undamaged containers from fire area if it is safe to do so. Do not use a solid water stream as it may scatter and spread fire.", "source": "SECTION 5. FIRE -FIGHTING MEASURES, SECTION 6. ACCIDENTAL RELEASE MEASURES"}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Prevent further leakage or spillage if safe to do so. Soak up with inert absorbent material. Suppress (knock down) gases/vapors/mists with a water spray jet. For large spills, provide diking or other appropriate containment to keep material from spreading.", "source": "Environmental precautions, Methods and materials for containment and cleaning up, SECTION 6. ACCIDENTAL RELEASE MEASURES"}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{"answer": "Avoid inhalation of vapor or mist. Do not swallow. Do not get in eyes. Avoid prolonged or repeated contact with skin. Handle in accordance with good industrial hygiene and safety practice. Non-sparking tools should be used. Keep container tightly closed. Keep away from heat and sources of ignition. Take precautionary measures against static discharges. Take care to prevent spills, waste and minimize release to the environment.", "source": "SECTION 7. HANDLING AND STORAGE"}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "General and local exhaust ventilation is recommended to maintain vapor exposures below recommended limits. Wear chemical resistant goggles, face-shield if splashes are likely to occur, flame retardant antistatic protective clothing, impervious protective clothing (gloves, aprons, boots), respirators approved by NIOSH/MSHA, and wash hands before breaks and at the end of workday.", "source": "SECTION 8. EXPOSURE CONTROLS/PERSONAL PROTECTION"}
+
+20: What are the physical and chemical properties of the product?
+{
+  "answer": "Ethanol: Bioaccumulative potential based on log Pow: -0.35; Dodecanoic acid: BCF (Fish): 234-288; Ethanolamine: No data available",
+  "source": "Ingredients, Test atmosphere"
+}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "The substance or mixture is stable under normal conditions.", "source": "SECTION 10. STABILITY AND REACTIVITY"}
+
+22: What are the possible hazardous decomposition products of the product?
+{"answer": "No hazardous decomposition products are known.", "source": "SECTION 7. HANDLING AND STORAGE"}
+
+23: What is the toxicological information available for the product?
+{"answer": "Not classified as a human carcinogen by IARC, OSHA, and NTP. Not classified as a skin sensitizer, respiratory sensitizer, reproductive toxicant, STOT-single exposure, or STOT-repeated exposure. Toxic to bacteria, fish, daphnia and other aquatic invertebrates, and algae with EC50/LC50/NOEC values.", "source": "IARC, OSHA, NTP, Skin sensitization assessment, Respiratory sensitization assessment, Reproductive toxicity assessment, STOT-single exposure assessment, STOT-repeated exposure assessment"}
+
+24: What are the safety precautions and handling instructions for using the product?
+{"answer": "Handle in accordance with good industrial hygiene and safety practice. Use non-sparking tools. Keep container tightly closed. Avoid inhalation of vapor or mist. Do not swallow. Do not get in eyes. Avoid prolonged or repeated contact with skin. Store in a cool, well-ventilated place.", "source": "SECTION 7. HANDLING AND STORAGE, SECTION 4. FIRST AID MEASURES"}
+
+25: What are the potential hazards associated with the product?
+{"answer": "Flammable liquids, Serious eye damage, Carbon oxides, Nitrogen oxides (NOx), Metal oxides", "source": "SECTION 2. HAZARDS IDENTIFICATION"}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Respiratory irritation and serious eye damage.", "source": "SECTION 2. HAZARDS IDENTIFICATION"}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{"answer": "If inhaled, remove to fresh air. Get medical attention if symptoms occur.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{"answer": "Wash with water and soap as a precaution. Get medical attention if symptoms occur.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{"answer": "In case of eye contact: In case of contact, immediately flush eyes with plenty of water for at least 15 minutes. If easy to do, remove contact lens, if worn. Get medical attention immediately.", "source": "SECTION 4. FIRST AID MEASURES, SECTION 3. HAZARDS IDENTIFICATION"}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{"answer": "DO NOT induce vomiting. Get medical attention if symptoms occur. Rinse mouth thoroughly with water.", "source": "SECTION 6. ACCIDENTAL RELEASE MEASURES"}
+
+31: What is the waste disposal method for the product?
+{
+  "answer": "Dispose of in accordance with local regulations; Dispose of as unused product; Take to an approved waste handling site for recycling or disposal.", 
+  "source": "SECTION 13. DISPOSAL CONSIDERATIONS, SECTION 6. ACCIDENTAL RELEASE MEASURES"
+}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Keep in properly labeled containers. Keep tightly closed. Keep in a cool, well-ventilated place.", "source": "SECTION 7. HANDLING AND STORAGE and SECTION 5 / 21"}
+
+33: What is the shelf life of the product?
+{"answer": "Keep in a cool, well-ventilated place.", "source": "Conditions for safe storage"}
+
+34: What are the composition and ingredients of the product?
+{"answer": "Ethanol, Dodecanoic acid, Propylene glycol, Ethanolamine, Imidazolium compounds, 1 -[2- (carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5- dihydro -2-norcoco alkyl, hydroxides, sodium salts", "source": "Ingredients"}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{
+  "answer": "Vapors may form explosive mixtures with air; Strong oxidizing agents, Organic peroxides, Flammable solids, Pyrophoric liquids, Pyrophoric solids, Self-heating substances and mixtures, Substances and mixtures which in contact with water emit flammable gases, Explosives, Gases",
+  "source": "SECTION 8. EXPOSURE CONTROLS/PERSONAL PROTECTION, Materials to avoid"
+}
+
+36: What is the odor of the product?
+{"answer": "Floral, fruity", "source": "SECTION 1. IDENTIFICATION"}
+
+37: What is the boiling point of the product?
+{"answer": "97.00 °C", "source": "SECTION 1. IDENTIFICATION"}
+
+38: Is the product flammable?
+{"answer": "Yes", "source": "SECTION 2. HAZARDS IDENTIFICATION"}
+
+39: What is the solubility of the product?
+{"answer": "soluble in water", "source": "SECTION 7. HANDLING AND STORAGE"}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "stable under normal conditions but can react with strong oxidizing agents and form hazardous combustion products when combusted, leading to conditions to avoid such as heat, flames, and sparks.", "source": "SECTION 10. STABILITY AND REACTIVITY"}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "General and local exhaust ventilation is recommended to maintain vapor exposures below recommended limits. Where concentrations are above recommended limits or are unknown, appropriate respiratory protection should be worn. Use NIOSH/MSHA approved respirators. For certain applications, use a positive pressure air supplied respirator if there is any potential for uncontrolled release, exposure levels are unknown, or any other circumstance where air purifying respirators may not provide adequate protection.", "source": "EXPOSURE CONTROLS/PERSONAL PROTECTION"}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Discharge into the environment must be avoided. Prevent further leakage or spillage if safe to do so. Prevent spreading over a wide area (e.g. by containment or oil barriers). Retain and dispose of contaminated wash water. Local authorities should be advised if significant spillages cannot be contained.", "source": "4 / 21, Methods and materials for containment and cleaning up, SECTION 6. ACCIDENTAL RELEASE MEASURES"}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "No", "source": "Personal protective equipment"}

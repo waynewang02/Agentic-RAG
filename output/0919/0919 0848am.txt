@@ -1,0 +1,131 @@
+1: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "GOJO ® Antibacterial Plum Foam Handwash", "source": "SAFETY DATA SHEET"}
+
+2: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "11/24/2014, 02/16/2015", "source": "Date of first issue : Date of last issue"}
+
+3: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "GOJO Antibacterial Plum Foam Handwash", "source": "Product Name and Description"}
+
+4: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "GOJO Industries, Inc.", "source": "SECTION 1. IDENTIFICATION"}
+
+5: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "1-800-424-9300 CHEMTREC", "source": "SECTION 1. IDENTIFICATION"}
+
+6: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "Flammable liquids Category 3, Serious eye damage Category 1", "source": "SECTION 2. HAZARDS IDENTIFICATION"}
+
+7: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "I don't know", "source": N/A}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "P210 Keep away from heat/sparks/open flames/hot surfaces., P242 Use only non-sparking tools., P243 Take precautionary measures against static discharge., Vapors may form explosive mixture with air.", "source": "Precautionary Statements, Other hazards"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Use personal protective equipment. Follow safe handling advice and personal protective equipment recommendations. Avoid inhalation of vapor or mist. Do not swallow. Do not get in eyes. Avoid prolonged or repeated contact with skin. Handle in accordance with good industrial hygiene and safety practice. Non-sparking tools should be used. Keep container tightly closed. Take precautionary measures against static discharges. Take care to prevent spills, waste and minimize release to the environment.", "source": "SECTION 7. HANDLING AND STORAGE, Advice on safe handling"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "If inhaled, remove to fresh air. Get medical attention if symptoms occur.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Wash with water and soap as a precaution. Get medical attention if symptoms occur.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "In case of eye contact : In case of contact, immediately flush eyes with plenty of water for at least 15 minutes. If easy to do, remove contact lens, if worn. Get medical attention immediately.", "source": "SECTION 1: Identification / Name, Address and Other MSDS Information"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "If swallowed, DO NOT induce vomiting. Get medical attention if symptoms occur. Rinse mouth thoroughly with water.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+14: Based on the following Safety Data Sheet, What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Water spray, Alcohol-resistant foam, Carbon dioxide (CO2), Dry chemical", "source": "SECTION 5. FIRE-FIGHTING MEASURES"}
+
+15: Based on the following Safety Data Sheet, What are the special hazards arising from the substance during a fire?
+{"answer": "Carbon oxides, Nitrogen oxides (NOx), Metal oxides, Vapors may form explosive mixtures with air, Flash back possible over considerable distance, Exposure to combustion products may be a hazard to health.", "source": "SECTION 5. FIRE-FIGHTING MEASURES"}
+
+16: Based on the following Safety Data Sheet, Are there any special fire handling procedures required for the product?
+{"answer": "Use water spray to cool unopened containers. Remove undamaged containers from fire area if it is safe to do so. Evacuate area. In the event of fire, wear self-contained breathing apparatus. Use personal protective equipment.", "source": "SECTION 5. FIRE -FIGHTING MEASURES, SECTION 7. HANDLING AND STORAGE, SECTION 4. FIRST AID MEASURES"}
+
+17: Based on the following Safety Data Sheet, How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Use personal protective equipment. Prevent further leakage or spillage if safe to do so. Prevent spreading over a wide area (e.g. by containment or oil barriers). Retain and dispose of contaminated wash water. Local authorities should be advised if significant spillages cannot be contained. Use non-sparking tools, soak up with inert absorbent material, suppress gases/vapors/mists with a water spray jet, and provide diking or other appropriate containment to keep material from spreading.", "source": "4 / 21 protective equipment and emergency procedures, Methods and materials for containment and cleaning up"}
+
+18: Based on the following Safety Data Sheet, What precautions should be taken for safe handling and storage of the product?
+{"answer": "Avoid inhalation of vapor or mist. Do not swallow. Do not get in eyes. Avoid prolonged or repeated contact with skin. Handle in accordance with good industrial hygiene and safety practice. Use non-sparking tools. Keep container tightly closed. Keep away from heat and sources of ignition. Take precautionary measures against static discharges. Take care to prevent spills, waste and minimize release to the environment.", "source": "Advice on safe handling"}
+
+19: Based on the following Safety Data Sheet, What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "General and local exhaust ventilation is recommended to maintain vapor exposures below recommended limits. Wear appropriate respiratory protection, impervious gloves, flame retardant gloves, chemical resistant goggles, face-shield, flame retardant antistatic protective clothing, and avoid skin contact with the product.", "source": "SECTION 8. EXPOSURE CONTROLS/PERSONAL PROTECTION"}
+
+20: Based on the following Safety Data Sheet, What are the physical and chemical properties of the product?
+{"answer": "melting point/freezing point: No data available, Initial boiling point and boiling range: 97.00 °C, Flash point: 56.00 °C, pH: 7.8 - 9.7, Density: 1.00 g/cm3, Viscosity, kinematic: 10 - 20 mm2/s (20 °C)", "source": "SECTION 4: Physical and chemical properties"}
+
+21: Based on the following Safety Data Sheet, Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "The product is stable under normal conditions. However, there are hazardous reactions to be aware of: flammable liquid and vapor, vapors may form explosive mixture with air, can react with strong oxidizing agents.", "source": "SECTION 10. STABILITY AND REACTIVITY, POSSIBILITY OF HAZARDOUS REACTIONS"}
+
+22: Based on the following Safety Data Sheet, What are the possible hazardous decomposition products of the product?
+{"answer": "No hazardous decomposition products are known.", "source": "8 / 21 Hazardous decomposition products"}
+
+23: Based on the following Safety Data Sheet, What is the toxicological information available for the product?
+{"answer": "The substance or mixture has no acute inhalation toxicity, The substance or mixture has no acute dermal toxicity, Acute oral toxicity estimate is > 5,000 mg/kg, LC50 (Rat) for Ethanolamine in vapor atmosphere is 124.7 mg/l, LD50 (Rabbit ) for Ethanolamine in dermal contact is 1,025 mg/kg", "source": "SECTION 11. TOXICOLOGICAL INFORMATION"}
+
+24: Based on the following Safety Data Sheet, What are the safety precautions and handling instructions for using the product?
+{"answer": "Use personal protective equipment. Follow safe handling advice and personal protective equipment recommendations. Avoid inhalation of vapor or mist. Do not swallow. Do not get in eyes. Avoid prolonged or repeated contact with skin. Handle in accordance with good industrial hygiene and safety practice. Non-sparking tools should be used. Keep container tightly closed. Keep away from heat and sources of ignition. Take precautionary measures against static discharges.", "source": "4 / 21 protective equipment and emergency procedures, SECTION 7. HANDLING AND STORAGE, Advice on safe handling"}
+
+25: Based on the following Safety Data Sheet, What are the potential hazards associated with the product?
+{"answer": "Vapors may form explosive mixture with air, Flammable liquid, Fire hazard, Acute health hazard.", "source": "Other hazards, Other hazards, SARA 304 Extremely Hazardous Substances Reportable Quantity, SARA 311/312 Hazards"}
+
+26: Based on the following Safety Data Sheet, What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Serious eye damage, irreversible effects on the eye, corrosive after 3 minutes to 1 hour of exposure; skin irritation from Ethanolamine.", "source": "SECTION 10 / 21 and SECTION 10 / 21"}
+
+27: Based on the following Safety Data Sheet, What are the emergency procedures in case of inhalation of the product?
+{"answer": "If inhaled, remove to fresh air. Get medical attention if symptoms occur.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+28: Based on the following Safety Data Sheet, What are the emergency procedures in case of skin contact with the product?
+{"answer": "Wash with water and soap as a precaution. Get medical attention if symptoms occur.", "source": "SECTION 4. FIRST AID MEASURES"}
+
+29: Based on the following Safety Data Sheet, What are the emergency procedures in case of eye contact with the product?
+{"answer": "In case of eye contact: In case of contact, immediately flush eyes with plenty of water for at least 15 minutes. If easy to do, remove contact lens, if worn. Get medical attention immediately.", "source": "SECTION 3 / 21"}
+
+30: Based on the following Safety Data Sheet, What are the emergency procedures in case of ingestion of the product?
+{"answer": "DO NOT induce vomiting. Get medical attention if symptoms occur. Rinse mouth thoroughly with water.", "source": "If swallowed / SECTION 4"}
+
+31: Based on the following Safety Data Sheet, What is the waste disposal method for the product?
+{"answer": "Dispose of in accordance with local regulations.", "source": "SECTION 13. DISPOSAL CONSIDERATIONS"}
+
+32: Based on the following Safety Data Sheet, Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Store in properly labeled containers. Keep tightly closed. Keep in a cool, well-ventilated place.", "source": "Conditions for safe storage "}
+
+33: Based on the following Safety Data Sheet, What is the shelf life of the product?
+{"answer": "No information is provided about the shelf life of the product.", "source": "The entire Safety Data Sheet"}
+
+34: Based on the following Safety Data Sheet, What are the composition and ingredients of the product?
+{"answer": "Water 70-90%, Ethanol 10-20%, Propylene glycol 5-10%, Dodecanoic acid 5-10%, Ethanolamine 1-5%.", "source": "SECTION 2. COMPOSITION/INFORMATION ON INGREDIENTS"}
+
+35: Based on the following Safety Data Sheet, Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "Yes, flammable liquid and vapor. Vapors may form explosive mixture with air. Can react with strong oxidizing agents.", "source": "SECTION 10. STABILITY AND REACTIVITY, SECTION 4. FIRST AID MEASURES"}
+
+36: Based on the following Safety Data Sheet, What is the odor of the product?
+{"answer": "I don't know", "source": "N/A"}
+
+37: Based on the following Safety Data Sheet, What is the boiling point of the product?
+{"answer": "97.00 °C", "source": "7 / 21"}
+
+38: Based on the following Safety Data Sheet, Is the product flammable?
+{"answer": "Yes", "source": "SECTION 10. STABILITY AND REACTIVITY"}
+
+39: Based on the following Safety Data Sheet, What is the solubility of the product?
+{"answer": "soluble", "source": "SECTION 7 / 21"}
+
+40: Based on the following Safety Data Sheet, Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "Yes, stable under normal conditions.", "source": "SECTION 10. STABILITY AND REACTIVITY"} 
+
+{"answer": "No hazardous decomposition products are known.", "source": "8 / 21 Hazardous decomposition products "}
+
+41: Based on the following Safety Data Sheet, What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "General and local exhaust ventilation is recommended. Wear impervious gloves, flame retardant gloves, chemical resistant goggles, face-shield, and flame retardant antistatic protective clothing. Use a positive pressure air supplied respirator if there is any potential for uncontrolled release, exposure levels are unknown, or any other circumstance where air purifying respirators may not provide adequate protection.", "source": "EXPOSURE CONTROLS/PERSONAL PROTECTION"}
+
+42: Based on the following Safety Data Sheet, Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Discharge into the environment must be avoided. Prevent further leakage or spillage if safe to do so. Prevent spreading over a wide area (e.g. by containment or oil barriers). Retain and dispose of contaminated wash water. Local authorities should be advised if significant spillages cannot be contained.", "source": "Environmental precautions"}
+
+43: Based on the following Safety Data Sheet, Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "Yes, the exact percentage of the composition can be disclosed for each chemical ingredient.", "source": "SECTION 20 / 21 New Jersey Right To Know & SECTION 3. COMPOSITION/INFORMATION ON INGREDIENTS"}
+

@@ -1,0 +1,39 @@
+1: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "No specific signal word is mentioned, but it can be assumed that the product is safe based on the text.", "source": "The safety data sheet does not explicitly mention a signal word."}
+
+2: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "KLEIBERIT 826.0", "source": "Trade name / Article No:"}
+
+3: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "08/15/2016", "source": "Date of preparation / last revision"}
+
+4: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "KLEIBERIT 826.0", "source": "43.0· Trade name / Article No: KLEIBERIT 826.0"}
+
+5: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "M.G.Becker GmbH + Co. KG, KLEBCHEMIE", "source": "1.3. Details of the supplier of the safety data sheet"}
+
+6: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "1-800-424-9300 (CHEMTREC), 1-800-451-1403 (SARA-HOTLINE)", "source": "1.4. Emergency telephone number:"}
+
+7: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "GHS-CLP classification is not explicitly stated, however, the product contains polyethylene glycol with a registry number 25322-68-3 which is not listed as hazardous. The sheet mentions 'No special measures required', 'Generally the product does not irritate the skin' and 'No further relevant information available'.", "source": "4.1, 4.2, 5.2"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "No hazard statement is provided for this product.", "source": "Section 16: Other information"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Wear self-contained respiratory protective device. Particular danger of slipping on leaked/spilled product.", "source": "6.1. Personal precautions, protective equipment and emergency procedures, 5.3. Advice for firefighters"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "Supply fresh air; consult doctor in case of complaints.", "source": "First-aid measures -> 4.1. Description of first aid measures -> After inhalation"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Generally the product does not irritate the skin.", "source": "First-aid measures > After skin contact"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Rinse opened eye for several minutes under running water.", "source": "4.1. Description of first aid measures, After eye contact"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "Rinse out mouth with plenty of water. Rinse out mouth and then drink plenty of water. Seek medical treatment.", "source": "4.1. After swallowing: , 4.2. Most important symptoms and effects, both acute and delayed"}
+

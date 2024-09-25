@@ -1,0 +1,129 @@
+1: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "GHS product identifier, CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades", "source": "Section 1. Identification"}
+
+2: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "7/29/2015. 5/15", "source": "Section 8. Exposure controls/personal protection"}
+
+3: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "Fuels, diesel, No 2, No. 2-D Grade Diesel Fuel Oil (defined by ASTM D-975); Treated or Refined Diesel Fuel No. 2; Grade 2 Distillate Fuel; Hydrodesulfurized Middle Distillate; C9-C16 Petroleum Hydrocarbons", "source": "Section 3. Composition/information on ingredients"}
+
+4: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "Unknown", "source": "N/A"}
+
+5: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "(832) 486-4700, (800) 424-9300", "source": "Section 1. Identification, Section 7. Handling and storage"}
+
+6: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "FLAMMABLE LIQUIDS - Category 3, ACUTE TOXICITY: INHALATION - Category 4, SKIN CORROSION/IRRITATION - Category 2, SERIOUS EYE DAMAGE/ EYE IRRITATION - Category 2B, CARCINOGENICITY - Category 2, SPECIFIC TARGET ORGAN TOXICITY (REPEATED EXPOSURE) [central nervous system (CNS)] - Category 2", "source": "Section 2. Hazards identification"}
+
+7: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "Danger", "source": "Section 2. Hazards identification"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "Flammable liquid and vapor. Harmful if inhaled. Causes skin and eye irritation. Suspected of causing cancer. May be fatal if swallowed and enters airways. May cause damage to organs through prolonged or repeated exposure.", "source": "Hazard statements, Section 2"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Wear protective gloves, safety glasses, respirator; use explosion-proof electrical equipment, non-sparking tools; keep away from heat, sparks, open flames and hot surfaces; avoid exposure to vapor and mist; obtain special instructions before use; do not breathe vapor; wash hands thoroughly after handling.", "source": "Section 2. Hazards identification, Section 7. Handling and storage"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "Remove victim to fresh air and keep at rest in a position comfortable for breathing. Do not induce vomiting.", "source": "Section 4. First aid measures"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Wash contaminated skin with soap and water. Remove contaminated clothing and shoes. Continue to rinse for at least 10 minutes. Get medical attention. Wash clothing before reuse. Clean shoes thoroughly before reuse.", "source": "Section 4. First aid measures, Ingestion:No action shall be taken involving any personal risk or without suitable training."}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Immediately flush eyes with plenty of water, occasionally lifting the upper and lower eyelids. Check for and remove any contact lenses. Continue to rinse for at least 10 minutes. Get medical attention.", "source": "Section 8"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "Get medical attention immediately. Call a poison center or physician. Wash out mouth with water. Remove dentures if any. Maintain an open airway. Loosen tight clothing such as a collar, tie, belt or waistband.", "source": "Section 4. First aid measures"}
+
+14: Based on the following Safety Data Sheet, What are the suitable extinguishing media for a fire involving the product?
+{"answer": "dry chemical, carbon dioxide (CO₂), water spray (fog) or foam", "source": "Section 5. Fire-fighting measures"}
+
+15: Based on the following Safety Data Sheet, What are the special hazards arising from the substance during a fire?
+{"answer": "Flammable liquid and vapor. In a fire or if heated, a pressure increase will occur and the container may burst, with the risk of a subsequent explosion. The vapor/gas is heavier than air and will spread along the ground. Vapors may accumulate in low or confined areas or travel a considerable distance to a source of ignition and flash back.", "source": "Section 5. Fire-fighting measures"}
+
+16: Based on the following Safety Data Sheet, Are there any special fire handling procedures required for the product?
+{"answer": "Use water spray to keep fire-exposed containers cool. Wear appropriate protective equipment and self-contained breathing apparatus (SCBA) with a full face-piece operated in positive pressure mode.", "source": "Section 5. Fire-fighting measures, Section 6. Accidental release measures"}
+
+17: Based on the following Safety Data Sheet, How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Stop leak if without risk. Move containers from spill area. Use spark-proof tools and explosion-proof equipment. Dilute with water and mop up if water-soluble. Alternatively, or if water-insoluble, absorb with an inert dry material and place in an appropriate waste disposal container. Dispose of via a licensed waste disposal contractor.", "source": "Section 13"}
+
+18: Based on the following Safety Data Sheet, What precautions should be taken for safe handling and storage of the product?
+{"answer": "Put on appropriate personal protective equipment, avoid exposure, obtain special instructions before use, read and understand all safety precautions, do not get in eyes or on skin or clothing, do not breathe vapor or mist, do not swallow, store away from heat, sparks, open flame or any other ignition source, use explosion-proof electrical equipment, use only non-sparking tools, take precautionary measures against electrostatic discharges, keep original container tightly closed when not in use, wash hands and face thoroughly after handling chemical products, remove contaminated clothing before entering eating areas.", "source": "Section 7. Handling and storage, Section 8. Exposure controls/personal protection"}
+
+19: Based on the following Safety Data Sheet, What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "Wear appropriate personal protective equipment (PPE), including chemical-resistant gloves and safety glasses with side shields. Use a properly fitted air-purifying or supplied-air respirator if necessary. Ensure adequate ventilation and use explosion-proof electrical equipment. Wash hands thoroughly after handling, and take precautionary measures against electrostatic discharges and ignition sources.", "source": "Section 7. Handling and storage, Section 8. Exposure controls/personal protection"}
+
+20: Based on the following Safety Data Sheet, What are the physical and chemical properties of the product?
+{"answer": "Liquid. -30 to -18°C (-22 to -0.4°F), 0.845 [Air = 1], 0.27 kPa (2 mm Hg) [room temperature], Very slightly soluble in cold water, Colorless to light yellow or red, <1 (butyl acetate = 1), 254 to 285°C (489.2 to 545°F), Closed cup: 52°C (125.6°F), >3.3, 0.03 cm2/s (3 cSt), 282 to 338°C (539.6 to 640.4°F), Lower: 0.6%, Upper: 6.5%, 0.005 g/l", "source": "Section 9. Physical and chemical properties"}
+
+21: Based on the following Safety Data Sheet, Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "stable and reactive", "source": "Section 10. Stability and reactivity"}
+
+22: Based on the following Safety Data Sheet, What are the possible hazardous decomposition products of the product?
+{"answer": "Hazardous decomposition products should not be produced under normal conditions of storage and use.", "source": "Section 7. Handling and storage"}
+
+23: Based on the following Safety Data Sheet, What is the toxicological information available for the product?
+{"answer": "May be fatal if swallowed and enters airways. Irritating to mouth, throat and stomach.: Ingestion; May cause damage to organs through prolonged or repeated exposure. General : Suspected of causing cancer.", "source": "Section 11. Toxicological information"}
+
+24: Based on the following Safety Data Sheet, What are the safety precautions and handling instructions for using the product?
+{"answer": "Put on appropriate personal protective equipment (PPE), avoid exposure, and obtain special instructions before use. Handle with adequate ventilation, and use explosion-proof electrical equipment. Store in a well-ventilated place, away from heat, sparks, open flames, and hot surfaces. Use non-sparking tools and take precautionary measures against static discharge. Wash hands thoroughly after handling. If exposed or concerned, get medical attention. If inhaled, remove to fresh air and keep at rest. If swallowed, call a POISON CENTER or physician. If on skin or hair, take off contaminated clothing and rinse with water. If in eyes, rinse cautiously with water for several minutes.", "source": "Section 7 (Handling and storage) and Section 2 (Hazards identification), Section 9 (Response)}"
+
+25: Based on the following Safety Data Sheet, What are the potential hazards associated with the product?
+{"answer": "FLAMMABLE LIQUIDS, ACUTE TOXICITY: INHALATION, SKIN CORROSION/IRRITATION, SERIOUS EYE DAMAGE/EYE IRRITATION, CARCINOGENICITY, SPECIFIC TARGET ORGAN TOXICITY (REPEATED EXPOSURE), ASPIRATION HAZARD", "source": "Section 2. Hazards identification"}
+
+26: Based on the following Safety Data Sheet, What are the specific health effects or risks associated with exposure to the product?
+{"answer": "May be fatal if swallowed and enters airways. Irritating to mouth, throat and stomach., nausea or vomiting, irritation, redness, pain or irritation, watering, redness, suspected of causing cancer.", "source": "Section 11. Toxicological information"}
+
+27: Based on the following Safety Data Sheet, What are the emergency procedures in case of inhalation of the product?
+{"answer": "Get medical attention immediately. Call a poison center or physician. If inhalation occurs, maintain an open airway and loosen tight clothing such as a collar, tie, belt or waistband.", "source": "Section 4. First aid measures, Section 5. Fire-fighting measures"}
+
+28: Based on the following Safety Data Sheet, What are the emergency procedures in case of skin contact with the product?
+{"answer": "Take off immediately all contaminated clothing. Rinse skin with water or shower.", "source": "Section 2. Hazards identification"}
+
+29: Based on the following Safety Data Sheet, What are the emergency procedures in case of eye contact with the product?
+{"answer": "Flush out eyes with water. Remove victim to fresh air.", "source": "Section 4. First aid measures"}
+
+30: Based on the following Safety Data Sheet, What are the emergency procedures in case of ingestion of the product?
+{"answer": "Immediately call a POISON CENTER or physician. Do NOT induce vomiting.", "source": "Section 2. Hazards identification"}
+
+31: Based on the following Safety Data Sheet, What is the waste disposal method for the product?
+{"answer": "Dispose of surplus and non-recyclable products via a licensed waste disposal contractor, Dispose of via a licensed waste disposal contractor.", "source": "Section 13. Disposal considerations, Section 13)"
+
+32: Based on the following Safety Data Sheet, Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Store in original container protected from direct sunlight in a dry, cool and well-ventilated area, away from incompatible materials.", "source": "Section 7. Handling and storage"}
+
+33: Based on the following Safety Data Sheet, What is the shelf life of the product?
+{"answer": "There is no specific information on shelf life in this Safety Data Sheet.", "source": "Section 10. Stability and reactivity"}
+
+34: Based on the following Safety Data Sheet, What are the composition and ingredients of the product?
+{"answer": "Fuels, diesel, No 2; Treated or Refined Diesel Fuel No. 2; Grade 2 Distillate Fuel; Hydrodesulfurized Middle Distillate; C9-C16 Petroleum Hydrocarbons", "source": "Section 3. Composition/information on ingredients"}
+
+35: Based on the following Safety Data Sheet, Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "Hazardous decomposition products and hazardous reactions will not occur under normal conditions of storage and use. The product is stable.", "source": "Section 10. Stability and reactivity"}
+
+36: Based on the following Safety Data Sheet, What is the odor of the product?
+{"answer": "This product has a characteristic diesel fuel odor.", "source": "Section 7. Handling and storage"}
+
+37: Based on the following Safety Data Sheet, What is the boiling point of the product?
+{"answer": "282 to 338°C (539.6 to 640.4°F)", "source": "Section 9. Physical and chemical properties"}
+
+38: Based on the following Safety Data Sheet, Is the product flammable?
+{"answer": "Yes", "source": "Section 2. Hazards identification, Section 5. Fire-fighting measures"}
+
+39: Based on the following Safety Data Sheet, What is the solubility of the product?
+{"answer": "Very slightly soluble in cold water.", "source": "Section 9. Physical and chemical properties"}
+
+40: Based on the following Safety Data Sheet, Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "Yes, and under normal conditions of storage and use, hazardous decomposition products should not be produced.", "source": "Section 10. Stability and reactivity"}
+
+41: Based on the following Safety Data Sheet, What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "Use process enclosures, local exhaust ventilation or other engineering controls to keep worker exposure to airborne contaminants below any recommended or statutory limits. Use explosion-proof ventilation equipment., Chemical-resistant gloves complying with an approved standard should be worn at all times when handling chemical products if a risk assessment indicates this is necessary., Safety glasses equipped with side shields are recommended as minimum protection in industrial settings, A properly fitted, air-purifying or supplied-air respirator complying with an approved standard if a risk assessment indicates this is necessary.", "source": "Section 8. Exposure controls/personal protection, Section 8: Exposure controls/personal protection, Eye/face protection"}
+
+42: Based on the following Safety Data Sheet, Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Dispose of surplus and non-recyclable products via a licensed waste disposal contractor. Waste packaging should be recycled. Vapor from product residues may create a highly flammable or explosive atmosphere inside the container. Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains and sewers.", "source": "Section 13. Disposal considerations"}
+
+43: Based on the following Safety Data Sheet, Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "No", "source": "Section 3. Composition/information on ingredients"}
+

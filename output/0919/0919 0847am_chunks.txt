@@ -1,0 +1,1583 @@
+Chunk 1:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+1 / 21 SECTION 1. IDENTIFICATION 
+Product name 
+ : GOJO ® Antibacterial Plum Foam Handwash 
+ 
+Manufacturer or supplier's details 
+Company name of supplier 
+ : GOJO Industries, Inc. 
+ 
+Address 
+ : One GOJO Plaza, Suite 500 
+Akron OH 44311 
+ 
+Telephone 
+ : 1 (330) 255 -6000 
+ 
+Emergency telephone 
+ : 1-800-424-9300 CHEMTREC 
+ 
+Recommended use of the chemical and restrictions on use 
+Recommended use 
+ : Antibacterial Soap 
+ 
+Restrictions on use 
+ : This is a personal care or cosmetic product that is safe for 
+consumers and other users under normal and reasonably 
+foreseeable use. Cosmetics and consumer products, 
+specifically defined by regulations around the world, are 
+exempt from the requirement of an SDS for the consumer. 
+While this material is not considered hazardous, this SDS 
+contains valuable information critical to the safe handling and 
+proper use of the product for industrial workplace conditions 
+as well as unusual and unintended exposures such as large 
+spills. This SDS should be retained and available for 
+employees and other users of this product. For specific 
+intended -use guidance, please refer to the information 
+provided on the package or instruction sheet.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 0}
+
+--------------------------------------------------------------------------------
+Chunk 2:
+Content: SECTION 2. HAZARDS IDENTIFICATION 
+GHS Classification 
+Flammable liquids 
+ : Category 3 
+Serious eye damage 
+ : Category 1 
+GHS Label element 
+Hazard pictograms 
+ : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signal Word 
+ : Danger 
+ 
+Hazard Statements 
+ : H226 Flammable liquid and vapor. 
+H318 Causes serious eye damage.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 0}
+
+--------------------------------------------------------------------------------
+Chunk 3:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+2 / 21 Precautionary Statements 
+ : Prevention: 
+P210 Keep away from heat/sparks/open flames/hot surfaces. 
+No smoking. 
+P233 Keep container tightly closed. 
+P241 Use explosion -proof electrical/ ventilating/ lighting/ 
+equipment. 
+P242 Use only non -sparking tools. 
+P243 Take precautionary measures against static di scharge. 
+P280 Wear protective gloves/ eye protection/ face protection. 
+Response: 
+P303 + P361 + P353 IF ON SKIN (or hair): Take off immediately 
+all contaminated clothing. Rinse skin with water/shower. 
+P305 + P351 + P338 + P310 IF IN EYES: R inse cautiously with 
+water for several minutes. Remove contact lenses, if present 
+and easy to do. Continue rinsing. Immediately call a POISON 
+CENTER or doctor/ physician. 
+Storage: 
+P403 + P235 Store in a well -ventilated place. Keep cool. 
+Disposal: 
+P501 Dispose of contents/ container to an approved waste 
+disposal plant. 
+ 
+Other hazards 
+Vapors may form explosive mixture with air.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 4:
+Content: SECTION 3. COMPOSITION/INFORMATION ON INGREDIENTS 
+Substance / Mixture 
+ : Mixture 
+Hazardous ingredients 
+Chemical Name CAS-No. Concentration (%) 
+Ethanol 64-17-5 >= 10 - < 20 
+Dodecanoic acid 143-07-7 >= 5 - < 10 
+Propylene glycol 57-55-6 >= 5 - < 10 
+Ethanolamine 141-43-5 >= 1 - < 5 
+Imidazolium compounds, 1 -[2-
+(carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5-
+dihydro -2-norcoco alkyl, hydroxides, sodium 
+salts 68650 -39-5 >= 1 - < 5 
+ 
+SECTION 4. FIRST AID MEASURES 
+General advice 
+ : In the case of accident or if you feel unwell, seek medical 
+advice immediately. 
+When symptoms persist or in all cases of doubt seek medical 
+advice. 
+ 
+If inhaled 
+ : If inhaled, remove to fresh air. 
+Get medical attention if symptoms occur. 
+ 
+In case of skin contact 
+ : Wash with water and soap as a precaution. 
+Get medical attention if symptoms occur.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 5:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+3 / 21 
+In case of eye contact 
+ : In case of contact, immediately flush eyes with plenty of water 
+for at least 15 minutes. 
+If easy to do, remove contact lens, if worn. 
+Get medical attention immediately. 
+ 
+If swallowed 
+ : If swallowed, DO NOT induce vomiting. 
+Get medical attention if symptoms occur. 
+Rinse mouth thoroughly with water. 
+ 
+Most important symptoms 
+and effects, both acute and 
+delayed 
+ : Causes serious eye damage. 
+ 
+Protection of first -aiders 
+ : First Aid responders should pay attention to self -protection, 
+and use the recommended personal protective equipment 
+when the potential for exposure exists. 
+ 
+Notes to physician 
+ : Treat symptomatically and supportively.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 6:
+Content: SECTION 5. FIRE -FIGHTING MEASURES 
+Suitable extinguishing media 
+ : Water spray 
+Alcohol -resistant foam 
+Carbon dioxide (CO2) 
+Dry chemical 
+ 
+Unsuitable extinguishing 
+media 
+ : High volume water jet 
+ 
+Specific hazards during fire 
+fighting 
+ : Do not use a solid water stream as it may scatter and spread 
+fire. 
+Flash back possible over considerable distance. 
+Vapors may form explosive mixtures with air. 
+Exposure to combustion products may be a hazard to health. 
+ 
+Hazardous combustion pro d-
+ucts 
+ : Carbon oxides 
+Nitrogen oxides (NOx) 
+Metal oxides 
+ 
+Specific extinguishing 
+methods 
+ : Use extinguishing measures that are appropriate to local 
+circumstances and the surrounding environment. 
+Use water spray to cool unopened containers. 
+Remove undamaged containers from fire area if it is safe to do 
+so. 
+Evacuate area. 
+ 
+Special protective equipment 
+for fire -fighters 
+ : In the event of fire, wear self -contained breathing apparatus. 
+Use personal protective equipment. 
+ 
+SECTION 6. ACCIDENTAL RELEASE MEASURES 
+Personal precautions, : Remove all sources of ignition.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 7:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+4 / 21 protective equipment and 
+emergency procedures 
+ Use personal protective equipment. 
+Follow safe handling advice and personal protective 
+equipment recommendations. 
+ 
+Environmental precautions 
+ : Discharge into the environment must be avoided. 
+Prevent further leakage or spillage if safe to do so. 
+Prevent spreading over a wide area (e.g. by containment or oil 
+barriers). 
+Retain and dispose of contaminated wash water. 
+Local authorities should be advis ed if significant spillages 
+cannot be contained. 
+ 
+Methods and materials for 
+containment and cleaning up 
+ : Non-sparking tools should be used. 
+Soak up with inert absorbent material. 
+Suppress (knock down) gases/vapors/mists with a water spray 
+jet. 
+For larg e spills, provide diking or other appropriate 
+containment to keep material from spreading. If diked material 
+can be pumped, store recovered material in appropriate 
+container. 
+Clean up remaining materials from spill with suitable 
+absorbent. 
+Local or nationa l regulations may apply to releases and 
+disposal of this material, as well as those materials and items 
+employed in the cleanup of releases. You will need to 
+determine which regulations are applicable. 
+Sections 13 and 15 of this SDS provide information reg arding 
+certain local or national requirements. 
+ 
+
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 3}
+
+--------------------------------------------------------------------------------
+Chunk 8:
+Content: SECTION 7. HANDLING AND STORAGE 
+Technical measures 
+ : See Engineering measures under EXPOSURE 
+CONTROLS/PERSONAL PROTECTION section. 
+ 
+Local/Total ventilation 
+ : Use with local exhaust ventilation. 
+Use only in an area equipped with explosion proof exhaust 
+ventilation. 
+ 
+Advice on safe handling 
+ : Avoid inhalation of vapor or mist. 
+Do not swallow. 
+Do not get in eyes. 
+Avoid prolonged or repeated contact with skin. 
+Handle in accordance with good industrial hygiene and safety 
+practice. 
+Non-sparking tools should be used. 
+Keep container tightly closed. 
+Keep away from heat and sources of ignition. 
+Take precautionary measures against static discharges. 
+Take care to prevent spills, waste and minimize release to the 
+environment. 
+ 
+Conditions for safe storage 
+ : Keep in properly labeled containers. 
+Keep tightly closed. 
+Keep in a cool, well -ventilated place.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 3}
+
+--------------------------------------------------------------------------------
+Chunk 9:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+5 / 21 Store in accordance with the particular national regulations. 
+Keep away from heat and sources of ignition. 
+ 
+Materials to avoid 
+ : Do not store with the following product types: 
+Strong oxidizing agents 
+Organic peroxides 
+Flammable solids 
+Pyrophoric liquids 
+Pyrophoric solids 
+Self-heating substances and mixtures 
+Substances and mixtures which in contact with water emit 
+flammable gases 
+Explosives 
+Gases
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 4}
+
+--------------------------------------------------------------------------------
+Chunk 10:
+Content: SECTION 8. EXPOSURE CONTROLS/PERSONAL PROTECTION 
+Ingredients with workplace control parameters 
+Ingredients CAS-No. Value type 
+(Form of 
+exposure) Control 
+parameters / 
+Permissible 
+concentration Basis 
+Ethanol 64-17-5 TWA 1,000 ppm 
+1,900 mg/m3 NIOSH REL 
+ TWA 1,000 ppm 
+1,900 mg/m3 OSHA Z -1 
+ STEL 1,000 ppm ACGIH 
+Propylene glycol 57-55-6 TWA 10 mg/m3 US WEEL 
+Ethanolamine 141-43-5 TWA 3 ppm ACGIH 
+ STEL 6 ppm ACGIH 
+ TWA 3 ppm 
+8 mg/m3 NIOSH REL 
+ ST 6 ppm 
+15 mg/m3 NIOSH REL 
+ TWA 3 ppm 
+6 mg/m3 OSHA Z -1 
+Hazardous components without workplace control parameters 
+Ingredients CAS-No. 
+Dodecanoic acid 143-07-7 
+Imidazolium compounds, 1 -[2-
+(carboxymethoxy)ethyl] -1-
+(carboxymethyl) -4,5-dihydro -2-
+norcoco alkyl, hydroxides, 
+sodium salts 68650 -39-5 
+Engineering measures : Minimize workplace exposure concentrations. 
+Use only in an area equipped with explosion proof exhaust 
+ventilation. 
+Use with local exhaust ventilation. 
+ 
+Personal protective equipment
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 4}
+
+--------------------------------------------------------------------------------
+Chunk 11:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+6 / 21 Respiratory protection 
+ : General and local exhaust ventilation is recommended to 
+maintain vapor exposures below recommended limits. Where 
+concentrations are above recommended limits o r are 
+unknown, appropriate respiratory protection should be worn. 
+Follow OSHA respirator regulations (29 CFR 1910.134) and 
+use NIOSH/MSHA approved respirators. Protection provided 
+by air purifying respirators against exposure to any 
+hazardous chemical is l imited. Use a positive pressure air 
+supplied respirator if there is any potential for uncontrolled 
+release, exposure levels are unknown, or any other 
+circumstance where air purifying respirators may not provide 
+adequate protection. 
+ 
+Hand protection 
+ Material : Impervious gloves 
+ 
+ Material : Flame retardant gloves 
+ 
+ 
+ Remarks 
+ : Choose gloves to protect hands against chemicals depending 
+on the concentration specific to place of work. Breakthrough 
+time is not determined for the product. Change gloves often! 
+For special applications, we recommend clarifying the 
+resistance to chemicals of the aforementioned protective 
+gloves with the glove manufacturer. Wash hands before 
+breaks and at the end of workday. 
+ 
+Eye protection 
+ : Wear the following personal protective equipment: 
+Chemical resistant goggles must be worn. 
+If splashes are likely to occur, wear: 
+Face -shield 
+ 
+Skin and body protection 
+ : Select appropriate protective clothing based on chemic al 
+resistance data and an assessment of the local exposure 
+potential. 
+Wear the following personal protective equipment: 
+Flame retardant antistatic protective clothing. 
+Skin contact must be avoided by using impervious protective 
+clothing (gloves, aprons, bo ots, etc). 
+ 
+Hygiene measures 
+ : Ensure that eye flushing systems and safety showers are 
+located close to the working place. 
+When using do not eat, drink or smoke. 
+Wash contaminated clothing before re -use. 
+ 
+
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 5}
+
+--------------------------------------------------------------------------------
+Chunk 12:
+Content: SECTION 9. PHYSICAL AND CHEMICAL PROPERTIES 
+Appearance 
+ : liquid 
+ 
+Color 
+ : clear, purple 
+ 
+Odor 
+ : citrus 
+ 
+Odor Threshold : No data available
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 5}
+
+--------------------------------------------------------------------------------
+Chunk 13:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+7 / 21 
+pH 
+ : 7.8 - 9.7 
+Melting point/freezing point 
+ : No data available 
+Initial boiling point and boiling 
+range 
+ : 97.00 °C 
+ 
+Flash point 
+ : 56.00 °C 
+ 
+Evaporation rate 
+ : No data available 
+ 
+Flammability (solid, gas) 
+ : Not applicable 
+ 
+Upper explosion limit 
+ : No data available 
+Lower explosion limit 
+ : No data available 
+Vapor pressure 
+ : No data available 
+ 
+Relative vapor density 
+ : No data available 
+ 
+Density 
+ : 1.00 g/cm3 
+ 
+ 
+Solubility(ies) 
+Water solubility 
+ : soluble 
+ 
+Partition coefficient: n -
+octanol/water 
+ : Not applicable 
+ 
+Autoignition temperature 
+ : No data available 
+Decomposition temperature 
+ : The substance or mixture is not classified self -reactive. 
+Viscosity 
+Viscosity, kinematic 
+ : 10 - 20 mm2/s (20 °C ) 
+ 
+Explosive properties 
+ : Not explosive 
+ 
+Oxidizing properties 
+ : The substance or mixture is not classified as oxidizing. 
+ 
+SECTION 10. STABILITY AND REACTIVITY 
+Reactivity 
+ : Not classified as a reactivity hazard. 
+ 
+Chemical stability 
+ : Stable under normal conditions. 
+ 
+Possibility of hazardous rea c-
+tions 
+ : Flammable liquid and vapor. 
+Vapors may form explosive mixture with air. 
+Can react with strong oxidizing agents. 
+ 
+Conditions to avoid 
+ : Heat, flames and sparks.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 6}
+
+--------------------------------------------------------------------------------
+Chunk 14:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+8 / 21 Incompatible materials 
+ : Oxidizing agents 
+ 
+Hazardous decomposition 
+products : No hazardous decomposition products are known.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 7}
+
+--------------------------------------------------------------------------------
+Chunk 15:
+Content: SECTION 11. TOXICOLOGICAL INFORMATION 
+Information on likely routes of exposure 
+Inhalation 
+Skin contact 
+Ingestion 
+Eye contact 
+Acute toxicity 
+Not classified based on available information. 
+Product : 
+Acute oral toxicity 
+ : Acute toxicity estimate : > 5,000 mg/kg 
+Method: Calculation method 
+ 
+Acute inhalation toxicity 
+ : Acute toxicity estimate: > 40 mg/l 
+Exposure time: 4 h 
+Test atmosphere: vapor 
+Method: Calculation method 
+ 
+Acute dermal toxicity 
+ : Acute toxicity estimate : > 5,000 mg/kg 
+Method: Calculation method 
+ 
+Ingredients: 
+Ethanol : 
+Acute oral toxicity 
+ : LD50 (Rat): > 5,000 mg/kg 
+ 
+Acute inhalation toxicity 
+ : LC50 (Rat): 124.7 mg/l 
+Exposure time: 4 h 
+Test atmosphere: vapor 
+ 
+Dodecanoic acid : 
+Acute oral toxicity 
+ : LD50 (Rat): > 5,000 mg/kg 
+Method: OECD Test Guideline 401 
+ 
+Acute inhalation toxicity 
+ : LC50 (Rat): > 0.162 mg/l 
+Exposure time: 4 h 
+Test atmosphere: vapor 
+Remarks: Based on data from similar materials 
+ 
+Acute dermal toxicity 
+ : LD50 (Rabbit ): > 2,000 mg/kg 
+Assessment: The substance or mixture has no acute dermal 
+toxicity 
+Remarks: Based on data from similar materials 
+ 
+Propylene glycol : 
+Acute oral toxicity 
+ : LD50 (Rat): > 5,000 mg/kg 
+ 
+Acute inhalation toxicity 
+ : LC50 (Rabbit ): > 159 mg/l , > 51091 ppm 
+Exposure time: 4 h
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 7}
+
+--------------------------------------------------------------------------------
+Chunk 16:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+9 / 21 Test atmosphere: dust/mist 
+Assessment: The substance or mixture has no acute 
+inhalation toxicity 
+ 
+Acute dermal toxicity 
+ : LD50 (Rabbit ): > 2,000 mg/kg 
+Assessment: The substance or mixture has no acute dermal 
+toxicity 
+ 
+Ethanolamine : 
+Acute oral toxicity 
+ : LD50 (Rat): 1,515 mg/kg 
+ 
+Acute inhalation toxicity 
+ : Acute toxicity estimate : 11 mg/l 
+Test atmosphere: vapor 
+Method: Expert judgment 
+Remarks: Based on harmonised classification in EU regulation 
+1272/2008, Annex VI 
+ 
+Acute dermal toxicity 
+ : LD50 (Rabbit ): 1,025 mg/kg 
+ 
+Imidazolium compounds, 1 -[2-(carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5-dihydro -2-
+norcoco alkyl, hydroxides, sodium salts : 
+Acute oral toxicity 
+ : LD50 (Rat, male ): > 5,000 mg/kg 
+Remarks: Based on data from similar materials 
+ 
+Acute dermal toxicity 
+ : LD50 (Rat): > 5,000 mg/kg 
+Method: OECD Test Guideline 402 
+Remarks: Based on data from similar materials 
+ 
+Skin corrosion/irritation 
+Not classified based on available information. 
+Product : 
+Result: No skin irritation 
+ 
+Ingredients: 
+Ethanol : 
+Species: Rabbit 
+Method: OECD Test Guideline 404 
+Result: No skin irritation 
+ 
+Dodecanoic acid : 
+Species: Rabbit 
+Method: OECD Test Guideline 404 
+Result: No skin irritation 
+ 
+Propylene glycol : 
+Species: Rabbit 
+Method: OECD Test Guideline 404 
+Result: No skin irritation 
+ 
+Ethanolamine : 
+Species: Rabbit 
+Result: Corrosive after 3 minutes to 1 hour of exposure
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 8}
+
+--------------------------------------------------------------------------------
+Chunk 17:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+10 / 21 Imidazolium compounds, 1 -[2-(carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5-dihydro -2-
+norcoco alkyl, hydroxides, sodium salts : 
+Species: Rabbit 
+Method: OECD Test Guideline 404 
+Result: No skin irritation 
+Remarks: Based on data from similar materials 
+ 
+Serious eye damage/eye irritation 
+Causes serious eye damage. 
+Ingredients: 
+Ethanol : 
+Species: Rabbit 
+Result: Irritation to eyes, reversing within 21 days 
+Method: OECD Test Guideline 405 
+ 
+Dodecanoic acid : 
+Species: Rabbit 
+Result: Irreversible effects on the eye 
+Method: OECD Test Guideline 405 
+ 
+Propylene glycol : 
+Species: Rabbit 
+Result: No eye irritation 
+Method: OECD Test Guideline 405 
+ 
+Ethanolamine : 
+Species: Rabbit 
+Result: Irreversible effects on the eye 
+ 
+Imidazolium compounds, 1 -[2-(carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5-dihydro -2-
+norcoco alkyl, hydroxides, sodium salts : 
+Species: Rabbit 
+Result: Irreversible effects on the eye 
+Method: OECD Test Guideline 405 
+Remarks : Based on data from similar materials 
+ 
+Respiratory or skin sensitization 
+Skin sensitization: Not classified based on available information. 
+Respiratory sensitization: Not classified based on available information. 
+Product : 
+Assessment: Does not cause skin sensitization. 
+ 
+Ingredients: 
+Ethanol : 
+Test Type: Local lymph node assay (LLNA) 
+Routes of exposure : Skin contact 
+Species: Mouse 
+Result: negative 
+ 
+Dodecanoic acid : 
+Test Type: Maximization Test (GPMT)
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 9}
+
+--------------------------------------------------------------------------------
+Chunk 18:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+11 / 21 Routes of exposure : Skin contact 
+Species: Guinea pig 
+Result: negative 
+ 
+Propylene glycol : 
+Test Type: Maximization Test (GPMT) 
+Routes of exposure : Skin contact 
+Species : Guinea pig 
+Result: negative 
+ 
+Ethanolamine : 
+Test Type: Maximization Test (GPMT) 
+Routes of exposure : Skin contact 
+Species: Guinea pig 
+Result: negative 
+ 
+Imidazolium compounds, 1 -[2-(carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5-dihydro -2-
+norcoco alkyl, hydroxides, sodium salts : 
+Test Type: Maximization Test (GPMT) 
+Routes of exposure : Skin contact 
+Species: Guinea pig 
+Method: OECD Test Guideline 406 
+Result: negative 
+Remarks: Based on data from similar materials 
+ 
+Germ cell mutagenicity 
+Not classified based on available information. 
+Ingredients: 
+Ethanol : 
+Genotoxicity in vitro 
+ : Test Type: In vitro mammalian cell gene mutation test 
+Result: negative 
+ 
+Genotoxicity in vivo 
+ : Test Type: Rodent dominant lethal test (germ cell) (in vivo) 
+Species: Mouse 
+Application Route: Ingestion 
+Result: negative 
+ 
+Dodecanoic acid : 
+Genotoxicity in vitro 
+ : Test Type: In vitro mammalian cell gene mutation test 
+Method: OECD Test Guideline 476 
+Result: negative 
+Remarks: Based on data from similar materials 
+ 
+Propylene glycol : 
+Genotoxicity in vitro 
+ : Test Type: Bacterial reverse mutation assay (AMES) 
+Result: negative 
+ 
+Genotoxicity in vivo 
+ : Test Type: In vivo micronucleus test 
+Species: Mouse 
+Application Route: Intraperitoneal injection 
+Result: negative 
+ 
+Ethanolamine : 
+Genotoxicity in vitro : Test Type: In vitro mammalian cell gene mutation test
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 10}
+
+--------------------------------------------------------------------------------
+Chunk 19:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+12 / 21 Method: OECD Test Guideline 476 
+Result: negative 
+ 
+Genotoxicity in vivo 
+ : Test Type: Mammalian erythrocyte micronucleus test (in vivo 
+cytogenetic assay) 
+Species: Mouse 
+Application Route: Ingestion 
+Method: OECD Test Guideline 474 
+Result: negative 
+ 
+Imidazolium compounds, 1 -[2-(carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5-dihydro -2-
+norcoco alkyl, hydroxides, sodium salts : 
+Genotoxicity in vitro 
+ : Test Type: Chromosome aberration test in vitro 
+Method: OECD Test Guideline 473 
+Result: negative 
+Remarks: Based on data from similar materials 
+ 
+ 
+ : Test Type: Bacterial reverse mutation assay (AMES) 
+Result: negative 
+Remarks: Based on data from similar materials 
+ 
+ 
+ : Test Type: In vitro mammalian cell gene mutation test 
+Method: OECD Test Guideline 476 
+Result: negative 
+Remarks: Based on data from similar materials 
+ 
+Carcinogenicity 
+Not classified based on available information. 
+Ingredients: 
+Propylene glycol : 
+Species : Rat 
+Application Route: Ingestion 
+Exposure time : 2 Years 
+Result: negative 
+ 
+IARC 
+ No ingredient of this product present at levels greater than or 
+equal to 0.1% is identified as probable, possible or confirmed 
+human carcinogen by IARC. 
+ 
+OSHA 
+ No ingredient of this product present at levels greater than or 
+equal to 0.1% is identified as a carcinogen or potential carcin o-
+gen by OSHA. 
+ 
+NTP 
+ No ingredient of this product present at levels greater than or 
+equal to 0.1% is identified as a known or anticipated carcinogen 
+by NTP. 
+ 
+Reproductive toxicity 
+Not classified based on available information. 
+Ingredients: 
+Ethanol : 
+Effects on fertility : Test Type : Two-generation reproduction toxicity study
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 11}
+
+--------------------------------------------------------------------------------
+Chunk 20:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+13 / 21 Species: Mouse 
+Application Route: Ingestion 
+Method: OECD Test Guideline 416 
+Result: negative 
+ 
+Dodecanoic acid : 
+Effects on fertility 
+ : Test Type : Combined repeated dose toxicity study with the 
+reproduction/developmental toxicity screening test 
+Species: Rat 
+Application Route: Ingestion 
+Method: OECD Test Guideline 422 
+Result: negative 
+Remarks: Based on data from similar materials 
+ 
+Effects on fetal development 
+ : Test Type : Combined repeated dose toxicity study with the 
+reproduction/developmental toxicity screening test 
+Species: Rat 
+Application Route: Ingestion 
+Method: OECD Test Guideline 422 
+Result: negative 
+Remarks: Based on data from similar materials 
+ 
+Propylene glycol : 
+Effects on fertility 
+ : Species: Mouse 
+Application Route: Ingestion 
+Result: negative 
+ 
+Effects on fetal development 
+ : Test Type : Embryo -fetal development 
+Species: Mouse 
+Application Route: Ingestion 
+Result: negative 
+ 
+Ethanolamine : 
+Effects on fertility 
+ : Test Type : Two-generation reproduction toxicity study 
+Species: Rat 
+Application Route: Ingestion 
+Result: negative 
+ 
+Effects on fetal development 
+ : Test Type : Embryo -fetal development 
+Species: Rat 
+Application Route: Ingestion 
+Method: OECD Test Guideline 414 
+Result: negative 
+ 
+STOT -single exposure 
+Not classified based on available information. 
+Ingredients: 
+Ethanolamine : 
+Assessment: May cause respiratory irritation. 
+ 
+STOT -repeated exposure 
+Not classified based on available information.
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 12}
+
+--------------------------------------------------------------------------------
+Chunk 21:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+14 / 21 Ingredients: 
+Ethanolamine : 
+Routes of exposure: inhalation (dust/mist/fume) 
+Assessment: No significant health effects observed in animals at concentrations of 0.2 mg/l/6h/d 
+or less. 
+ 
+Repeated dose toxicity 
+Ingredients: 
+Ethanol : 
+Species : Rat 
+NOAEL: 2,400 mg/kg 
+Application Route: Ingestion 
+Exposure time: 2 y 
+ 
+Dodecanoic acid : 
+Species : Rat 
+NOAEL: 10,000 mg/kg 
+Application Route: Ingestion 
+Exposure time: 18 w 
+ 
+Propylene glycol : 
+Species : Rat 
+NOAEL : 1,700 mg/kg 
+Application Route: Ingestion 
+Exposure time: 2 y 
+ 
+Ethanolamine : 
+Species : Rat 
+NOAEL: 150 mg/m3 
+Application Route: inhalation (dust/mist/fume) 
+Exposure time: 28 d 
+ 
+Imidazolium compounds, 1 -[2-(carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5-dihydro -2-
+norcoco alkyl, hydroxides, sodium salts : 
+Species : Rat, female 
+NOAEL: 250 mg/kg 
+LOAEL: 500 mg/kg 
+Application Route: Ingestion 
+Exposure time: 28 d 
+Remarks: Based on data from similar materials 
+ 
+Aspiration toxicity 
+Not classified based on available information. 
+SECTION 12. ECOLOGICAL INFORMATION 
+Ecotoxicity 
+Ingredients: 
+Ethanol : 
+Toxicity to fish 
+ : LC50 (Pimephales promelas (fathead minnow) ): > 1,000 mg/l 
+Exposure time: 96 h
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 13}
+
+--------------------------------------------------------------------------------
+Chunk 22:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+15 / 21 
+Toxicity to daphnia and other 
+aquatic invertebrates 
+ : EC50 (Daphnia magna (Water flea) ): > 1,000 mg/l 
+Exposure time: 48 h 
+ 
+Toxicity to algae 
+ : EC50 (Chlorella vulgaris (Fresh water algae) ): 275 mg/l 
+Exposure time: 72 h 
+Method: OECD Test Guideline 201 
+ 
+Toxicity to daphnia and other 
+aquatic invertebrates 
+(Chronic toxicity) 
+ : NOEC (Daphnia magna (Water flea) ): 9.6 mg/l 
+Exposure time: 9 d 
+ 
+Toxicity to bacteria 
+ : EC50 (Photobacterium phosphoreum ): 32.1 mg/l 
+Exposure time: 0.25 h 
+ 
+Dodecanoic acid : 
+Toxicity to fish 
+ : LC50 (Oryzias latipes (Japanese medaka) ): 5 mg/l 
+Exposure time: 96 h 
+Method: OECD Test Guideline 203 
+ 
+Toxicity to daphnia and other 
+aquatic invertebrates 
+ : EC50 (Daphnia magna (Water flea) ): 3.6 mg/l 
+Exposure time: 48 h 
+Method: OECD Test Guideline 202 
+ 
+Toxicity to algae 
+ : EC50 (Selenastrum capricornutum (green algae) ): > 7.6 mg/l 
+Exposure time: 72 h 
+Method: OECD Test Guideline 201 
+Remarks : No toxicity at the limit of solubility. 
+ 
+ 
+ NOEC (Selenastrum capricornutum (green algae) ): > 7.6 mg/l 
+Exposure time: 72 h 
+Method: OECD Test Guideline 201 
+Remarks : No toxicity at the limit of solubility. 
+ 
+Toxicity to fish (Chronic 
+toxicity) 
+ : NOEC (Danio rerio (zebra fish) ): 2 mg/l 
+Exposure time: 28 d 
+Remarks : Based on data from similar materials 
+ 
+Toxicity to daphnia and other 
+aquatic invertebrates 
+(Chronic toxicity) 
+ : NOEC (Daphnia magna (Water flea) ): 0.47 mg/l 
+Exposure time: 21 d 
+Method: OECD Test Guideline 211 
+ 
+Toxicity to bacteria 
+ : EC10 (Pseudomonas putida ): > 1,000 mg/l 
+Exposure time: 30 min 
+Method: OECD Test Guideline 209 
+ 
+Propylene glycol : 
+Toxicity to fish 
+ : LC50 (Oncorhynchus mykiss (rainbow trout) ): 40,613 mg/l 
+Exposure time: 96 h 
+ 
+Toxicity to daphnia and other 
+aquatic invertebrates 
+ : EC50 (Ceriodaphnia dubia (water flea) ): 18,340 mg/l 
+Exposure time: 48 h 
+ 
+Toxicity to algae 
+ : EC50 (Skeletonema costatum (marine diatom) ): 19,000 mg/l 
+Exposure time: 48 h
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 14}
+
+--------------------------------------------------------------------------------
+Chunk 23:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+16 / 21 Method: OECD Test Guideline 201 
+ 
+Toxicity to fish (Chronic 
+toxicity) 
+ : Chronic Toxicity Value : 2,500 mg/l 
+Exposure time: 30 d 
+ 
+Toxicity to daphnia and other 
+aquatic invertebrates 
+(Chronic toxicity) 
+ : NOEC (Ceriodaphnia dubia (water flea) ): 29,000 mg/l 
+Exposure time: 7 d 
+ 
+Toxicity to bacteria 
+ : NOEC (Pseudomonas putida ): > 20,000 mg/l 
+Exposure time: 18 h 
+ 
+Ethanolamine : 
+Toxicity to fish 
+ : LC50 (Cyprinus carpio (Carp) ): 349 mg/l 
+Exposure time: 96 h 
+ 
+Toxicity to daphnia and other 
+aquatic invertebrates 
+ : EC50 (Daphnia magna (Water flea) ): 65 mg/l 
+Exposure time: 48 h 
+ 
+Toxicity to algae 
+ : ErC50 (Selenastrum capricornutum (green algae) ): 2.8 mg/l 
+Exposure time: 72 h 
+ 
+ 
+ NOEC (Scenedesmus capricornutum (fresh water algae) ): 1 
+mg/l 
+Exposure time: 72 h 
+ 
+Toxicity to fish (Chronic 
+toxicity) 
+ : NOEC (Oryzias latipes (Orange -red killifish) ): 1.24 mg/l 
+Exposure time: 41 d 
+ 
+Toxicity to daphnia and other 
+aquatic invertebrates 
+(Chronic toxicity) 
+ : NOEC (Daphnia magna (Water flea) ): 0.85 mg/l 
+Exposure time: 21 d 
+ 
+Toxicity to bacteria 
+ : EC50 (Pseudomonas putida ): 110 mg/l 
+Exposure time: 17 h 
+ 
+Imidazolium compounds, 1 -[2-(carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5-dihydro -2-
+norcoco alkyl, hydroxides, sodium salts : 
+Toxicity to fish 
+ : LC50 (Oncorhynchus mykiss (rainbow trout) ): 4.2 mg/l 
+Exposure time: 96 h 
+Method: OECD Test Guideline 203 
+Remarks : Based on data from similar materials 
+ 
+Toxicity to daphnia and other 
+aquatic invertebrates 
+ : EC50 (Daphnia magna (Water flea) ): 17.9 mg/l 
+Exposure time: 48 h 
+Method: OECD Test Guideline 202 
+Remarks : Based on data from similar materials 
+ 
+Toxicity to algae 
+ : NOEC (Pseudokirchneriella subcapitata (green algae) ): 3.2 
+mg/l 
+Exposure time: 72 h 
+Method: Directive 67/548/EEC, Annex V, C.3. 
+Remarks : Based on data from similar materials 
+ 
+ ErC50 (Pseudokirchneriella subcapitata (green algae) ): 10
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 15}
+
+--------------------------------------------------------------------------------
+Chunk 24:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+17 / 21 mg/l 
+Exposure time: 72 h 
+Method: Directive 67/548/EEC, Annex V, C.3. 
+Remarks : Based on data from similar materials 
+ 
+Persistence and degradability 
+Product: 
+Biodegradability 
+ : Result: Biodegradable 
+ 
+Ingredients: 
+Ethanol : 
+Biodegradability 
+ : Result: Readily biodegradable. 
+Biodegradation: 84 % 
+Exposure time: 20 d 
+ 
+Dodecanoic acid : 
+Biodegradability 
+ : Result: Readily biodegradable. 
+Biodegradation: 86 % 
+Exposure time: 30 d 
+Method: OECD Test Guideline 301D 
+ 
+Propylene glycol : 
+Biodegradability 
+ : Result: Readily biodegradable. 
+Biodegradation: 98.3 % 
+Exposure time: 28 d 
+Method: OECD Test Guideline 301F 
+ 
+Ethanolamine : 
+Biodegradability 
+ : Result: Readily biodegradable. 
+Biodegradation: > 90 % 
+Exposure time: 21 d 
+ 
+Imidazolium compounds, 1 -[2-(carboxymethoxy)ethyl] -1-(carboxymethyl) -4,5-dihydro -2-
+norcoco alkyl, hydroxides, sodium salts : 
+Biodegradability 
+ : Result: Readily biodegradable. 
+Biodegradation: 79 % 
+Exposure time: 28 d 
+Method: OECD Test Guideline 301F 
+Remarks : Based on data from similar materials 
+ 
+Bioaccumulative potential 
+Ingredients: 
+Ethanol : 
+Partition coefficient: n -
+octanol/water 
+ : log Pow: -0.35 
+ 
+Dodecanoic acid : 
+Bioaccumulation 
+ : Species: Fish 
+Bioconcentration factor (BCF): 234 - 288 
+Remarks : Based on data from similar materials
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 16}
+
+--------------------------------------------------------------------------------
+Chunk 25:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+18 / 21 Partition coefficient: n -
+octanol/water 
+ : Pow: 4.6 
+ 
+Propylene glycol : 
+Partition coefficient: n -
+octanol/water 
+ : log Pow: -1.07 
+ 
+Ethanolamine : 
+Partition coefficient: n -
+octanol/water 
+ : log Pow: -1.91 
+ 
+Mobility in soil 
+No data available 
+Other adverse effects 
+No data available 
+SECTION 13. DISPOSAL CONSIDERATIONS 
+Disposal methods 
+Waste from residues : Dispose of in accordance with local regulations. 
+ 
+Contaminated packaging : Dispose of as unused product. 
+Empty containers should be taken to an approved waste 
+handling site for recycling or disposal. 
+Do not burn, or use a cutting torch on, the empty drum. 
+ 
+SECTION 14. TRANSPORT INFORMATION 
+International Regulation 
+UNRTDG 
+UN number : UN 1170 
+Proper shipping name : ETHYL ALCOHOL SOLUTI ON 
+Class : 3 
+Packing group : III 
+Labels : 3 
+IATA -DGR 
+UN/ID No. : UN 1170 
+Proper shipping name : Ethanol solution 
+Class : 3 
+Packing group : III 
+Labels : Flammable Liquids 
+Packing instruction (cargo 
+aircraft) : 366 
+Packing instruction 
+(passenger aircraft) : 355 
+IMDG -Code 
+UN number : UN 1170
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 17}
+
+--------------------------------------------------------------------------------
+Chunk 26:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+19 / 21 Proper shipping name : ETHYL ALCOHOL SOLUTI ON 
+(Triclosan ) 
+Class : 3 
+Packing group : III 
+Labels : 3 
+EmS Code : F-E, S-D 
+Marine pollutant : yes 
+Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code 
+Not applicable for product as supplied. 
+Domestic regulation 
+49 CFR 
+UN/ID/NA number : UN 1170 
+Proper shipping name : ETHYL ALCOHOL SOLUTI ONS 
+ 
+Class : 3 
+Packing group : III 
+Labels : FLAMMABLE LIQUID 
+ERG Code : 127 
+Marine pollutant : yes (Triclosan ) 
+SECTION 15. REGULATORY INFORMATION 
+EPCRA - Emergency Planning and Community Right -to-Know 
+CERCLA Reportable Quantity 
+This material does not contain any components with a CERCLA RQ. 
+SARA 304 Extremely Hazardous Substances Reportable Quantity 
+This material does not contain any components with a section 304 EHS RQ. 
+ 
+SARA 311/312 Hazards 
+ : Fire Hazard 
+Acute Health Hazard 
+ 
+SARA 302 
+ : No chemicals in this material are subject to the reporting 
+requirements of SARA Title III, Section 302. 
+ 
+SARA 313 
+ : This material does not contain any chemical components with 
+known CAS numbers that exceed the threshold (De Minimis) 
+reporting levels established by SARA Title III,
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 18}
+
+--------------------------------------------------------------------------------
+Chunk 27:
+Content: Section 302. 
+ 
+SARA 313 
+ : This material does not contain any chemical components with 
+known CAS numbers that exceed the threshold (De Minimis) 
+reporting levels established by SARA Title III, Section 313. 
+ 
+US State Regulations 
+Pennsylvania Right To Know 
+ Water 7732 -18-5 70 - 90 % 
+ Ethanol 64-17-5 10 - 20 % 
+ Propylene glycol 57-55-6 5 - 10 % 
+ Dodecanoic acid 143-07-7 5 - 10 % 
+ Ethanolamine 141-43-5 1 - 5 % 
+ Propan -2-ol 67-63-0 0.1 - 1 %
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 18}
+
+--------------------------------------------------------------------------------
+Chunk 28:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+20 / 21 New Jersey Right To Know 
+ Water 7732 -18-5 70 - 90 % 
+ Ethanol 64-17-5 10 - 20 % 
+ Propylene glycol 57-55-6 5 - 10 % 
+ Dodecanoic acid 143-07-7 5 - 10 % 
+ Ethanolamine 141-43-5 1 - 5 % 
+ 
+California Prop 65 This product does not contain any chemicals known to the 
+State of California to cause cancer, birth, or any other 
+reproductive defects. 
+ 
+The ingredients of this product are reported in the following inventories: 
+AICS 
+ : All ingredients listed or exempt. 
+ 
+Inventories 
+AICS (Australia), DSL (Canada), IECSC (China), REACH (European Union), ENCS (Japan), 
+ISHL (Japan), KECI (Korea), NZIoC (New Zealand), PICCS (Philippines), TCSI (Taiwan), TSCA 
+(USA)
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 19}
+
+--------------------------------------------------------------------------------
+Chunk 29:
+Content: SECTION 16. OTHER INFORMATION 
+Further information 
+ 
+NFPA: HMIS III: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Full text of other abbreviations 
+ACGIH : USA. ACGIH Threshold Limit Values (TLV) 
+NIOSH REL : USA. NIOSH Recommended Exposure Limits 
+OSHA Z -1 : USA. Occupational Exposure Limits (OSHA) - Table Z -1 Lim-
+its for Air Contaminants 
+US WEEL : USA. Workplace Environmental Exposure Levels (WEEL) 
+ACGIH / TWA : 8-hour, time -weighted average 
+ACGIH / STEL : Short -term exposure limit 
+NIOSH REL / TWA : Time -weighted average concentration for up to a 10 -hour 
+workday during a 40 -hour workweek 
+NIOSH REL / ST : STEL - 15-minute TWA exposure that should not be exceeded 
+at any time during a workday Flammability 
+ Health 
+ 
+ Instability 
+ 
+ 
+ 3 2 
+ 0 
+ FLAMMABILITY 
+PHYSICAL HAZARD HEALTH 
+2 
+ 
+0 
+ 3 
+ 
+Special hazard. 0 = not significant, 1 =Slight, 
+2 = Moderate, 3 = High 
+4 = Extreme, * = Chronic
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 19}
+
+--------------------------------------------------------------------------------
+Chunk 30:
+Content: SAFETY DATA SHEET 
+ 
+GOJO ® Antibacterial Plum Foam Handwash 
+ 
+ 
+Version 
+2.0 Revision Date: 
+04/17/2015 MSDS Number: 
+31854 -00003 Date of last issue: 02/16/2015 
+Date of first issue : 11/24/2014 
+ 
+21 / 21 OSHA Z -1 / TWA : 8-hour time weighted average 
+US WEEL / TWA : 8-hr TWA 
+ 
+Sources of key data used to 
+compile the Material Safety 
+Data Sheet : Internal technical data, data from raw material SDSs, OECD 
+eChem Portal search results and European Chemicals Age n-
+cy, http://echa.europa.eu/ 
+ 
+Revision Date 
+ : 04/17/2015 
+ 
+Items where changes have been made to the previous version are highlighted in the body of 
+this document by two vertical lines. 
+ 
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, i n-
+formation and belief at the date of its publication. The information is designed only as a gui d-
+ance for safe handling, use, processing, storage, transportation, disposal and release and 
+shall not be con sidered a warranty or quality specification of any type. The information pr o-
+vided relates only to the specific material identified at the top of this SDS and may not be valid 
+when the SDS material is used in combination with any other materials or in any p rocess, u n-
+less specified in the text. Material users should review the information and recommendations 
+in the specific context of their intended manner of handling, use, processing and storage, i n-
+cluding an assessment of the appropriateness of the SDS mate rial in the user’s end product, if 
+applicable. 
+ 
+US / Z8
+Metadata: {'source': 'pdf\\GOJO Antibacterial Plum Foam Handwash MSDS.pdf', 'page': 20}
+
+--------------------------------------------------------------------------------

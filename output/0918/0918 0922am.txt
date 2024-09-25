@@ -1,0 +1,133 @@
+1: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "SECTION 1: Identification"}
+
+2: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "01/05/17", "source": "SECTION 1: Identification"}
+
+3: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "Adhesive, Hi-Strength Aerosol Adhesive", "source": "SECTION 1: Identification"}
+
+4: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "3M", "source": "SECTION 1: Identification"}
+
+5: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "1-800-364-3577 or (651) 737-6501", "source": "SECTION 1: Identification and SECTION 14: Transport Information"}
+
+6: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "Flammable Aerosol: Category 1. Gas Under Pressure: Liquefied gas. Serious Eye Damage/Irritation: Category 2B. Simple Asphyxiant. Specific Target Organ Toxicity (single exposure): Category 1. Specific Target Organ Toxicity (single exposure): Category 3.", "source": "SECTION 2"}
+
+7: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "Danger", "source": "2.2. Label elements"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "Extremely flammable aerosol. Contains gas under pressure; may explode if heated. Causes eye irritation. May cause respiratory irritation. May cause drowsiness or dizziness. May displace oxygen and cause rapid suffocation. Causes damage to organs: cardiovascular system", "source": "Symbols, Hazard Statements"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Do not use in a confined area with minimal air exchange. Keep out of reach of children. Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not spray on an open flame or other ignition source. Do not pierce or burn, even after use. Do not breathe dust/fume/gas/mist/vapors/spray. Do not get in eyes, on skin, or on clothing. Do not eat, drink or smoke when using this product. Wash thoroughly after handling. Avoid release to the environment. Avoid contact with oxidizing agents (eg. chlorine, chromic acid etc.)", "source": "SECTION 7: Handling and storage"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "Remove person to fresh air. Get medical attention.", "source": "SECTION 4: First aid measures"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Wash with soap and water. If signs/symptoms develop, get medical attention.", "source": "SECTION 4: First aid measures"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Flush with large amounts of water. Remove contact lenses if easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention.", "source": "SECTION 4: First aid measures"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "Rinse mouth. If you feel unwell, get medical attention.", "source": "SECTION 4: First aid measures"}
+
+14: Based on the following Safety Data Sheet, What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Use a fire fighting agent suitable for the surrounding fire.", "source": "SECTION 5: Fire-fighting measures"}
+
+15: Based on the following Safety Data Sheet, What are the special hazards arising from the substance during a fire?
+{"answer": "Closed containers exposed to heat from fire may build pressure and explode. Hazardous Decomposition or By-Products", "source": "SECTION 5: Fire-fighting measures"}
+
+16: Based on the following Safety Data Sheet, Are there any special fire handling procedures required for the product?
+{"answer": "Use a fire fighting agent suitable for the surrounding fire. Closed containers exposed to heat from fire may build pressure and explode.", "source": "SECTION 5: Fire-fighting measures"}
+
+17: Based on the following Safety Data Sheet, How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Evacuate area. Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Use only non-sparking tools. Ventilate the area with fresh air. Seal leaking container. Place leaking containers in a well-ventilated area, preferably an operating exhaust hood, or if necessary outdoors on an impermeable surface. Close cylinder. Collect as much of the spilled material as possible using non-sparking tools. Dispose of collected material as soon as possible.", "source": "SECTION 6: Accidental release measures, SECTION 3: 3M™ Hi-Strength Spray Adhesive 90"}
+
+18: Based on the following Safety Data Sheet, What precautions should be taken for safe handling and storage of the product?
+{"answer": "Do not use in a confined area with minimal air exchange. Keep out of reach of children. Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not spray on an open flame or other ignition source. Do not pierce or burn, even after use. Do not breathe dust/fume/gas/mist/vapors/spray. Do not get in eyes, on skin, or on clothing. Do not eat, drink or smoke when using this product. Wash thoroughly after handling. Avoid release to the environment. Avoid contact with oxidizing agents (eg. chlorine, chromic acid etc.).", "source": "SECTION 7: Handling and storage"}
+
+19: Based on the following Safety Data Sheet, What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "Use a fire fighting agent suitable for the surrounding fire, Wear protective gloves, safety glasses and face protection when handling, Use respiratory protective equipment with an organic vapor/mist filter if high exposure levels are possible", "source": "SECTION 5: Fire-fighting measures, SECTION 8: Exposure controls/personal protection"}
+
+20: Based on the following Safety Data Sheet, What are the physical and chemical properties of the product?
+{"answer": "Gas, Aerosol, Clear sweet fruity odor, 0.726 g/ml, 2.97, Flammable aerosol: Category 1.", "source": "SECTION 9: Physical and chemical properties"}
+
+21: Based on the following Safety Data Sheet, Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "stable", "source": "SECTION 10: Stability and reactivity, 10.2. Chemical stability"} 
+
+and 
+
+{"answer": "hazardous polymerization will not occur, heat may cause hazardous reactions with strong oxidizing agents, strong acids, incompatible materials.", "source": "SECTION 10: Stability and reactivity, 10.3. Possibility of hazardous reactions, 10.5. Incompatible materials, 10.4. Conditions to avoid"}
+
+22: Based on the following Safety Data Sheet, What are the possible hazardous decomposition products of the product?
+{"answer": "None known.", "source": "SECTION 10: Stability and reactivity/10.6. Hazardous decomposition products"}
+
+23: Based on the following Safety Data Sheet, What is the toxicological information available for the product?
+{"answer": "Information on toxicological effects, specific chemical identity and/or exact percentage of some ingredients has been withheld as a trade secret.", "source": "SECTION 11: Toxicological information"}
+
+24: Based on the following Safety Data Sheet, What are the safety precautions and handling instructions for using the product?
+{"answer": "Do not use in a confined area with minimal air exchange. Keep out of reach of children. Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not spray on an open flame or other ignition source. Do not pierce or burn, even after use. Do not breathe dust/fume/gas/mist/vapors/spray. Do not get in eyes, on skin, or on clothing. Do not eat, drink or smoke when using this product. Wash thoroughly after handling. Avoid release to the environment. Avoid contact with oxidizing agents (eg. chlorine, chromic acid etc.). Store in a well-ventilated place. Keep container tightly closed. Protect from sunlight. Do not expose to temperatures exceeding 50C/122F.", "source": "SECTION 7: Handling and storage"}
+
+25: Based on the following Safety Data Sheet, What are the potential hazards associated with the product?
+{"answer": "Flammable Aerosol, Gas Under Pressure, Serious Eye Damage/Irritation, Simple Asphyxiant, Specific Target Organ Toxicity (single exposure), Extremely flammable aerosol, Causes eye irritation, May cause respiratory irritation, May cause drowsiness or dizziness, May displace oxygen and cause rapid suffocation, Causes damage to organs: cardiovascular system", "source": "SECTION 2: Hazard identification"}
+
+26: Based on the following Safety Data Sheet, What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Extremely flammable aerosol. Contains gas under pressure; may explode if heated. Causes eye irritation. May cause respiratory irritation. May cause drowsiness or dizziness. May displace oxygen and cause rapid suffocation. Causes damage to organs: cardiovascular system.", "source": "Hazard Statements, 2.2. Label elements"}
+
+27: Based on the following Safety Data Sheet, What are the emergency procedures in case of inhalation of the product?
+{"answer": "Remove person to fresh air. Get medical attention.", "source": "SECTION 4: First aid measures"}
+
+28: Based on the following Safety Data Sheet, What are the emergency procedures in case of skin contact with the product?
+{"answer": "Wash with soap and water. If signs/symptoms develop, get medical attention.", "source": "SECTION 4: First aid measures"}
+
+29: Based on the following Safety Data Sheet, What are the emergency procedures in case of eye contact with the product?
+{"answer": "Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention.", "source": "SECTION 6: Accidental release measures"}
+
+30: Based on the following Safety Data Sheet, What are the emergency procedures in case of ingestion of the product?
+{"answer": "Rinse mouth. If you feel unwell, get medical attention.", "source": "SECTION 4: First aid measures"}
+
+31: Based on the following Safety Data Sheet, What is the waste disposal method for the product?
+{"answer": "Dispose of contents/container in accordance with the local/regional/national/international regulations. Incinerate uncured product in a permitted waste incineration facility. Dispose of completely cured (or polymerized) material in a permitted industrial waste facility.", "source": "SECTION 13: Disposal considerations"}
+
+32: Based on the following Safety Data Sheet, Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Store in a well-ventilated place. Protect from sunlight. Do not expose to temperatures exceeding 50C/122F. Keep container tightly closed. Store away from heat. Store away from acids. Store away from oxidizing agents.", "source": "SECTION 7: Handling and storage, SECTION 2: Conditions for safe storage including any incompatibilities"}
+
+33: Based on the following Safety Data Sheet, What is the shelf life of the product?
+{"answer": "No information provided in this Safety Data Sheet about the shelf life of the product.", "source": "All sections reviewed."}
+
+34: Based on the following Safety Data Sheet, What are the composition and ingredients of the product?
+{"answer": "Dimethyl Ether (35 - 45% by weight), Methyl Acetate (25 - 35% by weight), N.J.T.S. Registry No. 0449960-6448P (10 - 20% by weight), Cyclohexane (7 - 13% by weight), 1,1-Difluoroethane (1 - 5% by weight), Pentane (1 - 5% by weight)", "source": "SECTION 3: Composition/information on ingredients"}
+
+35: Based on the following Safety Data Sheet, Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "May explode if heated.", "source": "11.1. Information on Toxicological effects"}
+
+36: Based on the following Safety Data Sheet, What is the odor of the product?
+{"answer": "Clear sweet fruity odor", "source": "SECTION 9: Physical and chemical properties"}
+
+37: Based on the following Safety Data Sheet, What is the boiling point of the product?
+{"answer": "Not Applicable", "source": "SECTION 9: Physical and chemical properties"}
+
+38: Based on the following Safety Data Sheet, Is the product flammable?
+{"answer": "Yes", "source": "SECTION 2: Hazard identification"}
+
+39: Based on the following Safety Data Sheet, What is the solubility of the product?
+{"answer": "Nil, No Data Available", "source": "Solubility in Water, Solubility- non-water"}
+
+40: Based on the following Safety Data Sheet, Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "Yes and None known.", "source": "SECTION 10: Stability and reactivity"}
+
+41: Based on the following Safety Data Sheet, What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "Use a fire fighting agent suitable for the surrounding fire, ventilate the area with fresh air; respirator is not mentioned in this context, but refer to other sections of this SDS for information regarding respiratory protection. Wear protective gloves and eye protection (goggles) when handling the product", "source": "SECTION 5: Fire-fighting measures, SECTION 6: Accidental release measures"}
+
+42: Based on the following Safety Data Sheet, Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Avoid release to the environment. Dispose of contents/container in accordance with applicable local/regional/national/international regulations.", "source": "SECTION 6: Accidental release measures and SECTION 13: Disposal considerations"}
+
+43: Based on the following Safety Data Sheet, Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "No", "source": "SECTION 2: Hazard identification"}
+

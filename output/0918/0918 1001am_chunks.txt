@@ -1,0 +1,167 @@
+Chunk 1:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+No. 2-D Grade Diesel Fuel Oil (defined by ASTM D-975); Treated or Refined Diesel 
+Fuel No. 2; Grade 2 Distillate Fuel; Hydrodesulfurized Middle Distillate; C9-C16 
+Petroleum Hydrocarbons
+Technical Contact: (832) 486-4000
+Medical Emergency: (832) 486-4700
+CHEMTREC Emergency: (800) 424-9300
+(United States Only)SAFETY DATA SHEET
+GHS product identifier
+Synonyms
+Emergency telephone 
+numberSection 1. Identification
+:
+:
+:Chemical name :Fuels, diesel, No 2
+Supplier's details :CITGO Petroleum Corporation
+P.O. Box 4689
+Houston, TX 77210CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+sdsvend@citgo.com: Code
+MSDS # :AG2DFVarious
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 0}
+
+--------------------------------------------------------------------------------
+Chunk 2:
+Content: Section 2. Hazards identification
+FLAMMABLE LIQUIDS - Category 3
+ACUTE TOXICITY: INHALATION - Category 4
+SKIN CORROSION/IRRITATION - Category 2
+SERIOUS EYE DAMAGE/ EYE IRRITATION - Category 2B
+CARCINOGENICITY - Category 2
+SPECIFIC TARGET ORGAN TOXICITY (REPEATED EXPOSURE) [central nervous 
+system (CNS)] - Category 2
+ASPIRATION HAZARD - Category 1Classification of the 
+substance or mixture:
+Signal word :Danger
+Hazard statements :Flammable liquid and vapor.
+Harmful if inhaled.
+Causes skin and eye irritation.
+Suspected of causing cancer.
+May be fatal if swallowed and enters airways.
+May cause damage to organs through prolonged or repeated exposure. (central 
+nervous system (CNS))Hazard pictograms :
+Precautionary statements
+Prevention :Obtain special instructions before use. Do not handle until all safety precautions have 
+been read and understood. Use personal protective equipment as required. Wear 
+protective gloves. Wear eye or face protection. Keep away from heat, sparks, open 
+flames and hot surfaces. - No smoking. Use explosion-proof electrical, ventilating,
+lighting and all material-handling equipment. Use only non-sparking tools. Take 
+precautionary measures against static discharge. Keep container tightly closed. Use 
+only outdoors or in a well-ventilated area. Do not breathe vapor. Wash hands 
+thoroughly after handling.GHS label elementsOSHA/HCS status :This material is considered hazardous by the OSHA Hazard Communication Standard 
+(29 CFR 1910.1200).
+Date of issue/Date of revision :7/29/2015. 1/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 0}
+
+--------------------------------------------------------------------------------
+Chunk 3:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 2. Hazards identification
+Response :Get medical attention if you feel unwell. IF exposed or concerned: Get medical 
+attention. IF INHALED: Remove victim to fresh air and keep at rest in a position 
+comfortable for breathing. Call a POISON CENTER or physician if you feel unwell. IF 
+SWALLOWED: Immediately call a POISON CENTER or physician. Do NOT induce 
+vomiting. IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse 
+skin with water or shower. IF ON SKIN: Wash with plenty of soap and water. Take off 
+contaminated clothing. If skin irritation occurs: Get medical attention. IF IN EYES:
+Rinse cautiously with water for several minutes. Remove contact lenses, if present and 
+easy to do. Continue rinsing. If eye irritation persists: Get medical attention.
+Storage :Store locked up. Store in a well-ventilated place. Keep cool.
+Disposal :Dispose of contents and container in accordance with all local, regional, national and 
+international regulations.
+Hazards not otherwise 
+classified:None known.
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 4:
+Content: Section 3. Composition/information on ingredients
+Ingredient name CAS number %Chemical name :Fuels, diesel, No 2
+Other means of 
+identification:No. 2-D Grade Diesel Fuel Oil (defined by ASTM D-975); Treated or Refined Diesel 
+Fuel No. 2; Grade 2 Distillate Fuel; Hydrodesulfurized Middle Distillate; C9-C16 
+Petroleum Hydrocarbons
+CAS number :68476-34-6Substance/mixture
+CAS number/other identifiers:
+Occupational exposure limits, if available, are listed in
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 5:
+Content: Section 8.Substance
+Any concentration shown as a range is to protect confidentiality or is due to process variation.* = Various ** = Mixture *** = ProprietaryEthyltoluene <3 25550-14-5
+Trimethylbenzene, all isomers <2 25551-13-7
+Naphthalene <2 91-20-3
+Biphenyl <2 92-52-4
+Cumene <1 98-82-8
+Xylenes, mixed isomers <1 1330-20-7
+Ethylbenzene <1 100-41-4
+Immediately flush eyes with plenty of water, occasionally lifting the upper and lower 
+eyelids. Check for and remove any contact lenses. Continue to rinse for at least 10 
+minutes. Get medical attention.
+Wash contaminated skin with soap and water. Remove contaminated clothing and 
+shoes. Continue to rinse for at least 10 minutes. Get medical attention. Wash clothing 
+before reuse. Clean shoes thoroughly before reuse.Remove victim to fresh air and keep at rest in a position comfortable for breathing. If it 
+is suspected that gas or vapor is still present, the rescuer should wear an appropriate 
+mask or self-contained breathing apparatus. If not breathing, if breathing is irregular or 
+if respiratory arrest occurs, provide artificial respiration or oxygen by trained personnel.
+It may be dangerous to the person providing aid to give mouth-to-mouth resuscitation.
+Get medical attention. If necessary, call a poison center or physician. If unconscious,
+place in recovery position and get medical attention immediately. Maintain an open 
+airway. Loosen tight clothing such as a collar, tie, belt or waistband.
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 6:
+Content: Section 4. First aid measures
+Eye contact
+Skin contactInhalation
+:::Description of necessary first aid measures
+Date of issue/Date of revision :7/29/2015. 2/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 7:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 8:
+Content: Section 4. First aid measures
+Get medical attention immediately. Call a poison center or physician. Wash out mouth 
+with water. Remove dentures if any. Remove victim to fresh air and keep at rest in a 
+position comfortable for breathing. Aspiration hazard if swallowed. Can enter lungs and 
+cause damage. Do not induce vomiting. If vomiting occurs, the head should be kept 
+low so that vomit does not enter the lungs. Never give anything by mouth to an 
+unconscious person. If unconscious, place in recovery position and get medical 
+attention immediately. Maintain an open airway. Loosen tight clothing such as a collar,
+tie, belt or waistband.Ingestion :
+Protection of first-aiders :No action shall be taken involving any personal risk or without suitable training. If it is 
+suspected that gas or vapor is still present, the rescuer should wear an appropriate 
+mask or self-contained breathing apparatus. It may be dangerous to the person 
+providing aid to give mouth-to-mouth resuscitation.Notes to physician :If ingested, this material presents a significant aspiration and chemical pneumonitis 
+hazard. Induction of emesis is not recommended. Consider activated charcoal and/or 
+gastric lavage. If patient is obtunded, protect the airway by cuffed endotracheal 
+intubation or by placement of the body in a Trendelenburg and left lateral decubitus 
+position.
+Specific treatments :Treat symptomatically and supportively.Most important symptoms/effects, acute
+Inhalation :Harmful if inhaled. Long-term exposure to diesel engine exhaust may cause cancer.
+May be fatal if swallowed and enters airways. Irritating to mouth, throat and stomach.: IngestionSkin contact :Causes skin irritation.Causes eye irritation.: Eye contact
+Over-exposure signs/symptoms
+Skin contact
+IngestionInhalation No specific data.
+Adverse symptoms may include the following:
+nausea or vomitingAdverse symptoms may include the following:
+irritation
+redness
+::
+:Eye contact :Adverse symptoms may include the following:
+pain or irritation
+watering
+rednessPotential acute health effects
+See toxicological information (
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 9:

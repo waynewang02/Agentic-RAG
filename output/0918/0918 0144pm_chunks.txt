@@ -1,0 +1,983 @@
+Chunk 1:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+No. 2-D Grade Diesel Fuel Oil (defined by ASTM D-975); Treated or Refined Diesel 
+Fuel No. 2; Grade 2 Distillate Fuel; Hydrodesulfurized Middle Distillate; C9-C16 
+Petroleum Hydrocarbons
+Technical Contact: (832) 486-4000
+Medical Emergency: (832) 486-4700
+CHEMTREC Emergency: (800) 424-9300
+(United States Only)SAFETY DATA SHEET
+GHS product identifier
+Synonyms
+Emergency telephone 
+numberSection 1. Identification
+:
+:
+:Chemical name :Fuels, diesel, No 2
+Supplier's details :CITGO Petroleum Corporation
+P.O. Box 4689
+Houston, TX 77210CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+sdsvend@citgo.com: Code
+MSDS # :AG2DFVarious
+Section 2. Hazards identification
+FLAMMABLE LIQUIDS - Category 3
+ACUTE TOXICITY: INHALATION - Category 4
+SKIN CORROSION/IRRITATION - Category 2
+SERIOUS EYE DAMAGE/ EYE IRRITATION - Category 2B
+CARCINOGENICITY - Category 2
+SPECIFIC TARGET ORGAN TOXICITY (REPEATED EXPOSURE) [central nervous 
+system (CNS)] - Category 2
+ASPIRATION HAZARD - Category 1Classification of the 
+substance or mixture:
+Signal word :Danger
+Hazard statements :Flammable liquid and vapor.
+Harmful if inhaled.
+Causes skin and eye irritation.
+Suspected of causing cancer.
+May be fatal if swallowed and enters airways.
+May cause damage to organs through prolonged or repeated exposure. (central 
+nervous system (CNS))Hazard pictograms :
+Precautionary statements
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 0}
+
+--------------------------------------------------------------------------------
+Chunk 2:
+Content: Causes skin and eye irritation.
+Suspected of causing cancer.
+May be fatal if swallowed and enters airways.
+May cause damage to organs through prolonged or repeated exposure. (central 
+nervous system (CNS))Hazard pictograms :
+Precautionary statements
+Prevention :Obtain special instructions before use. Do not handle until all safety precautions have 
+been read and understood. Use personal protective equipment as required. Wear 
+protective gloves. Wear eye or face protection. Keep away from heat, sparks, open 
+flames and hot surfaces. - No smoking. Use explosion-proof electrical, ventilating,
+lighting and all material-handling equipment. Use only non-sparking tools. Take 
+precautionary measures against static discharge. Keep container tightly closed. Use 
+only outdoors or in a well-ventilated area. Do not breathe vapor. Wash hands 
+thoroughly after handling.GHS label elementsOSHA/HCS status :This material is considered hazardous by the OSHA Hazard Communication Standard 
+(29 CFR 1910.1200).
+Date of issue/Date of revision :7/29/2015. 1/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 0}
+
+--------------------------------------------------------------------------------
+Chunk 3:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 2. Hazards identification
+Response :Get medical attention if you feel unwell. IF exposed or concerned: Get medical 
+attention. IF INHALED: Remove victim to fresh air and keep at rest in a position 
+comfortable for breathing. Call a POISON CENTER or physician if you feel unwell. IF 
+SWALLOWED: Immediately call a POISON CENTER or physician. Do NOT induce 
+vomiting. IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse 
+skin with water or shower. IF ON SKIN: Wash with plenty of soap and water. Take off 
+contaminated clothing. If skin irritation occurs: Get medical attention. IF IN EYES:
+Rinse cautiously with water for several minutes. Remove contact lenses, if present and 
+easy to do. Continue rinsing. If eye irritation persists: Get medical attention.
+Storage :Store locked up. Store in a well-ventilated place. Keep cool.
+Disposal :Dispose of contents and container in accordance with all local, regional, national and 
+international regulations.
+Hazards not otherwise 
+classified:None known.
+Section 3. Composition/information on ingredients
+Ingredient name CAS number %Chemical name :Fuels, diesel, No 2
+Other means of 
+identification:No. 2-D Grade Diesel Fuel Oil (defined by ASTM D-975); Treated or Refined Diesel 
+Fuel No. 2; Grade 2 Distillate Fuel; Hydrodesulfurized Middle Distillate; C9-C16 
+Petroleum Hydrocarbons
+CAS number :68476-34-6Substance/mixture
+CAS number/other identifiers:
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 4:
+Content: Fuel No. 2; Grade 2 Distillate Fuel; Hydrodesulfurized Middle Distillate; C9-C16 
+Petroleum Hydrocarbons
+CAS number :68476-34-6Substance/mixture
+CAS number/other identifiers:
+Occupational exposure limits, if available, are listed in Section 8.Substance
+Any concentration shown as a range is to protect confidentiality or is due to process variation.* = Various ** = Mixture *** = ProprietaryEthyltoluene <3 25550-14-5
+Trimethylbenzene, all isomers <2 25551-13-7
+Naphthalene <2 91-20-3
+Biphenyl <2 92-52-4
+Cumene <1 98-82-8
+Xylenes, mixed isomers <1 1330-20-7
+Ethylbenzene <1 100-41-4
+Immediately flush eyes with plenty of water, occasionally lifting the upper and lower 
+eyelids. Check for and remove any contact lenses. Continue to rinse for at least 10 
+minutes. Get medical attention.
+Wash contaminated skin with soap and water. Remove contaminated clothing and 
+shoes. Continue to rinse for at least 10 minutes. Get medical attention. Wash clothing 
+before reuse. Clean shoes thoroughly before reuse.Remove victim to fresh air and keep at rest in a position comfortable for breathing. If it 
+is suspected that gas or vapor is still present, the rescuer should wear an appropriate 
+mask or self-contained breathing apparatus. If not breathing, if breathing is irregular or 
+if respiratory arrest occurs, provide artificial respiration or oxygen by trained personnel.
+It may be dangerous to the person providing aid to give mouth-to-mouth resuscitation.
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 5:
+Content: if respiratory arrest occurs, provide artificial respiration or oxygen by trained personnel.
+It may be dangerous to the person providing aid to give mouth-to-mouth resuscitation.
+Get medical attention. If necessary, call a poison center or physician. If unconscious,
+place in recovery position and get medical attention immediately. Maintain an open 
+airway. Loosen tight clothing such as a collar, tie, belt or waistband.Section 4. First aid measures
+Eye contact
+Skin contactInhalation
+:::Description of necessary first aid measures
+Date of issue/Date of revision :7/29/2015. 2/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 1}
+
+--------------------------------------------------------------------------------
+Chunk 6:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 4. First aid measures
+Get medical attention immediately. Call a poison center or physician. Wash out mouth 
+with water. Remove dentures if any. Remove victim to fresh air and keep at rest in a 
+position comfortable for breathing. Aspiration hazard if swallowed. Can enter lungs and 
+cause damage. Do not induce vomiting. If vomiting occurs, the head should be kept 
+low so that vomit does not enter the lungs. Never give anything by mouth to an 
+unconscious person. If unconscious, place in recovery position and get medical 
+attention immediately. Maintain an open airway. Loosen tight clothing such as a collar,
+tie, belt or waistband.Ingestion :
+Protection of first-aiders :No action shall be taken involving any personal risk or without suitable training. If it is 
+suspected that gas or vapor is still present, the rescuer should wear an appropriate 
+mask or self-contained breathing apparatus. It may be dangerous to the person 
+providing aid to give mouth-to-mouth resuscitation.Notes to physician :If ingested, this material presents a significant aspiration and chemical pneumonitis 
+hazard. Induction of emesis is not recommended. Consider activated charcoal and/or 
+gastric lavage. If patient is obtunded, protect the airway by cuffed endotracheal 
+intubation or by placement of the body in a Trendelenburg and left lateral decubitus 
+position.
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 7:
+Content: gastric lavage. If patient is obtunded, protect the airway by cuffed endotracheal 
+intubation or by placement of the body in a Trendelenburg and left lateral decubitus 
+position.
+Specific treatments :Treat symptomatically and supportively.Most important symptoms/effects, acute
+Inhalation :Harmful if inhaled. Long-term exposure to diesel engine exhaust may cause cancer.
+May be fatal if swallowed and enters airways. Irritating to mouth, throat and stomach.: IngestionSkin contact :Causes skin irritation.Causes eye irritation.: Eye contact
+Over-exposure signs/symptoms
+Skin contact
+IngestionInhalation No specific data.
+Adverse symptoms may include the following:
+nausea or vomitingAdverse symptoms may include the following:
+irritation
+redness
+::
+:Eye contact :Adverse symptoms may include the following:
+pain or irritation
+watering
+rednessPotential acute health effects
+See toxicological information (Section 11)Indication of immediate medical attention and special treatment needed, if necessary
+Section 5. Fire-fighting measures
+Specific hazards arising 
+from the chemicalFlammable liquid and vapor. In a fire or if heated, a pressure increase will occur and 
+the container may burst, with the risk of a subsequent explosion. The vapor/gas is 
+heavier than air and will spread along the ground. Vapors may accumulate in low or 
+confined areas or travel a considerable distance to a source of ignition and flash back.
+Runoff to sewer may create fire or explosion hazard.
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 8:
+Content: heavier than air and will spread along the ground. Vapors may accumulate in low or 
+confined areas or travel a considerable distance to a source of ignition and flash back.
+Runoff to sewer may create fire or explosion hazard.
+Use dry chemical, carbon dioxide (CO₂, ) water spray (fog) or foam.Extinguishing media:
+Do not use water jet.Suitable extinguishing 
+media:
+Unsuitable extinguishing 
+media:
+Date of issue/Date of revision :7/29/2015. 3/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 2}
+
+--------------------------------------------------------------------------------
+Chunk 9:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 5. Fire-fighting measures
+Promptly isolate the scene by removing all persons from the vicinity of the incident if 
+there is a fire. No action shall be taken involving any personal risk or without suitable 
+training. Move containers from fire area if this can be done without risk. Use water 
+spray to keep fire-exposed containers cool.Hazardous thermal 
+decomposition productsDecomposition products may include the following materials:
+carbon dioxide
+carbon monoxide
+Diesel engine exhaust
+Fire-fighters should wear appropriate protective equipment and self-contained breathing 
+apparatus (SCBA) with a full face-piece operated in positive pressure mode.Special protective 
+equipment for fire-fighters:
+:Special protective actions 
+for fire-fighters:
+Section 6. Accidental release measures
+Environmental precautionsPersonal precautions, protective equipment and emergency procedures
+Stop leak if without risk. Move containers from spill area. Use spark-proof tools and 
+explosion-proof equipment. Approach release from upwind. Prevent entry into sewers,
+water courses, basements or confined areas. Wash spillages into an effluent treatment 
+plant or proceed as follows. Contain and collect spillage with non-combustible,
+absorbent material e.g. sand, earth, vermiculite or diatomaceous earth and place in 
+container for disposal according to local regulations (see Section 13). Dispose of via a
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 3}
+
+--------------------------------------------------------------------------------
+Chunk 10:
+Content: absorbent material e.g. sand, earth, vermiculite or diatomaceous earth and place in 
+container for disposal according to local regulations (see Section 13). Dispose of via a 
+licensed waste disposal contractor. Contaminated absorbent material may pose the 
+same hazard as the spilled product. Note: see Section 1 for emergency contact 
+information and Section 13 for waste disposal.::No action shall be taken involving any personal risk or without suitable training.
+Evacuate surrounding areas. Keep unnecessary and unprotected personnel from 
+entering. Do not touch or walk through spilled material. Shut off all ignition sources.
+No flares, smoking or flames in hazard area. Avoid breathing vapor or mist. Provide 
+adequate ventilation. Wear appropriate respirator when ventilation is inadequate. Put 
+on appropriate personal protective equipment.
+Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains 
+and sewers. Inform the relevant authorities if the product has caused environmental 
+pollution (sewers, waterways, soil or air).
+Large spill :Stop leak if without risk. Move containers from spill area. Use spark-proof tools and 
+explosion-proof equipment. Dilute with water and mop up if water-soluble. Alternatively,
+or if water-insoluble, absorb with an inert dry material and place in an appropriate waste
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 3}
+
+--------------------------------------------------------------------------------
+Chunk 11:
+Content: explosion-proof equipment. Dilute with water and mop up if water-soluble. Alternatively,
+or if water-insoluble, absorb with an inert dry material and place in an appropriate waste 
+disposal container. Dispose of via a licensed waste disposal contractor.Small spill :Methods and materials for containment and cleaning upFor non-emergency 
+personnel
+For emergency responders :If specialized clothing is required to deal with the spillage, take note of any information in 
+Section 8 on suitable and unsuitable materials. See also the information in "For non-
+emergency personnel".
+Section 7. Handling and storage
+Protective measures Put on appropriate personal protective equipment (see Section 8). Avoid exposure -
+obtain special instructions before use. Do not handle until all safety precautions have 
+been read and understood. Do not get in eyes or on skin or clothing. Do not breathe 
+vapor or mist. Do not swallow. Use only with adequate ventilation. Wear appropriate 
+respirator when ventilation is inadequate. Do not enter storage areas and confined 
+spaces unless adequately ventilated. Keep in the original container or an approved 
+alternative made from a compatible material, kept tightly closed when not in use. Store 
+and use away from heat, sparks, open flame or any other ignition source. Use 
+explosion-proof electrical (ventilating, lighting and material handling) equipment. Use 
+only non-sparking tools. Take precautionary measures against electrostatic discharges.
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 3}
+
+--------------------------------------------------------------------------------
+Chunk 12:
+Content: explosion-proof electrical (ventilating, lighting and material handling) equipment. Use 
+only non-sparking tools. Take precautionary measures against electrostatic discharges.
+Empty containers retain product residue and can be hazardous. Do not reuse container.
+Non equilibrium conditions may increase the fire hazard associated with this product.
+Always bond receiving containers to the fill pipe before and during loading. Always 
+confirm that receiving container is properly grounded. Bonding and grounding alone :Precautions for safe handling
+Date of issue/Date of revision :7/29/2015. 4/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 3}
+
+--------------------------------------------------------------------------------
+Chunk 13:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 7. Handling and storage
+Advice on general 
+occupational hygiene
+Conditions for safe storage,
+including any 
+incompatibilitiesEating, drinking and smoking should be prohibited in areas where this material is 
+handled, stored and processed. Workers should wash hands and face before eating,
+drinking and smoking. Remove contaminated clothing and protective equipment before 
+entering eating areas. See also Section 8 for additional information on hygiene 
+measures.
+Store in accordance with local regulations. Store in a segregated and approved area.
+Store in original container protected from direct sunlight in a dry, cool and well-ventilated 
+area, away from incompatible materials (see Section 10) and food and drink. Store 
+locked up. Eliminate all ignition sources. Separate from oxidizing materials. Keep 
+container tightly closed and sealed until ready for use. Containers that have been 
+opened must be carefully resealed and kept upright to prevent leakage. Do not store in 
+unlabeled containers. Use appropriate containment to avoid environmental 
+contamination.:
+:may be inadequate to eliminate fire and explosion hazards. Carefully review operations 
+that may increase the risks such as tank and container filling, tank cleaning, sampling,
+gauging, loading, filtering, mixing, agitation, etc. In addition to bonding and grounding,
+efforts to mitigate the hazards may include, but are not limited to, ventilation, inerting
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 4}
+
+--------------------------------------------------------------------------------
+Chunk 14:
+Content: gauging, loading, filtering, mixing, agitation, etc. In addition to bonding and grounding,
+efforts to mitigate the hazards may include, but are not limited to, ventilation, inerting 
+and/or reduction of transfer velocities.
+Always keep nozzle in contact with the container throughout the loading process. Do 
+NOT fill any portable container in or on a vehicle.
+Special precautions, such as reduced loading rates and increased monitoring, must be 
+observed during "switch loading" operations (i.e., loading this material in tanks or 
+shipping compartments that previously contained a dissimilar product).
+Bulk Storage Conditions: Maintain all storage tanks in accordance with applicable 
+regulations. Use necessary controls to monitor tank inventories. Inspect all storage 
+tanks on a periodic basis. Test tanks and associated piping for tightness. Maintain the 
+automatic leak detection devices to assure proper working condition.
+Trimethylbenzene, all isomers ACGIH TLV (United States, 4/2014).
+ TWA: 25 ppm 8 hours.
+ TWA: 123 mg/m³ 8 hours.
+Naphthalene ACGIH (United States). Absorbed through skin. 
+ TWA: 10 ppm 8 hours.
+ STEL: 15 ppm 15 minutes.
+OSHA (United States).
+ TWA: 10 ppm 8 hours.
+ACGIH TLV (United States, 4/2014). Absorbed through 
+skin. 
+ TWA: 10 ppm 8 hours.
+ TWA: 52 mg/m³ 8 hours.
+OSHA PEL (United States, 2/2013).
+ TWA: 10 ppm 8 hours.
+ TWA: 50 mg/m³ 8 hours.
+Biphenyl OSHA PEL Z2 (United States).
+ TWA: 0.2 ppm 8 hours.
+ACGIH TLV (United States, 4/2014).
+ TWA: 0.2 ppm 8 hours.
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 4}
+
+--------------------------------------------------------------------------------
+Chunk 15:
+Content: TWA: 10 ppm 8 hours.
+ TWA: 52 mg/m³ 8 hours.
+OSHA PEL (United States, 2/2013).
+ TWA: 10 ppm 8 hours.
+ TWA: 50 mg/m³ 8 hours.
+Biphenyl OSHA PEL Z2 (United States).
+ TWA: 0.2 ppm 8 hours.
+ACGIH TLV (United States, 4/2014).
+ TWA: 0.2 ppm 8 hours.
+ TWA: 1.3 mg/m³ 8 hours.
+OSHA PEL (United States, 2/2013).
+ TWA: 0.2 ppm 8 hours.
+ TWA: 1 mg/m³ 8 hours.
+Cumene ACGIH TLV (United States, 4/2014).
+ TWA: 50 ppm 8 hours.
+OSHA PEL (United States, 2/2013). Absorbed through Section 8. Exposure controls/personal protection
+Ingredient name Exposure limitsControl parameters
+Occupational exposure limits
+Date of issue/Date of revision :7/29/2015. 5/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 4}
+
+--------------------------------------------------------------------------------
+Chunk 16:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 8. Exposure controls/personal protection
+skin. 
+ TWA: 50 ppm 8 hours.
+ TWA: 245 mg/m³ 8 hours.
+Xylenes, mixed isomers ACGIH TLV (United States, 4/2014).
+ TWA: 100 ppm 8 hours.
+ TWA: 434 mg/m³ 8 hours.
+ STEL: 150 ppm 15 minutes.
+ STEL: 651 mg/m³ 15 minutes.
+OSHA PEL (United States, 2/2013).
+ TWA: 100 ppm 8 hours.
+ TWA: 435 mg/m³ 8 hours.
+Ethylbenzene ACGIH TLV (United States, 4/2014).
+ TWA: 20 ppm 8 hours.
+OSHA PEL (United States, 2/2013).
+ TWA: 100 ppm 8 hours.
+ TWA: 435 mg/m³ 8 hours.
+Hand protection
+Use a properly fitted, air-purifying or supplied-air respirator complying with an approved 
+standard if a risk assessment indicates this is necessary. Respirator selection must be 
+based on known or anticipated exposure levels, the hazards of the product and the safe 
+working limits of the selected respirator.Chemical-resistant gloves complying with an approved standard should be worn at all 
+times when handling chemical products if a risk assessment indicates this is necessary.
+Considering the parameters specified by the glove manufacturer, check during use that 
+the gloves are still retaining their protective properties. It should be noted that the time 
+to breakthrough for any glove material may be different for different glove 
+manufacturers.Safety glasses equipped with side shields are recommended as minimum protection in 
+industrial settings. If contact is possible, the following protection should be worn, unless
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 5}
+
+--------------------------------------------------------------------------------
+Chunk 17:
+Content: manufacturers.Safety glasses equipped with side shields are recommended as minimum protection in 
+industrial settings. If contact is possible, the following protection should be worn, unless 
+the assessment indicates a higher degree of protection: Splash goggles. Safety 
+eyewear complying with an approved standard should be used when a risk assessment 
+indicates this is necessary to avoid exposure to liquid splashes, mists, gases or dusts.
+chemical splash goggles. If inhalation hazards exist, a full-face respirator may be 
+required instead.Eye/face protection
+Respiratory protection :::
+Body protection Personal protective equipment for the body should be selected based on the task being 
+performed and the risks involved and should be approved by a specialist before 
+handling this product.:Environmental exposure 
+controls:Emissions from ventilation or work process equipment should be checked to ensure 
+they comply with the requirements of environmental protection legislation. In some 
+cases, vapor controls, filters or engineering modifications to the process equipment will 
+be necessary to reduce emissions to acceptable levels.Appropriate engineering 
+controls:Use only with adequate ventilation. Use process enclosures, local exhaust ventilation or 
+other engineering controls to keep worker exposure to airborne contaminants below any 
+recommended or statutory limits. The engineering controls also need to keep gas,
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 5}
+
+--------------------------------------------------------------------------------
+Chunk 18:
+Content: other engineering controls to keep worker exposure to airborne contaminants below any 
+recommended or statutory limits. The engineering controls also need to keep gas,
+vapor or dust concentrations below any lower explosive limits. Use explosion-proof 
+ventilation equipment.
+Wash hands, forearms and face thoroughly after handling chemical products, before 
+eating, smoking and using the lavatory and at the end of the working period.
+Appropriate techniques should be used to remove potentially contaminated clothing.
+Wash contaminated clothing before reusing. Ensure that eyewash stations and safety 
+showers are close to the workstation location.Hygiene measures :Individual protection measures
+Skin protection
+Other skin protection :Appropriate footwear and any additional skin protection measures should be selected 
+based on the task being performed and the risks involved and should be approved by a 
+specialist before handling this product.
+Date of issue/Date of revision :7/29/2015. 6/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 5}
+
+--------------------------------------------------------------------------------
+Chunk 19:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 9. Physical and chemical properties
+Physical state
+Melting point
+Vapor pressure
+Relative densityVapor density
+SolubilityLiquid.
+-30 to -18°C (-22 to -0.4°F)
+0.845 [Air = 1]0.27 kPa (2 mm Hg) [room temperature]
+Very slightly soluble in the following materials: cold water.Characteristic. Odor
+pHColorless to light yellow or red. Color
+Evaporation rate <1 (butyl acetate = 1)
+Auto-ignition temperatureFlash point
+254 to 285°C (489.2 to 545°F)Closed cup: 52°C (125.6°F) [Pensky-Martens.]
+>3.3Not available.
+Viscosity Kinematic (room temperature): 0.03 cm2/s (3 cSt)Partition coefficient: n-
+octanol/water:
+::
+:
+::
+::
+:::
+:
+:
+:Boiling point/boiling range :282 to 338°C (539.6 to 640.4°F)
+Lower and upper explosive 
+(flammable) limits:Lower: 0.6%
+Upper: 6.5%
+Solubility in water :0.005 g/lDensity lbs/gal
+Gravity, °API:
+:Estimated 37 @ 60 FEstimated 7 lbs/gal
+Section 10. Stability and reactivity
+Hazardous decomposition 
+productsConditions to avoid Avoid all possible sources of ignition (spark or flame). Do not pressurize, cut, weld,
+braze, solder, drill, grind or expose containers to heat or sources of ignition. Do not 
+allow vapor to accumulate in low or confined areas.
+Under normal conditions of storage and use, hazardous decomposition products should 
+not be produced.The product is stable. Chemical stability
+Reactive or incompatible with the following materials:
+oxidizing materials:
+:
+:Incompatible materials :Possibility of hazardous
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 6}
+
+--------------------------------------------------------------------------------
+Chunk 20:
+Content: not be produced.The product is stable. Chemical stability
+Reactive or incompatible with the following materials:
+oxidizing materials:
+:
+:Incompatible materials :Possibility of hazardous 
+reactions:Under normal conditions of storage and use, hazardous reactions will not occur.Reactivity :Not expected to be Explosive, Self-Reactive, Self-Heating, or an Organic Peroxide 
+under US GHS Definition(s).
+Section 11. Toxicological information
+Acute toxicityInformation on toxicological effects
+Date of issue/Date of revision :7/29/2015. 7/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 6}
+
+--------------------------------------------------------------------------------
+Chunk 21:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 11. Toxicological information
+Trimethylbenzene, all isomers LD50 Oral Rat 8970 mg/kg -
+Naphthalene LD50 Oral Rat 490 mg/kg -
+Biphenyl LD50 Dermal Rabbit >5010 mg/kg -
+LD50 Oral Rat 2140 mg/kg -
+Cumene LC50 Inhalation Vapor Mouse 10 g/m³ 7 hours
+LD50 Dermal Rabbit 12300 uL/kg -
+LD50 Oral Rat 2.9 g/kg -
+LD50 Oral Rat 4000 mg/kg -
+Xylenes, mixed isomers LC50 Inhalation Gas. Cat 9500 ppm 2 hours
+LC50 Inhalation Gas. Rat 5000 ppm 4 hours
+LC50 Inhalation Gas. Rat 6700 ppm 4 hours
+LC50 Inhalation Gas. Rat 6670 ppm 4 hours
+LD50 Oral Mouse 2119 mg/kg -
+LD50 Oral Rat 4300 mg/kg -
+LD50 Oral Rat 4300 mg/kg -
+Ethylbenzene LD50 Dermal Rabbit >5000 mg/kg -
+LD50 Oral Rat 3500 mg/kg -Product/ingredient name Result Species Dose Exposure
+CarcinogenicityMutagenicityIrritation/Corrosion
+Trimethylbenzene, all isomers Eyes - Mild irritant Rabbit - 24 hours 500 
+milligrams-
+Skin - Moderate irritant Rabbit - 24 hours 500 
+milligrams-
+Naphthalene Skin - Mild irritant Rabbit - 495 
+milligrams-
+Biphenyl Eyes - Mild irritant Rabbit - 100 
+milligrams-
+Skin - Severe irritant Rabbit - 24 hours 500 
+microliters-
+Cumene Eyes - Mild irritant Rabbit - 86 milligrams -
+Skin - Mild irritant Rabbit - 24 hours 10 
+milligrams-
+Xylenes, mixed isomers Skin - Mild irritant Rat - 8 hours 60 
+microliters-
+Skin - Moderate irritant Rabbit - 24 hours 500 
+milligrams-
+Skin - Moderate irritant Rabbit - 100 Percent -
+Ethylbenzene Skin - Mild irritant Rabbit - 24 hours 15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 7}
+
+--------------------------------------------------------------------------------
+Chunk 22:
+Content: Xylenes, mixed isomers Skin - Mild irritant Rat - 8 hours 60 
+microliters-
+Skin - Moderate irritant Rabbit - 24 hours 500 
+milligrams-
+Skin - Moderate irritant Rabbit - 100 Percent -
+Ethylbenzene Skin - Mild irritant Rabbit - 24 hours 15 
+milligrams-Product/ingredient name Result Score Exposure Observation
+SensitizationSpeciesConclusion/Summary :No additional information.
+Skin
+Eyes
+Respiratory:
+:
+:No additional information.
+No additional information.
+No additional information.
+Skin
+Respiratory:
+:No additional information.
+No additional information.
+Conclusion/Summary :No additional information.
+Conclusion/Summary :
+Date of issue/Date of revision :7/29/2015. 8/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 7}
+
+--------------------------------------------------------------------------------
+Chunk 23:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 11. Toxicological information
+TeratogenicityReproductive toxicity
+Information on the likely 
+routes of exposure
+Inhalation :Harmful if inhaled. Long-term exposure to diesel engine exhaust may cause cancer.
+Skin contact :Causes skin irritation.Causes eye irritation.: Eye contactSpecific target organ toxicity (single exposure)
+Specific target organ toxicity (repeated exposure)Trimethylbenzene, all isomers Category 3 Not applicable. Respiratory tract 
+irritation and 
+Narcotic effects
+Biphenyl Category 3 Not applicable. Respiratory tract 
+irritation
+Cumene Category 3 Not applicable. Respiratory tract 
+irritation
+Ethylbenzene Category 3 Not applicable. Respiratory tract 
+irritationName Category
+Name Category
+Fuels, diesel, No 2 Category 2 Not determined central nervous 
+system (CNS)
+Trimethylbenzene, all isomers Category 2 Not determined central nervous 
+system (CNS)
+Xylenes, mixed isomers Category 2 Not determined ears
+Aspiration hazard
+Name Result
+Trimethylbenzene, all isomers ASPIRATION HAZARD - Category 1
+Cumene ASPIRATION HAZARD - Category 1
+Ethylbenzene ASPIRATION HAZARD - Category 1
+propylbenzene ASPIRATION HAZARD - Category 1Route of 
+exposureTarget organs
+Route of 
+exposureTarget organs
+:Routes of entry anticipated: Dermal, Inhalation.
+Potential acute health effectsClassification
+Fuels, diesel, No 2 - 3 -
+Diesel exhaust particulate - 1 Reasonably anticipated to be a human carcinogen.
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 8}
+
+--------------------------------------------------------------------------------
+Chunk 24:
+Content: Route of 
+exposureTarget organs
+:Routes of entry anticipated: Dermal, Inhalation.
+Potential acute health effectsClassification
+Fuels, diesel, No 2 - 3 -
+Diesel exhaust particulate - 1 Reasonably anticipated to be a human carcinogen.
+Naphthalene - 2B Reasonably anticipated to be a human carcinogen.
+Cumene - 2B Reasonably anticipated to be a human carcinogen.
+Xylenes, mixed isomers - 3 -
+Ethylbenzene - 2B -Product/ingredient name NTP IARC OSHADiesel exhaust particulate : Lung tumor and lymphomas were identified in rats and 
+mice exposed to unflitered diesel fuel exhaust in chronic inhalation studies. Further,
+epidemiological studies have identified increase incidences of lung cancer in US railroad 
+workers and bladder cancer in bus and truck drivers possibly associated with exposure 
+to diesel engine exhaust. NTP has determined that exposure to diesel exhaust 
+particulates, a complex mixture of combustion products of diesel fuel, is reasonably 
+anticipated to be a human carcinogen. In addition, NIOSH has identified complete 
+diesel exhaust as a potential carcinogen.
+Conclusion/Summary :No additional information.
+Conclusion/Summary :No additional information.
+Date of issue/Date of revision :7/29/2015. 9/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 8}
+
+--------------------------------------------------------------------------------
+Chunk 25:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 11. Toxicological information
+May be fatal if swallowed and enters airways. Irritating to mouth, throat and stomach.: Ingestion
+May cause damage to organs through prolonged or repeated exposure. General :
+Suspected of causing cancer. Risk of cancer depends on duration and level of 
+exposure.Carcinogenicity :
+No known significant effects or critical hazards. Mutagenicity :
+No known significant effects or critical hazards. Teratogenicity :
+Developmental effects :No known significant effects or critical hazards.
+Fertility effects :No known significant effects or critical hazards.Symptoms related to the physical, chemical and toxicological characteristics
+Skin contact
+IngestionInhalation No specific data.
+Adverse symptoms may include the following:
+nausea or vomitingAdverse symptoms may include the following:
+irritation
+redness
+::
+:Eye contact :Adverse symptoms may include the following:
+pain or irritation
+watering
+redness
+Potential chronic health effects
+Section 12. Ecological information
+Toxicity
+Trimethylbenzene, all isomers Acute LC50 5600 µg/l Marine water Crustaceans - Palaemonetes 
+pugio48 hours
+Naphthalene Acute EC50 1600 µg/l Fresh water Daphnia - Daphnia magna -
+Neonate48 hours
+Acute LC50 2350 µg/l Marine water Crustaceans - Palaemonetes 
+pugio48 hours
+Acute LC50 213 µg/l Fresh water Fish - Melanotaenia fluviatilis -
+Larvae96 hours
+Chronic NOEC 0.67 ppm Fresh water Fish - Oncorhynchus kisutch 40 days
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 9}
+
+--------------------------------------------------------------------------------
+Chunk 26:
+Content: Neonate48 hours
+Acute LC50 2350 µg/l Marine water Crustaceans - Palaemonetes 
+pugio48 hours
+Acute LC50 213 µg/l Fresh water Fish - Melanotaenia fluviatilis -
+Larvae96 hours
+Chronic NOEC 0.67 ppm Fresh water Fish - Oncorhynchus kisutch 40 days
+Biphenyl Acute LC50 360 µg/l Fresh water Daphnia - Daphnia magna -
+Neonate48 hours
+Acute LC50 1450 µg/l Fresh water Fish - Pimephales promelas 96 hours
+Chronic NOEC 0.17 mg/l Fresh water Daphnia - Daphnia magna -
+Neonate21 days
+Chronic NOEC 0.229 mg/l Fresh water Fish - Oncorhynchus mykiss 87 days
+Cumene Acute EC50 2600 µg/l Fresh water Algae - Pseudokirchneriella 
+subcapitata72 hours
+Acute EC50 7400 µg/l Fresh water Crustaceans - Artemia sp. -
+Nauplii48 hours
+Acute EC50 10600 µg/l Fresh water Daphnia - Daphnia magna -
+Neonate48 hours
+Acute LC50 2700 µg/l Fresh water Fish - Oncorhynchus mykiss 96 hours
+Xylenes, mixed isomers Acute EC50 90 mg/l Fresh water Crustaceans - Cypris subglobosa 48 hours
+Acute LC50 8.5 ppm Marine water Crustaceans - Palaemonetes 
+pugio - Adult48 hours
+Acute LC50 8500 µg/l Marine water Crustaceans - Palaemonetes 
+pugio48 hours
+Acute LC50 15700 µg/l Fresh water Fish - Lepomis macrochirus - 96 hoursProduct/ingredient name Species Result Exposure
+Date of issue/Date of revision :7/29/2015. 10/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 9}
+
+--------------------------------------------------------------------------------
+Chunk 27:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 12. Ecological information
+LogP ow BCF PotentialBioaccumulative potential
+Other adverse effects :No known significant effects or critical hazards.Product/ingredient name
+Fuels, diesel, No 2 >3.3 - low
+Trimethylbenzene, all isomers 3.4 to 3.8 - low
+Naphthalene 3.4 36.5 to 168 low
+Biphenyl 4.008 1900 high
+Cumene 3.55 94.69 low
+Xylenes, mixed isomers 3.12 8.1 to 25.9 low
+Ethylbenzene 3.6 - lowJuvenile (Fledgling, Hatchling,
+Weanling)
+Acute LC50 19000 µg/l Fresh water Fish - Lepomis macrochirus 96 hours
+Acute LC50 13400 µg/l Fresh water Fish - Pimephales promelas 96 hours
+Acute LC50 16940 µg/l Fresh water Fish - Carassius auratus 96 hours
+Ethylbenzene Acute EC50 4600 µg/l Fresh water Algae - Pseudokirchneriella 
+subcapitata72 hours
+Acute EC50 3600 µg/l Fresh water Algae - Pseudokirchneriella 
+subcapitata96 hours
+Acute EC50 2930 µg/l Fresh water Daphnia - Daphnia magna -
+Neonate48 hours
+Acute LC50 5200 µg/l Marine water Crustaceans - Americamysis 
+bahia48 hours
+Acute LC50 4200 µg/l Fresh water Fish - Oncorhynchus mykiss 96 hours
+Chronic NOEC 1000 µg/l Fresh water Algae - Pseudokirchneriella 
+subcapitata96 hours
+Persistence and degradability
+Soil/water partition 
+coefficient (K OC):Not available.Mobility in soilNot available.Conclusion/Summary :Not available.
+Conclusion/Summary :Not available.
+Section 13. Disposal considerations
+The generation of waste should be avoided or minimized wherever possible. Disposal
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 10}
+
+--------------------------------------------------------------------------------
+Chunk 28:
+Content: Conclusion/Summary :Not available.
+Section 13. Disposal considerations
+The generation of waste should be avoided or minimized wherever possible. Disposal 
+of this product, solutions and any by-products should at all times comply with the 
+requirements of environmental protection and waste disposal legislation and any 
+regional local authority requirements. Dispose of surplus and non-recyclable products 
+via a licensed waste disposal contractor. Waste should not be disposed of untreated to 
+the sewer unless fully compliant with the requirements of all authorities with jurisdiction.
+Waste packaging should be recycled. This material and its container must be disposed 
+of in a safe way. Care should be taken when handling emptied containers that have not 
+been cleaned or rinsed out. Empty containers or liners may retain some product 
+residues. Vapor from product residues may create a highly flammable or explosive 
+atmosphere inside the container. Do not cut, weld or grind used containers unless they 
+have been cleaned thoroughly internally. Avoid dispersal of spilled material and runoff 
+and contact with soil, waterways, drains and sewers.: Disposal methods
+RCRA classification :D001, D018
+Date of issue/Date of revision :7/29/2015. 11/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 10}
+
+--------------------------------------------------------------------------------
+Chunk 29:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 14. Transport information
+NA 1993, Diesel Fuel, 3, PG III
+3
+IIIUN 1202, Diesel Fuel, 3, PG IIIUN 1202
+3
+IIINA1993
+Packaging instruction
+Passenger aircraft
+Quantity limitation: 60 L
+Packaging instructions: Y309
+Cargo aircraft
+Quantity limitation: 220 L
+Packaging instructions: 310
+Remarks
+49 CFR 173.150 (f)(1) states 
+that a flammable liquid with a 
+flash point at or above 38ºC 
+(100ºF) that does not meet the 
+definition of any other hazard 
+class may be reclassed as a 
+combustible liquid. This 
+provision does not apply to 
+transportation by vessel or 
+aircraft except where other 
+means of transportaion is 
+impracticable.Cargo Aircraft Only Quantity 
+limitation: 220 L
+Packaging instructions: 310
+Limited Quantities -
+Passenger Aircraft Quantity 
+limitation: 60 L
+Packaging instructions: 309YDOT Classification IATA
+UN number
+UN proper 
+shipping name
+Transport 
+hazard class(es)
+Packing group
+Additional 
+informationEnvironmental 
+hazards
+Special precautions for userNo. No.
+Transport within user’s premises: always transport in closed containers that are 
+upright and secure. Ensure that persons transporting the product know what to do in the 
+event of an accident or spillage.:IMDG
+UN 1202
+UN 1202, Diesel Fuel, 3, PG III
+3
+III
+Yes.
+-
+Section 15. Regulatory information
+U.S. Federal regulations
+Clean Water Act (CWA) 307 : Ethylbenzene; Naphthalene; Toluene; Benzene
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 11}
+
+--------------------------------------------------------------------------------
+Chunk 30:
+Content: event of an accident or spillage.:IMDG
+UN 1202
+UN 1202, Diesel Fuel, 3, PG III
+3
+III
+Yes.
+-
+Section 15. Regulatory information
+U.S. Federal regulations
+Clean Water Act (CWA) 307 : Ethylbenzene; Naphthalene; Toluene; Benzene
+Clean Water Act (CWA) 311 : Ethylbenzene; Xylenes, mixed isomers; Naphthalene;
+Toluene; Benzene:United States inventory (TSCA 8b) : All components are listed or exempted.
+This material is classified as an oil under Section 311 of the Clean Water Act (CWA)
+and the Oil Pollution Act of 1990 (OPA). Discharges or spills which produce a visible 
+sheen on waters of the United States, their adjoining shorelines, or into conduits leading 
+to surface waters must be reported to the EPA's National Response Center at (800)
+424-8802.
+Date of issue/Date of revision :7/29/2015. 12/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 11}
+
+--------------------------------------------------------------------------------
+Chunk 31:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 15. Regulatory information
+The following components are listed: Trimethylbenzene, all isomers; Ethyltoluene
+WARNING: This product contains a chemical known to the State of California to cause cancer.
+WARNING: This product contains less than 1% of a chemical known to the State of California to cause birth defects or 
+other reproductive harm.Massachusetts :SARA 313
+Product name CAS number %
+SARA 313 notifications must not be detached from the SDS and any copying and redistribution of the SDS shall include 
+copying and redistribution of the notice attached to copies of the SDS subsequently redistributed.Naphthalene 91-20-3 <1
+Ethylbenzene 100-41-4 <1
+Naphthalene 91-20-3 <1
+Ethylbenzene 100-41-4 <1Form R - Reporting 
+requirements
+Supplier notification
+California Prop. 65New York :The following components are listed: Ethylbenzene; Cumene; Benzene, 1-methylethyl-;
+Naphthalene
+New Jersey :The following components are listed: Ethylbenzene; Cumene; NAPHTHALENE;
+TRIMETHYL BENZENE (mixed isomers); BENZENE, TRIMETHYL-;
+ETHYLTOLUENES; BENZENE, ETHYLMETHYL-
+Pennsylvania :The following components are listed: Ethylbenzene; Cumene; NAPHTHALENE;
+Trimethylbenzene, all isomers; EthyltolueneState regulationsSARA 302/304
+SARA 304 RQ :Not applicable.Composition/information on ingredients
+SARA 311/312
+Classification :Fire hazard
+Immediate (acute) health hazard
+Delayed (chronic) health hazard
+Fuels, diesel, No 2 Yes. No. No. Yes. Yes.
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 12}
+
+--------------------------------------------------------------------------------
+Chunk 32:
+Content: SARA 304 RQ :Not applicable.Composition/information on ingredients
+SARA 311/312
+Classification :Fire hazard
+Immediate (acute) health hazard
+Delayed (chronic) health hazard
+Fuels, diesel, No 2 Yes. No. No. Yes. Yes.
+Trimethylbenzene, all isomers Yes. No. No. Yes. Yes.
+Naphthalene Yes. No. No. Yes. Yes.
+Biphenyl No. No. No. Yes. No.
+Cumene Yes. No. No. Yes. Yes.
+Xylenes, mixed isomers Yes. No. No. Yes. Yes.
+Ethylbenzene Yes. No. No. Yes. Yes.Name Fire 
+hazardSudden 
+release of 
+pressureReactive Immediate 
+(acute)
+health 
+hazardDelayed 
+(chronic)
+health 
+hazardComposition/information on ingredients
+Naphthalene <1 Yes. No. Yes. No.
+Cumene <1 Yes. No. No. No.
+Ethylbenzene <1 Yes. No. 41 µg/day (ingestion)
+54 µg/day 
+(inhalation)No.
+Diesel exhaust particulate <1 Yes. No. No. No.
+Toluene <0.1 No. Yes. No. 7000 µg/day 
+(ingestion)
+Benzene <0.1 Yes. Yes. 6.4 µg/day 
+(ingestion)24 µg/day (ingestion)
+49 µg/day Ingredient name Cancer Reproductive No significant risk 
+levelMaximum 
+acceptable dosage 
+level%
+Date of issue/Date of revision :7/29/2015. 13/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 12}
+
+--------------------------------------------------------------------------------
+Chunk 33:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 15. Regulatory information
+Canada inventory :All components are listed or exempted.Australia inventory (AICS) : All components are listed or exempted.
+China inventory (IECSC) : All components are listed or exempted.
+Japan inventory : All components are listed or exempted.
+Korea inventory : All components are listed or exempted.
+Malaysia Inventory (EHS Register) : Not determined.
+New Zealand Inventory of Chemicals (NZIoC) : All components are listed or exempted.
+Philippines inventory (PICCS) : All components are listed or exempted.
+Taiwan inventory (CSNN) : Not determined.International regulations
+International lists :13 µg/day 
+(inhalation)(inhalation)
+EU Inventory :All components are listed or exempted.
+WHMIS (Canada) :Class B-3: Combustible liquid with a flash point between 37.8°C (100°F) and 93.3°C 
+(200°F).
+Class D-2A: Material causing other toxic effects (Very toxic).
+Section 16. Other information
+History
+Date of issue/Date of 
+revision
+Notice to reader:
+Key to abbreviations :ATE = Acute Toxicity Estimate
+BCF = Bioconcentration Factor
+GHS = Globally Harmonized System of Classification and Labelling of Chemicals
+IATA = International Air Transport Association
+IBC = Intermediate Bulk Container
+IMDG = International Maritime Dangerous Goods
+LogPow = logarithm of the octanol/water partition coefficient
+MARPOL 73/78 = International Convention for the Prevention of Pollution From Ships,
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 13}
+
+--------------------------------------------------------------------------------
+Chunk 34:
+Content: IBC = Intermediate Bulk Container
+IMDG = International Maritime Dangerous Goods
+LogPow = logarithm of the octanol/water partition coefficient
+MARPOL 73/78 = International Convention for the Prevention of Pollution From Ships,
+1973 as modified by the Protocol of 1978. ("Marpol" = marine pollution)
+UN = United Nations7/29/2015.02
+1National Fire Protection Association (U.S.A.)
+Health
+SpecialInstability/ReactivityFlammability
+Reprinted with permission from NFPA 704-2001, Identification of the Hazards of Materials for Emergency 
+Response Copyright ©1997, National Fire Protection Association, Quincy, MA 02269. This reprinted material is 
+not the complete and official position of the National Fire Protection Association, on the referenced subject 
+which is represented only by the standard in its entirety.
+Copyright ©2001, National Fire Protection Association, Quincy, MA 02269. This warning system is intended to 
+be interpreted and applied only by properly trained individuals to identify fire, health and reactivity hazards of 
+chemicals. The user is referred to certain limited number of chemicals with recommended classifications in 
+NFPA 49 and NFPA 325, which would be used as a guideline only. Whether the chemicals are classified by NFPA 
+or not, anyone using the 704 systems to classify chemicals does so at their own risk.
+THE INFORMATION IN THIS SAFETY DATA SHEET (SDS) WAS OBTAINED FROM SOURCES WHICH WE BELIEVE
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 13}
+
+--------------------------------------------------------------------------------
+Chunk 35:
+Content: or not, anyone using the 704 systems to classify chemicals does so at their own risk.
+THE INFORMATION IN THIS SAFETY DATA SHEET (SDS) WAS OBTAINED FROM SOURCES WHICH WE BELIEVE 
+ARE RELIABLE. HOWEVER, THE INFORMATION IS PROVIDED WITHOUT ANY WARRANTY, EXPRESSED OR 
+IMPLIED REGARDING ITS CORRECTNESS OR ACCURACY. SOME INFORMATION PRESENTED AND 
+CONCLUSIONS DRAWN HEREIN ARE FROM SOURCES OTHER THAN DIRECT TEST DATA ON THE SUBSTANCE 
+ITSELF. THIS SDS WAS PREPARED AND IS TO BE USED ONLY FOR THIS PRODUCT. IF THE PRODUCT IS USED 
+AS A COMPONENT IN ANOTHER PRODUCT, THIS SDS INFORMATION MAY NOT BE APPLICABLE. USERS 
+SHOULD MAKE THEIR OWN INVESTIGATIONS TO DETERMINE THE SUITABILITY OF THE INFORMATION OR 
+PRODUCTS FOR THEIR PARTICULAR PURPOSE OR APPLICATION.
+Date of issue/Date of revision :7/29/2015. 14/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 13}
+
+--------------------------------------------------------------------------------
+Chunk 36:
+Content: CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades
+Section 16. Other information
+CITGO is a registered trademark of CITGO Petroleum CorporationTHE CONDITIONS OR METHODS OF HANDLING, STORAGE, USE, AND/OR DISPOSAL OF THE PRODUCT ARE 
+BEYOND OUR CONTROL AND MAY BE BEYOND OUR KNOWLEDGE. FOR THIS AND OTHER REASONS, WE DO 
+NOT ASSUME RESPONSIBILITY AND EXPRESSLY DISCLAIM LIABILITY FOR ANY LOSS, DAMAGE OR EXPENSE 
+ARISING OUT OF OR IN ANY WAY CONNECTED WITH HANDLING, STORAGE, USE OR DISPOSAL OF THE 
+PRODUCT.
+Date of issue/Date of revision :7/29/2015. 15/15
+Metadata: {'source': 'pdf\\FUEL DIESEL FUEL ALL GRADES SDS.pdf', 'page': 14}
+
+--------------------------------------------------------------------------------

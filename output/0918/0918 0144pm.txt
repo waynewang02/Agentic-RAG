@@ -1,0 +1,129 @@
+1: What is the product identifier?
+{"answer": "CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades", "source": "Section 16. Other information"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "7/29/2015. 14/15", "source": "THE INFORMATION IN THIS SAFETY DATA SHEET (SDS) WAS OBTAINED FROM SOURCES WHICH WE BELIEVE ARE RELIABLE..."}
+
+3: What is the product description?
+{"answer": "CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades", "source": "Section 1"}
+
+4: Who is the manufacturer of the product?
+{"answer": "CITGO Petroleum Corporation", "source": "Section 16. Other information"}
+
+5: What is the emergency telephone number for the product?
+{"answer": "(832) 486-4700, (800) 424-9300", "source": "Section 1. Identification"}
+
+6: What are the hazard classifications associated with the product?
+{"answer": "FLAMMABLE LIQUIDS - Category 3, ACUTE TOXICITY: INHALATION - Category 4, SKIN CORROSION/IRRITATION - Category 2, SERIOUS EYE DAMAGE/ EYE IRRITATION - Category 2B, CARCINOGENICITY - Category 2, SPECIFIC TARGET ORGAN TOXICITY (REPEATED EXPOSURE) [central nervous system (CNS)] - Category 2, ASPIRATION HAZARD - Category 1", "source": "Section 2. Hazards identification"}
+
+7: What is the signal word used for the product?
+{"answer": "Danger", "source": "Section 2. Hazards identification"}
+
+8: What are the hazard statements related to the product?
+{"answer": "Flammable liquid and vapor. Harmful if inhaled. Causes skin and eye irritation. Suspected of causing cancer. May be fatal if swallowed and enters airways. May cause damage to organs through prolonged or repeated exposure.", "source": "Section 2. Hazards identification"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "Obtain special instructions before use. Wear protective gloves and eye/face protection. Keep away from heat, sparks, open flames and hot surfaces. - No smoking. Use explosion-proof electrical equipment. Use only non-sparking tools. Take precautionary measures against electrostatic discharges. Wash hands thoroughly after handling.", "source": "Prevention"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "Harmful if inhaled. Long-term exposure to diesel engine exhaust may cause cancer. May be fatal if swallowed and enters airways. Irritating to mouth, throat and stomach. Get medical attention immediately. Call a poison center or physician. Remove victim to fresh air and keep at rest in a position comfortable for breathing.", "source": "Section 4. First aid measures"}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Causes skin irritation.", "source": "Skin contact"}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "Causes eye irritation. Adverse symptoms may include the following: pain or irritation, watering, redness.", "source": "Eye contact"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "Get medical attention immediately. Call a poison center or physician. Wash out mouth with water. Remove dentures if any. Remove victim to fresh air and keep at rest in a position comfortable for breathing.", "source": "Section 4. First aid measures"}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Dry chemical, carbon dioxide (CO2), water spray (fog) or foam.", "source": "Section 5. Fire-fighting measures"}
+
+15: What are the special hazards arising from the substance during a fire?
+{"answer": "Flammable liquid and vapor. A pressure increase will occur and the container may burst, with the risk of a subsequent explosion. The vapor/gas is heavier than air and will spread along the ground. Vapors may accumulate in low or confined areas or travel a considerable distance to a source of ignition and flash back. Runoff to sewer may create fire or explosion hazard.", "source": "Section 5. Fire-fighting measures"}
+
+16: Are there any special fire handling procedures required for the product?
+{"answer": "Yes, use water spray to keep fire-exposed containers cool. Use dry chemical, carbon dioxide (CO₂), water spray (fog) or foam as extinguishing media.", "source": "Section 5. Fire-fighting measures and Section 9. Special hazards and accidental release measures"}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Stop leak if without risk. Move containers from spill area. Use spark-proof tools and explosion-proof equipment. Dilute with water and mop up if water-soluble. Alternatively, or if water-insoluble, absorb with an inert dry material and place in an appropriate waste disposal container.", "source": "Large spill: Stop leak if without risk."}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{"answer": "Obtain special instructions before use. Do not handle until all safety precautions have been read and understood. Use personal protective equipment as required. Wear protective gloves. Wear eye or face protection. Keep away from heat, sparks, open flames and hot surfaces. - No smoking. Use explosion-proof electrical, ventilating, lighting and all material-handling equipment. Use only non-sparking tools. Take precautionary measures against static discharge. Keep container tightly closed. Use only outdoors or in a well-ventilated area. Do not breathe vapor. Wash hands thoroughly after handling.", "source": "Prevention"}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "Use a properly fitted air-purifying or supplied-air respirator, chemical-resistant gloves complying with an approved standard, safety glasses equipped with side shields, and follow hygiene measures such as washing hands, forearms, and face thoroughly after handling the product. Additionally, use explosion-proof ventilation equipment, ensure proper footwear, and take precautions against static discharge.", "source": "Section 8. Exposure controls/personal protection"}
+
+20: What are the physical and chemical properties of the product?
+{"answer": "Liquid. Melting point: -30 to -18°C (-22 to -0.4°F). Vapor pressure: 0.845 [Air = 1], Vapor density: 0.27 kPa (2 mm Hg) at room temperature, Solubility in cold water: Very slightly soluble, Odor: Characteristic., pH: >3.3, Color: Colorless to light yellow or red, Boiling point/boiling range: 282 to 338°C (539.6 to 640.4°F), Viscosity Kinematic (room temperature): 0.03 cm2/s (3 cSt).", "source": "Section 9. Physical and chemical properties"}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "The product is stable. No hazardous reactions will occur under normal conditions of storage and use.", "source": "Section 5. Stability and Reactivity"}
+
+22: What are the possible hazardous decomposition products of the product?
+{"answer": "carbon monoxide and soot", "source": "Section 2. Hazards identification"}
+
+23: What is the toxicological information available for the product?
+{"answer": "May be fatal if swallowed and enters airways. Irritating to mouth, throat and stomach. May cause damage to organs through prolonged or repeated exposure. Suspected of causing cancer. Skin contact: irritation, redness. Eye contact: pain or irritation, watering, redness. Ingestion: nausea or vomiting. Inhalation: respiratory tract irritation and narcotic effects. Teratogenicity, reproductive toxicity not applicable. Trimethylbenzene, all isomers Category 3 for respiratory tract irritation and narcotic effects. Biphenyl Category 3 for respiratory tract irritation. Cumene Category 3 for respiratory tract irritation. Ethylbenzene Category 3 for respiratory tract irritation.", "source": "Section 11. Toxicological information"}
+
+24: What are the safety precautions and handling instructions for using the product?
+{"answer": "Obtain special instructions before use. Do not handle until all safety precautions have been read and understood. Use personal protective equipment as required. Wear protective gloves. Wear eye or face protection. Keep away from heat, sparks, open flames and hot surfaces. - No smoking. Use explosion-proof electrical, ventilating, lighting and all material-handling equipment. Use only non-sparking tools. Take precautionary measures against static discharge. Keep container tightly closed. Use only outdoors or in a well-ventilated area. Do not breathe vapor. Wash hands thoroughly after handling.", "source": "Prevention"}
+
+25: What are the potential hazards associated with the product?
+{"answer": "Flammable liquid and vapor; Harmful if inhaled; Causes skin and eye irritation; Suspected of causing cancer; May be fatal if swallowed and enters airways; May cause damage to organs through prolonged or repeated exposure. (central nervous system (CNS))", "source": "Section 2. Hazards identification"}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{"answer": "May be fatal if swallowed and enters airways. May cause damage to organs through prolonged or repeated exposure. Suspected of causing cancer.", "source": "Section 11. Toxicological information"}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{"answer": "Get medical attention. If necessary, call a poison center or physician. Maintain an open airway. Loosen tight clothing such as a collar, tie, belt or waistband.", "source": "Section 4. First aid measures"}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{"answer": "Wash hands thoroughly after handling. Protect skin from exposure.", "source": "Skin contact, Prevention"}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{"answer": "Causes eye irritation. Adverse symptoms may include the following: pain or irritation, watering, redness.", "source": "Eye contact"}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{"answer": "Get medical attention immediately. Call a poison center or physician. Wash out mouth with water. Remove dentures if any. Remove victim to fresh air and keep at rest in a position comfortable for breathing. Do not induce vomiting. If vomiting occurs, the head should be kept low so that vomit does not enter the lungs.", "source": "Section 4"}
+
+31: What is the waste disposal method for the product?
+{"answer": "Dispose of surplus and non-recyclable products via a licensed waste disposal contractor. Waste packaging should be recycled.", "source": "Section 13"}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Store in accordance with local regulations. Store in a segregated and approved area. Store in original container protected from direct sunlight in a dry, cool and well-ventilated area, away from incompatible materials and food and drink.", "source": "Section 7. Handling and storage"}
+
+33: What is the shelf life of the product?
+{"answer": "stable", "source": "Section 10. Chemical stability"}
+
+34: What are the composition and ingredients of the product?
+{"answer": "C9-C16 Petroleum Hydrocarbons; Ethyltoluene; Trimethylbenzene, all isomers; Naphthalene; Biphenyl; Cumene; Xylenes, mixed isomers; Ethylbenzene", "source": "Section 15. Regulatory information and Section 8."}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "Yes, incompatible with oxidizing materials and water.", "source": "Section 7. Handling and Storage and Section 10. Flammability"}
+
+36: What is the odor of the product?
+{"answer": "Characteristic. Odor", "source": "Section 9. Physical and chemical properties"}
+
+37: What is the boiling point of the product?
+{"answer": "282 to 338°C (539.6 to 640.4°F)", "source": "Section 9. Physical and chemical properties"}
+
+38: Is the product flammable?
+{"answer": "Yes", "source": "Section 9. Physical and chemical properties"}
+
+39: What is the solubility of the product?
+{"answer": "Very slightly soluble in cold water.", "source": "Section 9. Physical and chemical properties"}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "Yes, under normal conditions of storage and use. No decomposition products should be produced.", "source": "Section 10. Stability and reactivity"}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "Use process enclosures, local exhaust ventilation, other engineering controls to keep worker exposure below recommended/ statutory limits. Explosion-proof electrical equipment. Non-sparking tools. Chemical-resistant gloves. Safety glasses with side shields or splash goggles or full-face respirator. Respirators complying with an approved standard.", "source": "Environmental exposure controls, Personal protective equipment for the body, Eye/face protection, Respiratory protection"}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Absorbent material may pose the same hazard as the spilled product. Dispose of via a licensed waste disposal contractor. Inform the relevant authorities if the product has caused environmental pollution (sewers, waterways, soil or air).", "source": "Section 12 and Section 13"}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "No, some information presented and conclusions drawn herein are from sources other than direct test data on the substance itself.", "source": "Section 1"}
+

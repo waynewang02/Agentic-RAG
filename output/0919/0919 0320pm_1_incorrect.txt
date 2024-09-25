@@ -1,0 +1,54 @@
+Here are the incorrect answers along with the respective correct rates:
+
+Incorrect Answers:
+Question 7:
+
+Provided Answer: Non-flammable liquid
+Correct Answer: Not evaluated
+Source: Should be Section XV (Regulatory Information), not Section I.I.
+Question 8:
+
+Provided Answer: Highly flammable liquid and vapor. Toxic if inhaled.
+Correct Answer: Fire Hazard, Health Hazard, Reactivity
+Source: Should be Section I and Section III, not Section II.II.
+Question 13:
+
+Provided Answer: DO NOT induce vomiting because of danger of aspirating liquid into lungs. Seek medical attention.
+Source: The correct source is Section IV, not Section III.III.
+Question 14:
+
+Provided Answer: SMALL FIRE: Use DRY chemicals, CO2, water spray or foam. LARGE FIRE: Use water spray, fog or foam. DO NOT use water jet.
+Source: The correct source is Section V, not Section IV.IV.
+Question 16:
+
+Provided Answer: SMALL FIRE: Use DRY chemicals, CO2, water spray or foam. LARGE FIRE: Use water spray, fog or foam. DO NOT use water jet.
+Source: The correct source is Section V, not Section IV.IV.
+Question 19:
+
+Provided Answer: Wear appropriate chemically protective gloves, long sleeves, etc.
+Source: The correct source is Section VIII, not Section I.I.
+Question 22:
+
+Provided Answer: No information provided
+Correct Answer: May release COx, smoke, and irritating vapours when heated to decomposition.
+Source: The correct source is Section X.X, not Section XV.XV.
+Question 25:
+
+Provided Answer: Contact can cause slight irritation of skin, eyes, and respiratory tract. Extremely dangerous in case of ingestion.
+Source: Should be Section III and Section XI, not Section III.III.
+Question 29:
+
+Provided Answer: IMMEDIATELY flush eyes with running water for at least 15 minutes, keeping eyelids open. Seek medical attention.
+Source: The correct source is Section IV, not Section III.III.
+Question 33:
+
+Provided Answer: The document doesn’t have anything about it.
+Correct Answer: Not applicable (the product is stable).
+Question 43:
+
+Provided Answer: No
+Correct Answer: Yes, all components are listed on CEPA-DSL and US EPA-TSCA Inventory.
+Source: The correct source is Section XV.XV, not Section II.II.
+Correct Rates:
+Answer Correct Rate: 32/43
+Source Correct Rate: 32/43

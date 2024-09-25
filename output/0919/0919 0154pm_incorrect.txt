@@ -1,0 +1,33 @@
+Incorrect Answers:
+Question 6:
+
+Given Answer: "OSHA Hazards: Target Organ Effect, Harmful by ingestion, Irritant, Teratogen, Reproductive hazard."
+Correct Answer: This should include GHS Classification details: "Acute toxicity, dermal (Category 5), Acute toxicity, oral (Category 4), Skin Irritation (Category 3), Serious eye damage (Category 1), Reproductive toxicity (Category 2)."​(BRAKE_FLUID_DOT_3_MSDS).
+Incorrect Source: The given source, "SECTION 2," is incomplete; it should also refer to GHS Classification​(BRAKE_FLUID_DOT_3_MSDS).
+Question 7:
+
+Given Answer: "Signal Word: WARNING."
+Correct Source: The source should be SECTION 2: HAZARD(S) IDENTIFICATION, not "SECTION 5"​(BRAKE_FLUID_DOT_3_MSDS).
+Question 10:
+
+Given Source: "SECTION 9: FIRST AID MEASURES."
+Correct Source: This should be SECTION 4: FIRST AID MEASURES​(BRAKE_FLUID_DOT_3_MSDS).
+Question 12:
+
+Given Answer: "May cause slight eye irritation. May cause slight corneal injury."
+Correct Answer: The correct first aid measure is "Rinse cautiously with water for several minutes. Remove contact lenses if present and easy to do. Continue rinsing."​(BRAKE_FLUID_DOT_3_MSDS).
+Question 13:
+
+Given Source: "SECTION 1: IDENTIFICATION."
+Correct Source: This should be SECTION 4: FIRST AID MEASURES​(BRAKE_FLUID_DOT_3_MSDS).
+Question 25:
+
+Given Source: "SECTION 2: HAZARD(S) IDENTIFICATION, Signal Word, Hazard Statements."
+Correct Source: The correct source should be SECTION 11: TOXICOLOGICAL INFORMATION​(BRAKE_FLUID_DOT_3_MSDS).
+Question 38:
+
+Given Answer: "Yes."
+Correct Answer: The product is not flammable. The correct source is SECTION 5: FIRE-FIGHTING MEASURES​(BRAKE_FLUID_DOT_3_MSDS).
+Correct Rates:
+Answer Correct Rate: 36/43
+Source Correct Rate: 36/43

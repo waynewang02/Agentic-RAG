@@ -1,0 +1,40 @@
+1: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "GHS product identifier", "source": "Section 1. Identification"}
+
+2: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "7/29/2015, 5/15, 4/15, 14/15", "source": "Section 8. Exposure controls/personal protection and other sections"}
+
+3: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "Fuels, diesel, No 2; Treated or Refined Diesel Fuel No. 2; Grade 2 Distillate Fuel; Hydrodesulfurized Middle Distillate; C9-C16 Petroleum Hydrocarbons", "source": "Section 3. Composition/information on ingredients"}
+
+4: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "I don't know", "source": "N/A"}
+
+5: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "(800) 424-9300", "source": "Section 1. Identification: "}
+
+6: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "FLAMMABLE LIQUIDS - Category 3, ACUTE TOXICITY: INHALATION - Category 4, SKIN CORROSION/IRRITATION - Category 2, SERIOUS EYE DAMAGE/ EYE IRRITATION - Category 2B, CARCINOGENICITY - Category 2, SPECIFIC TARGET ORGAN TOXICITY (REPEATED EXPOSURE) [central nervous system (CNS)] - Category 2", "source": "Section 2. Hazards identification"}
+
+7: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "Danger", "source": "Section 2. Hazards identification"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "Flammable liquid and vapor. Harmful if inhaled. Causes skin and eye irritation. Suspected of causing cancer. May be fatal if swallowed and enters airways. May cause damage to organs through prolonged or repeated exposure. (central nervous system (CNS))", "source": "Hazard statements :"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Wear protective gloves, safety glasses and a respirator; use explosion-proof equipment and non-sparking tools; take precautionary measures against electrostatic discharges; wash hands thoroughly after handling; store in original container protected from direct sunlight in a dry, cool and well-ventilated area, away from incompatible materials.", "source": "Section 7. Handling and storage"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "Harmful if inhaled. Long-term exposure to diesel engine exhaust may cause cancer. May be fatal if swallowed and enters airways. Irritating to mouth, throat and stomach.", "source": "Section 4. First aid measures"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Wash contaminated skin with soap and water. Remove contaminated clothing and shoes. Continue to rinse for at least 10 minutes. Get medical attention. Wash clothing before reuse. Clean shoes thoroughly before reuse.", "source": "Section 4. First aid measures, Section 8."}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Immediately flush eyes with plenty of water, occasionally lifting the upper and lower eyelids. Check for and remove any contact lenses. Continue to rinse for at least 10 minutes. Get medical attention.", "source": "Section 8"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "Wash out mouth with water. Remove dentures if any. Remove victim to fresh air and keep at rest in a position comfortable for breathing. Aspiration hazard if swallowed. Can enter lungs and cause damage. Do not induce vomiting. If vomiting occurs, the head should be kept low so that vomit does not enter the lungs. Never give anything by mouth to an unconscious person. If unconscious, place in recovery position and get medical attention immediately. Maintain an open airway. Loosen tight clothing such as a collar, tie, belt or waistband.", "source": "Section 4. First aid measures"}
+
+14: Based on the following Safety Data Sheet, What are the suitable extinguishing media for a fire involving the product?

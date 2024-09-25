@@ -1,0 +1,39 @@
+1: What is the signal word used for the product?
+{"answer": "Not Required", "source": "HCS Printing date 08/15/2016 Reviewed on 06/17/2016 Version-No. 9"}
+
+2: What is the product identifier?
+{"answer": "KLEIBERIT 826.0", "source": "Trade name / Article No: "}
+
+3: When was the Safety Data Sheet issued?
+{"answer": "08/15/2016 / 8", "source": "Page 6/6 Safety Data Sheet acc. to OSHA HCS"}
+
+4: What is the product description?
+{"answer": "KLEIBERIT 826.0 (Contd. of page 5)", "source": "Trade name / Article No:"}
+
+5: Who is the manufacturer of the product?
+{"answer": "KLEIBERIT 826.0 (Contd. of page 5)", "source": "Trade name / Article No: KLEIBERIT 826.0"}
+
+6: What is the emergency telephone number for the product?
+{"answer": "I don't know", "source": "N/A"}
+
+7: What are the hazard classifications associated with the product?
+{"answer": "NOT REQUIRED, Not listed, Not applicable, Not required", "source": "HAZCOM LABEL, Proposition 65, EPA, DOT"}
+
+8: What are the hazard statements related to the product?
+{"answer": "Harm to aquatic life and Environmental hazard; Not required HAZCOM LABEL.", "source": "12.5. Results of PBT and vPvB assessment, 15.1. Safety, health and environmental regulations/ legislation specific for the substance or mixture"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "No special measures required.", "source": "7.1. Precautions for safe handling"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "Not available", "source": "Section 8: Exposure Controls/Personal Protection"}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Wear protective gloves. Remove contaminated clothing and shoes. Wash off immediately with soap and plenty of water.", "source": "Section 8: Personal Protection Equipment"}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "Flush with plenty of water and if irritation persists: Get medical attention.", "source": "Section 8: Exposure Controls/Personal Protection"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "No information available.", "source": "4. First aid measures"}
+

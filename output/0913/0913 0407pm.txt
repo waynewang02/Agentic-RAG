@@ -1,0 +1,39 @@
+1: What is the signal word used for the product?
+{"answer": "Danger", "source": "Hazard Statements"}
+
+2: What is the product identifier?
+{"answer": "KLEIBERIT 826.0 (Trade name / Article No: )", "source": "Safety Data Sheet"}
+
+3: When was the Safety Data Sheet issued?
+{"answer": "08/15/2016", "source": "Printing date"}
+
+4: What is the product description?
+{"answer": "KLEIBERIT 826.0, a polyethylene glycol-based spray adhesive.", "source": "Section 1: Identification of the substance and Section 9: Physical and chemical properties."}
+
+5: Who is the manufacturer of the product?
+{"answer": "3M", "source": "Page 1 of 12, Section header: 3M Hi-Strength Spray Adhesive 90"}
+
+6: What is the emergency telephone number for the product?
+{"answer": "Not available", "source": "Section 7.1"}
+
+7: What are the hazard classifications associated with the product?
+{"answer": "Extremely flammable aerosol, Contains gas under pressure; may explode if heated, Causes eye irritation, May cause respiratory irritation, May cause drowsiness or dizziness, May displace oxygen and cause rapid suffocation, Causes damage to organs: cardiovascular system", "source": "Hazard Statements, Pictograms"}
+
+8: What are the hazard statements related to the product?
+{"answer": "Extremely flammable aerosol. Contains gas under pressure; may explode if heated. Causes eye irritation. May cause respiratory irritation. May cause drowsiness or dizziness. May displace oxygen and cause rapid suffocation. Causes damage to organs: cardiovascular system.", "source": "Hazard Statements, Page 2 of 12 Symbols"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not inhale fumes. Wear self-contained respiratory protective device. Use in well ventilated area. Avoid skin and eye contact. Particular danger of slipping on leaked/spilled product.", "source": "Handling Precautions, First-aid measures, Fire-fighting measures"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "Remove person to fresh air and keep comfortable for breathing.", "source": "Response:IF INHALED"}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Generally the product does not irritate the skin.", "source": "First-aid measures"}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention.", "source": "Response"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "None mentioned on this label.", "source": "Page 4/6 * Toxicological information"}
+

@@ -1,0 +1,39 @@
+1: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "Danger", "source": "Symbols"}
+
+2: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "Page title"}
+
+3: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "01/05/17", "source": "First page of the SDS"}
+
+4: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "3M Hi-Strength Spray Adhesive 90", "source": "Page 11 of 12"}
+
+5: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "3M", "source": "Page 2 of 12 Symbols"}
+
+6: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "1-800-364-3577, 651-737-6501", "source": "SECTION 14: Transport Information"}
+
+7: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "Fire Hazard, Pressure Hazard, Immediate Hazard", "source": "Section 311/312 Hazard Categories"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "Extremely flammable aerosol. Contains gas under pressure; may explode if heated. Causes eye irritation. May cause respiratory irritation. May cause drowsiness or dizziness. May displace oxygen and cause rapid suffocation. Causes damage to organs: cardiovascular system", "source": "Hazard Statements, Section 16"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Keep out of reach of children. Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not spray on an open flame or other ignition source. Pressurized container: Do not pierce or burn, even after use. Do not breathe dust/fume/gas/mist/vapors/spray. Use only outdoors or in a well-ventilated area. Do not eat, drink or smoke when using this product. Wash thoroughly after handling.", "source": "Prevention, Response, Storage, Disposal"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "Remove person to fresh air and keep comfortable for breathing.", "source": "IF INHALED"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "No specific information is available in this section regarding skin contact. However, for general guidance see Prevention and Response sections.", "source": "SECTION 15: Personal Protection (Prevention) & SECTION 14: First aid measures (Response)"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention.", "source": "Page 2 of 12 Precautionary Statements"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "If eye irritation persists: Get medical advice/attention. IF exposed: Call a POISON CENTER or doctor/physician.", "source": "Precautionary Statements, Response"}
+

@@ -1,0 +1,39 @@
+1: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "Flammable, Eye Irritation, May cause drowsiness or dizziness, Extremely flammable aerosol. Contains gas under pressure; may explode if heated.", "source": "Hazard Statements"}
+
+2: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "SECTION 1: Identification"}
+
+3: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "01/05/17", "source": "SECTION 1"}
+
+4: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "Section 1: Identification"}
+
+5: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "3M", "source": "SECTION 1: Identification"}
+
+6: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "651-737-6501, 1-800-364-3577", "source": "SECTION 15: Regulatory information, SECTION 14: Transport Information"}
+
+7: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "Flammable aerosol, Gas cylinder explosion hazard, Eye irritation, Respiratory irritation, Drowsiness or dizziness, Rapid suffocation, Cardiovascular system damage.", "source": "Hazard Statements, Pictograms"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "Extremely flammable aerosol. Contains gas under pressure; may explode if heated. Causes eye irritation. May cause respiratory irritation. May cause drowsiness or dizziness. May displace oxygen and cause rapid suffocation. Causes damage to organs: cardiovascular system", "source": "Symbols, Hazard Statements"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Wear protective gear (e.g. gloves), keep out of reach of children, use only outdoors or in a well-ventilated area, avoid release to the environment, and avoid contact with oxidizing agents.", "source": "Section 7: Handling and Storage & Section 8: Exposure controls/personal protection"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "Remove person to fresh air and keep comfortable for breathing.", "source": "SECTION 7: Handling of package information / RESPONSE"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Do not get in eyes, on skin, or on clothing.", "source": "7.1 Conditions for safe handling"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention.", "source": "Response"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "No data available; calculated ATE > 5,000 mg/kg", "source": "Toxicological Data"}
+

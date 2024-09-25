@@ -1,0 +1,39 @@
+1: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "NO special measures required", "source": "7.1. Precautions for safe handling, 6.2. Environmental precautions"}
+
+2: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "KLEIBERIT 826.0", "source": "Trade name / Article No: KLEIBERIT 826.0"}
+
+3: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "08/15/2016", "source": "Page 6/6 Safety Data Sheet acc. to OSHA HCS Printing date"}
+
+4: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "KLEIBERIT 826.0, polyethylene glycol", "source": "Section 1: Identification"}
+
+5: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "KLEIBERIT", "source": "Trade name / Article No: KLEIBERIT 826.0"}
+
+6: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "1-800-424-9300 (CHEMTREC), 1-800-451-1403 (SARA-HOTLINE)", "source": "1.4. Emergency telephone number"}
+
+7: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "VOC - Volatile Organic Compounds; PBT: Persistent, Bioaccumulative and Toxic; vPvB: very Persistent and very Bioaccumulative", "source": "National regulations"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "Void", "source": "2.2. Label elements"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Particular danger of slipping on leaked/spilled product. Absorb with liquid-binding material (sand, diatomite, acid binders, universal binders, sawdust). Keep container tightly closed.", "source": "8. Precautions for safe handling, 6.3. Methods and material for containment and cleaning up"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "Not available", "source": "Section 8: Personal Protection Equipment"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Wash with soap and plenty of water. If skin irritation persists, consider seeking medical attention.", "source": "Section 8: Personal protection equipment"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Flush with water. If irritation persists seek medical attention.", "source": "8.2. Personal protection equipment"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "Rinse mouth with water. If symptoms persist, seek medical attention.", "source": "8.1. Information on basic first-aid measures"}
+

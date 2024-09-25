@@ -1,0 +1,129 @@
+1: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "ANTIFREEZE", "source": "Section I.I. Chemical Product and Company IdentificationMaterial Safety Data Sheet"}
+
+2: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "7/3/2001", "source": "Section XVI.XVI"}
+
+3: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "ANTIFREEZE, Universal Antifreeze, Radiator Antifreeze, Diesel Antifreeze, Petro-Canada Antifreeze-Coolant, Petro-Canada Heavy Duty Antifreeze-Coolant, Pre-Mix Antifreeze, Petro-Canada Premium Radiator Antifreeze", "source": "Section I.I. Chemical Product and Company Identification"}
+
+4: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "Petro-Canada", "source": "Section I.I. Chemical Product and Company Identification"}
+
+5: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "403-296-3000", "source": "I. Chemical Product and Company Identification"}
+
+6: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "Fire Hazard, Health Hazard, Reactivity", "source": "Section I, Section II"}
+
+7: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "Non-flammable liquid", "source": "Section I.I. Chemical Product and Company Identification"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "Highly flammable liquid and vapor. Toxic if inhaled.", "source": "Section II.II. Composition and Information on Ingredients"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Wear appropriate chemically protective gloves. When handling hot product ensure gloves are heat resistant and insulated. Wear appropriate clothing to prevent skin contact. As a minimum long sleeves and trousers should be worn. Eye protection (i.e., safety glasses, safety goggles and/or face shield) should be determined based on conditions of use. If product is used in an application where splashing may occur, the use of safety goggles and/or a face shield should be considered. Keep container dry. Keep container tightly closed. Keep in a cool, well-ventilated place. Avoid contamination with reactive substances.", "source": "Section VII.VII. Handling and Storage, Section VIII.VIII. Exposure Controls/Personal Protection"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "Evacuate the victim to a safe area as soon as possible. If the victim is not breathing, perform artificial respiration. Allow the victim to rest in a well ventilated area. Seek medical attention.", "source": "Section III"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Wash gently and thoroughly the contaminated skin with running water and non-abrasive soap. Seek medical attention.", "source": "Section IV.IV"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "IMMEDIATELY flush eyes with running water for at least 15 minutes, keeping eyelids open. Seek medical attention.", "source": "Section IV.IV"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "DO NOT induce vomiting because of danger of aspirating liquid into lungs. Seek medical attention.", "source": "Section III.III. Hazards Identification"}
+
+14: Based on the following Safety Data Sheet, What are the suitable extinguishing media for a fire involving the product?
+{"answer": "SMALL FIRE: Use DRY chemicals, CO2, water spray or foam. LARGE FIRE: Use water spray, fog or foam. DO NOT use water jet.", "source": "Section IV.IV. First Aid Measures"}
+
+15: Based on the following Safety Data Sheet, What are the special hazards arising from the substance during a fire?
+{"answer": "Carbon oxides (CO, CO2), smoke and irritating vapours as products of incomplete combustion.", "source": "Section IV.IV. First Aid Measures"}
+
+16: Based on the following Safety Data Sheet, Are there any special fire handling procedures required for the product?
+{"answer": "SMALL FIRE: Use DRY chemicals, CO2, water spray or foam. LARGE FIRE: Use water spray, fog or foam. DO NOT use water jet.", "source": "Section IV.IV. First Aid Measures and Section V.V. Fire-fighting Measures"}
+
+17: Based on the following Safety Data Sheet, How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Dilute with water and mop up or absorb with an inert DRY material and place in an appropriate waste disposal container. Absorb with an inert material and put the spilled material in an appropriate waste disposal.", "source": "Section VI.VI. Accidental Release Measures, Section VII.VII. Handling and Storage"}
+
+18: Based on the following Safety Data Sheet, What precautions should be taken for safe handling and storage of the product?
+{"answer": "Keep container dry. Keep container tightly closed. Keep in a cool, well-ventilated place. Avoid contamination with reactive substances. After handling, always wash hands thoroughly with soap and water. Wear appropriate footwear to prevent product from coming in contact with feet and skin. Wear appropriate chemically protective gloves. When handling hot product ensure gloves are heat resistant and insulated. Wear appropriate clothing to prevent skin contact.", "source": "Section VII.VII. Handling and Storage, Section VIII.Exposure Controls/Personal Protection"}
+
+19: Based on the following Safety Data Sheet, What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "Wear appropriate chemically protective gloves. When handling hot product ensure gloves are heat resistant and insulated., Where concentrations in air may exceed the occupational exposure limits given in Section 2 (and those applicable to your area) and where engineering, work practices or other means of exposure reduction are not adequate, NIOSH approved respirators may be necessary to prevent overexposure by inhalation., Wear appropriate clothing to prevent skin contact. As a minimum long sleeves and trousers should be worn., Eye protection (i.e., safety glasses, safety goggles and/or face shield) should be determined based on conditions of use. If product is used in an application where splashing may occur, the use of safety goggles and/or a face shield should be considered., Use ventilation to keep exposure to airborne contaminants below the exposure limit., Wear appropriate footwear to prevent product from coming in contact with feet and skin.", "source": "Section VIII.VIII. Exposure Controls/Personal Protection, Section VII.VII. Handling and Storage, Section VI.VI. Accidental Release Measures, Section I.I. Chemical Product and Company Identification"}
+
+20: Based on the following Safety Data Sheet, What are the physical and chemical properties of the product?
+{"answer": "Clear viscous liquid. 1.115 to 1.145 (Water = 1) 2.1 (Air=1). 0.06 mmHg @ 20°C (68ºF). Soluble in water, methanol and diethyl ether.", "source": "Section IX.IX. Physical and Chemical Properties"}
+
+21: Based on the following Safety Data Sheet, Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "stable but reactive with oxidizing agents, acids and alkalis", "source": "Section IX.IX. Physical and Chemical Properties and Section X.X. Stability and Reactivity"}
+
+22: Based on the following Safety Data Sheet, What are the possible hazardous decomposition products of the product?
+{"answer": "No information provided", "source": "Section XV/XV. Chemical Properties and Hazards"}
+
+23: Based on the following Safety Data Sheet, What is the toxicological information available for the product?
+{"answer": "Chronic or Other Toxic Effects include Dermal Route: Slightly hazardous in case of skin contact (irritant). Inhalation Route: Extremely dangerous in case of ingestion. Can cause nausea, headaches and vomiting. Oral Route: Slightly hazardous in case of inhalation (lung irritant). Eye Irritation/Inflammation: Slightly hazardous in case of eye contact (irritant). Immunotoxicity: Not available. Skin Sensitization: Not available. Respiratory Tract Sensitization: Not available. Mutagenic: Not available.", "source": "Section XI.XI. Toxicological Information"}
+
+24: Based on the following Safety Data Sheet, What are the safety precautions and handling instructions for using the product?
+{"answer": "Wear appropriate chemically protective gloves. When handling hot product ensure gloves are heat resistant and insulated. Wear appropriate clothing to prevent skin contact. As a minimum long sleeves and trousers should be worn. Eye protection (i.e., safety glasses, safety goggles and/or face shield) should be determined based on conditions of use.", "source": "Section VIII.VIII. Exposure Controls/Personal Protection"}
+
+25: Based on the following Safety Data Sheet, What are the potential hazards associated with the product?
+{"answer": "Contact can cause slight irritation of skin, eyes and respiratory tract. Extremely dangerous in case of ingestion.", "source": "Section III.III Hazards Identification"}
+
+26: Based on the following Safety Data Sheet, What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Chronic or Other Toxic Effects: The substance may be toxic to kidneys and liver. Repeated exposure can produce target organs damage and general deterioration of health. Can cause nausea, headaches, vomiting, slight irritation of skin, eyes, and respiratory tract.", "source": "Section III.III. Hazards Identification, Section XII.XII. Ecological Information, Section IV.IV"}
+
+27: Based on the following Safety Data Sheet, What are the emergency procedures in case of inhalation of the product?
+{"answer": "Evacuate the victim to a safe area as soon as possible. If the victim is not breathing, perform artificial respiration. Allow the victim to rest in a well ventilated area. Seek medical attention.", "source": "Section III"}
+
+28: Based on the following Safety Data Sheet, What are the emergency procedures in case of skin contact with the product?
+{"answer": "Remove contaminated clothing - launder before reuse. Wash gently and thoroughly the contaminated skin with running water and non-abrasive soap.", "source": "Section III.III. Hazards Identification"}
+
+29: Based on the following Safety Data Sheet, What are the emergency procedures in case of eye contact with the product?
+{"answer": "IMMEDIATELY flush eyes with running water for at least 15 minutes, keeping eyelids open. Seek medical attention.", "source": "Section III.III. Hazards Identification"}
+
+30: Based on the following Safety Data Sheet, What are the emergency procedures in case of ingestion of the product?
+{"answer": "DO NOT induce vomiting because of danger of aspirating liquid into lungs. Seek medical attention.", "source": "Section III.III. Hazards Identification."}
+
+31: Based on the following Safety Data Sheet, What is the waste disposal method for the product?
+{"answer": "recycle or reprocess; incineration with energy recovery; disposal at licensed waste disposal facility", "source": "Section XIII.XIII. Disposal Considerations"}
+
+32: Based on the following Safety Data Sheet, Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Keep container dry. Keep container tightly closed. Keep in a cool, well-ventilated place.", "source": "Section VI.VI. Accidental Release Measures and Section VII.VII. Handling and Storage"}
+
+33: Based on the following Safety Data Sheet, What is the shelf life of the product?
+{"answer": "The document doesnt have anything about it", "source": "N/A"}
+
+34: Based on the following Safety Data Sheet, What are the composition and ingredients of the product?
+{"answer": "Ethylene glycol and Sodium tetraborate pentahydrate", "source": "Section II.II. Composition and Information on Ingredients"}
+
+35: Based on the following Safety Data Sheet, Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "Reactive with oxidizing agents, acids and alkanis, Will not occur under normal working conditions.", "source": "Section IX.IX. Physical and Chemical Properties, Section X.X. Stability and Reactivity"}
+
+36: Based on the following Safety Data Sheet, What is the odor of the product?
+{"answer": "Odourless, Not available", "source": "Section IX.IX. Physical and Chemical Properties"}
+
+37: Based on the following Safety Data Sheet, What is the boiling point of the product?
+{"answer": "129 to 197°C (264 to 387°F)", "source": "Section IX.IX. Physical and Chemical Properties"}
+
+38: Based on the following Safety Data Sheet, Is the product flammable?
+{"answer": "Yes", "source": "Section IV.IV. First Aid Measures" and "Section V.V. Fire-fighting Measures"}
+
+39: Based on the following Safety Data Sheet, What is the solubility of the product?
+{"answer": "Soluble in water, methanol and diethyl ether.", "source": "Section IX.IX. Physical and Chemical Properties"}
+
+40: Based on the following Safety Data Sheet, Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "Yes, it is stable under normal working conditions. However, when heated to decomposition, it may release COx, smoke and irritating vapours.", "source": "Section X.X. Stability and Reactivity"}
+
+41: Based on the following Safety Data Sheet, What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "Engineering Controls: special ventilation is not necessary for normal application, but use ventilation to keep exposure to airborne contaminants below the exposure limit if vapours or mist are generated. Wear appropriate footwear, and ensure that eyewash station and safety shower are close to work-station. Personal Protection Equipment: wear appropriate chemically protective gloves, appropriate clothing to prevent skin contact, and eye protection (safety glasses, goggles, face shield) depending on conditions of use. Respiratory Protection: NIOSH approved respirators may be necessary to prevent overexposure by inhalation if concentrations in air exceed occupational exposure limits.", "source": "Section VII.VII. Handling and Storage, Section VIII.VIII. Exposure Controls/Personal Protection"}
+
+42: Based on the following Safety Data Sheet, Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Dispose of in accordance with regional regulations. Ensure that disposal or reprocessing is in compliance with government requirements and local disposal regulations.", "source": "Section XIII.XIII. Disposal Considerations"}
+
+43: Based on the following Safety Data Sheet, Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "No", "source": "Section II.II. Composition and Information on Ingredients"}
+

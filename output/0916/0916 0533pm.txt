@@ -1,0 +1,39 @@
+1: Based on the following Safety Data Sheet, What is the signal word used for the product?
+{"answer": "I don't know", "source": "N/A"}
+
+2: Based on the following Safety Data Sheet, What is the product identifier?
+{"answer": "Air Pollutants 0 % weight [Test Method: Calculated]", "source": "[Test Method: Calculated]" }
+
+3: Based on the following Safety Data Sheet, When was the Safety Data Sheet issued?
+{"answer": "I don't know", "source": "None"}
+
+4: Based on the following Safety Data Sheet, What is the product description?
+{"answer": "Air Pollutants 0 % weight [Test Method: Calculated]", "source": "[Ref Std: WATER=1], [Test Method: calculated SCAQMD rule 443.1]" }
+
+5: Based on the following Safety Data Sheet, Who is the manufacturer of the product?
+{"answer": "Contact 3M for more information.", "source": "15.2. State Regulations"}
+
+6: Based on the following Safety Data Sheet, What is the emergency telephone number for the product?
+{"answer": "None available", "source": "2.3. Hazards not otherwise classified"}
+
+7: Based on the following Safety Data Sheet, What are the hazard classifications associated with the product?
+{"answer": "Ignitable, Air Pollutant", "source": "EPA Hazardous Waste Number (RCRA), 2.3 Hazards not otherwise classified, Air Pollutants"}
+
+8: Based on the following Safety Data Sheet, What are the hazard statements related to the product?
+{"answer": "May cause additional health effects (see below). and May cause additional health effects (see below).", "source": "EPA Hazardous Waste Number (RCRA), N/A"}
+
+9: Based on the following Safety Data Sheet, What precautions should be taken while handling the product?
+{"answer": "Wear protective gloves and clothing when handling the product. In case of contact with skin, wash immediately with plenty of water.", "source": "SECTION 11: Toxicological information"}
+
+10: Based on the following Safety Data Sheet, What are the first aid measures in case of inhalation?
+{"answer": "No specific first aid measure is mentioned for inhalation.", "source": "SECTION 4: First aid measures"}
+
+11: Based on the following Safety Data Sheet, What are the first aid measures in case of skin contact?
+{"answer": "Wash thoroughly after handling.", "source": "General"}
+
+12: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Wash thoroughly after handling.", "source": "General: Keep out of reach of children. Prevention:"}
+
+13: Based on the following Safety Data Sheet, What are the first aid measures in case of ingestion?
+{"answer": "Wash thoroughly after handling, Specific treatment (see Notes to Physician on this label).", "source": "Prevention, Response"}
+
