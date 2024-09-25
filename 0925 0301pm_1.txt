@@ -1,0 +1,3 @@
+1: Based on the following Safety Data Sheet, What are the first aid measures in case of eye contact?
+{"answer": "Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing", "source": "Section 4: First Aid Measures"}
+

@@ -5,7 +5,7 @@ Content: SAFETY DATA SHEET
  
  
  
-Section 1: Identification 
+Section 1:1: Identification 
 Product Name: Marks -A-Lot Permanent Markers Inks 
  
 Manufacturer Information 
@@ -20,7 +20,7 @@ This product bears the AP (Approved Product -Non -Toxic) seal of The Art & Creat
 (ACMI). These products are certified by a medical expert to contain no materials in sufficient quantities to be toxic 
 or injurious to humans or to cause acute or chronic health problems . 
  
-Section 2: Hazard(s) Identification 
+Section 2:2: Hazard(s) Identification 
  
 Classification in accordance with paragraph (d) of 29 CFR 1910.1200. 
 Serious Eye Damage – Category 1 
@@ -57,7 +57,7 @@ Response
 Rinse skin with water [or shower]. Take off immediately all contaminated clothing. IF IN EYES. Rinse cautiously with 
 water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing 
  
-Section 3: Composition/Information on Ingredients 
+Section 3:3: Composition/Information on Ingredients 
  
 Ingredient CAS # PEL/TLV 
 (MG/M#) Max 
@@ -66,11 +66,11 @@ None
 N-Propanol 71-23-8 N/A 87.00000 N N 
  
  
-Section 4: First Aid Measures 
+Section 4:4: First Aid Measures 
  
 FIRST AID MEASURES: NONE REQUIRED. NO ACUTE HEALTH EFFECT S EXPECTED 
  
-Section 5: Fire -Fighting Measures 
+Section 5:5: Fire -Fighting Measures 
  
 FLASH POINT (METHOD): N/A AUTOIGNITION TEMPERATURE: N/A 
 EXPLOSION LIMITS IN AIR ( % BY VOLUME): NOT EXPLOSIVE 
@@ -78,27 +78,25 @@ EXTINGUISHING MEDIA: NO SPECIAL ME DIA REQUIRED
 FIRE FIGHTING PROCEDURES: NO S PECIAL FIRE FIGHTING PROCEDURES REQUIRED 
 UNUSUAL FIRE & EXPLOSION HAZARDS: NOT COMBUSTIBLE 
  
-Section 6: Accidental Release Measures 
+Section 6:6: Accidental Release Measures 
  
 STEPS TO BE TAKEN IN CASE A MATERIAL IS SPILLED: Clean up in accordance with all applicable regulations. Absorb 
-spillage with non -combustible , absorbent material. For waste disposal, see Section 13. 
+spillage with non -combustible , absorbent material. For waste disposal, see Section 13.13. 
  
-Section 7: Handling and Storage 
- 
-PRECAUTION TO BE TAKEN DURING HANDLING AND STORAGE: Good indus trial hygiene practices requires that
+Section 7:7
 Metadata: {'source': 'pdf\\AVERY MARKS-A-LOT BLACK PERMANENT MARKER MSDS.pdf', 'page': 1}
 
 --------------------------------------------------------------------------------
 Chunk 3:
-Content: spillage with non -combustible , absorbent material. For waste disposal, see Section 13. 
+Content: Section 13.13. 
  
-Section 7: Handling and Storage 
+Section 7:7: Handling and Storage 
  
 PRECAUTION TO BE TAKEN DURING HANDLING AND STORAGE: Good indus trial hygiene practices requires that 
 exposure be maintained below the TLV. This is preferably achieved through the provision of adequate ventilation. 
 When exposure cannot be adequately controlled in this way, personal respiratory protection should be empl oyed. 
  
-Section 8: Exposure Controls/Personal Protection 
+Section 8:8: Exposure Controls/Personal Protection 
  
 RESPIRATORY PROTECTION AND SPECIAL VENTILATION REQUIREMENTS: NONE REQUIRED 
 OTHER PROTECTIVE EQUIPMENT (GLO VES, GOG GLES, ETC): NONE REQUIRED
@@ -115,7 +113,7 @@ Content: SAFETY DATA SHEET
 WORK/HYGIENE PRACTICES: NONE REQUIRED 
 ENGINEERING CONTROL S: NONE REQUIRED 
  
-Section 9: Physical and Chemical Properties 
+Section 9:9: Physical and Chemical Properties 
  
 BOILING POINT: N/A 
 MELTING POINT: N/A 
@@ -132,7 +130,7 @@ STABILITY: STABLE CONDITIONS TO AVOID: NONE
 INCOMPATIBILITY (MATERIALS TO AVOID): NONE 
 HAZARDOUS DECOMPOSITION PRODUCTS: NONE 
  
-Section 11: Toxicological Information 
+Section 11:11: Toxicological Information 
  
 ACUTE EFFECTS ASSOCIATED WITH THE USE OF THIS MATERIAL: NONE EXPECTED 
 The summated LD50 is >50000 mg/kg 
@@ -194,7 +192,7 @@ UNDER CPSC’s CONSUMER PRODUCT REGULATIONS (16CFR1500.3 A ND 150014), THIS PROD
 FOLLOWING REQUIRED ACUTE AND CHRONIC HAZARD LABELING: 
 NONE 
  
-Section 16: Other Information 
+Section 16:16: Other Information 
  
 LAST REVISION DATE: 05/15/2015 
  

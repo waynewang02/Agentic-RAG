@@ -1,8 +1,11 @@
 from rag_system import RAGSystem
 import time
 from datetime import datetime
+import pandas as pd
 start_time = time.time()
 current_time = datetime.now().strftime('%m%d %I%M%p').lower()
+
+
 
 method = 0
 # 0 = origin, 1 = rewrite question & split by section
@@ -57,10 +60,13 @@ def main():
         "Can the specific chemical identity or exact percentage of the composition be disclosed for the product?"
     ]
 
-    # questions = ["Who is the Supplier of the product?"]    
+    questions = ["What are the first aid measures in case of eye contact?"]    
 
     cnt = 1
     with open(filename + '.txt', 'w', encoding="utf-8") as file:
+
+        Answer = pd.DataFrame({"Prompt":[],"Answer":[]})
+
         for question in questions:
             if(method):
                 question = "Based on the following Safety Data Sheet, " + question
@@ -70,9 +76,12 @@ def main():
             file.write(f"{response}\n")
             print(str(cnt) + ": " + question)  # Convert cnt to string
             print(response)
+            Answer = Answer._append({"Prompt":[question],"Answer":[response]},ignore_index=True)
             cnt+=1
-            
+        
+        Answer.to_csv("Answer_" + filename + ".csv")
     print("\n--- Total %s seconds ---" % (time.time() - start_time))
+    
 
 if __name__ == "__main__":
     main()

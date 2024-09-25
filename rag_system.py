@@ -1,5 +1,6 @@
 from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_text_splitters import TokenTextSplitter
 from langchain.schema.document import Document
 from langchain_community.embeddings import OllamaEmbeddings
 # from langchain.vectorstores.chroma import Chroma
@@ -63,6 +64,7 @@ class RAGSystem:
 
     def _setup_collection(self):
         pages = self._load_documents()
+        print(pages)
         chunks = self._document_splitter(pages)
         chunks = self._get_chunk_ids(chunks)
         vectordb = self._initialize_vectorDB()
@@ -106,7 +108,8 @@ class RAGSystem:
     
     def _retrieve_context_from_query(self, query_text):
         vectordb = self._initialize_vectorDB()
-        context = vectordb.similarity_search_with_score(query_text, k=4)
+        context = vectordb.similarity_search_with_score(query_text, k=2)
+
         return context
     
     def _get_prompt(self, query_text):
@@ -126,18 +129,22 @@ class RAGSystem:
     def _load_documents(self):
         loader = PyPDFDirectoryLoader(self.data_directory)
         pages = loader.load()
+        text = [Document("")]
         # Clean the content of each page
         for page in pages:
             page.page_content = self._clean_text(page.page_content)
+            text[0].page_content += page.page_content
+            text[0].metadata = page.metadata
         
-        return pages
+        return text
 
     def _document_splitter(self, documents):
         if self.method == 0:
             splitter = RecursiveCharacterTextSplitter(
                 chunk_size=1500,
-                chunk_overlap=250,
+                chunk_overlap=600,
                 length_function=len,
+                separators=[]
             )
         elif self.method == 1:
             splitter = RecursiveCharacterTextSplitter(
